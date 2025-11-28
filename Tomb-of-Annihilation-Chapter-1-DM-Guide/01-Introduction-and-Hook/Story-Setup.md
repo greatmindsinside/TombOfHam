@@ -8,6 +8,8 @@
 
 The Death Curse affects the entire world - anyone who was ever resurrected is now slowly withering away, and new resurrection magic fails. The curse is tied to a necromantic artifact called the **Soulmonger**, located in Chult. The party is hired by **Syndra Silvane** *(Dramatis Personae: **p. 4***, *meeting scene: **pp. 7-8**)*, a former adventurer dying from the curse, who offers payment and teleports them to Chult to find and destroy the Soulmonger.
 
+**Location:** Wherever the party begins (tavern, meeting hall, or other starting location)
+
 ## What to Say
 
 > "You've heard rumors of a terrible curse spreading across Faerûn - the dead stay dead, and those brought back to life are withering away. Resurrection magic has failed worldwide. A desperate woman named Syndra Silvane approaches your party. She explains that she's dying from this 'Death Curse' and knows its source: a necromantic artifact called the Soulmonger, hidden in the jungles of Chult.

@@ -9,6 +9,8 @@
 
 Once the party agrees to the quest, Syndra performs the teleportation ritual.
 
+**Location:** Teleportation Platform, Port Nyanzaru Harbor (arrival point)
+
 ## What to Say
 
 > "Syndra nods solemnly and begins an arcane ritual. She traces glowing runes in the air, and you feel a strange tugging sensation, as if reality itself is being pulled apart. The world dissolves into swirling colors and sensations...

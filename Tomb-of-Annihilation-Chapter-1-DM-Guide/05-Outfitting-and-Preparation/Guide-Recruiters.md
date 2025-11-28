@@ -32,6 +32,32 @@
 
 Guide recruiters serve as an introduction to the guide selection process. They can be found in various locations (taverns, markets, docks) and actively approach newcomers. Use recruiters to present 2-3 guide options initially, making the selection process more accessible. Recruiters may have their own agendas (commissions, specific guide preferences) but should provide useful information. This is a natural way to introduce the guide selection process without requiring players to seek out Merchant Prince Kwayothe's office. Guide choice heavily influences Act 2 destinations and encounters.
 
+---
+
+## Complete Essential Information Delivery
+
+If players need all essential information about guide recruiters at once, use this comprehensive delivery:
+
+**What to Say (Complete Essential Info):**
+
+> "A guide recruiter approaches you with a professional smile. 'New to Port Nyanzaru, are you? Planning an expedition into the jungle? Let me tell you what you absolutely must know:
+>
+> **First, guides are essential:** The jungle has no roads, no clear paths. Without a guide who knows the terrain, you'll get lost. Getting lost means wasted days, wasted supplies, and increased danger. A guide isn't optional - it's essential for survival. Even experienced adventurers can get lost or killed without proper guidance.
+>
+> **Second, what recruiters do:** We represent guides and help match expeditions with the right guide. We can introduce you to guides with different specialties - some know specific regions, others have connections with tribes or factions. We can arrange interviews, provide information about guide reputations, and help you make an informed choice.
+>
+> **Third, guide options:** Each guide has their own methods, knowledge, and specialties. Some know the rivers, some know the ruins, some know the tribes. Some are professional and reliable, others have hidden agendas. You need to choose based on where you want to go and what you want to accomplish. This is one of the most important decisions you'll make.
+>
+> **Fourth, the cost:** Guides typically charge 50-100 gp upfront, plus a share of any treasure found. This is a significant investment, but it's worth every coin. A good guide will save your life multiple times. A bad guide might cost you everything.
+>
+> **Fifth, how to choose:** Interview guides carefully. Ask about their experience, their methods, and what they expect from you. Use skill checks to verify their reputations and detect hidden agendas. Don't just take our word for it - do your own research. Your lives may depend on this choice.
+>
+> I can introduce you to several excellent guides right now, each with different specialties. Would you like to hear about them?'"
+
+**When to Use This:** If players encounter a recruiter but need comprehensive information, if they're uncertain about the importance of guides, or after a very successful Investigation check (DC 18+)
+
+---
+
 ## Skill Checks
 
 ### Perception/Investigation Checks
@@ -148,6 +174,69 @@ Guide recruiters serve as an introduction to the guide selection process. They c
 
 "'Each guide has their own methods, their own knowledge, and their own specialties. Some know the rivers, some know the ruins, some know the tribes. Choose based on where you want to go and what you want to accomplish. But remember - this is one of the most important decisions you'll make. Your lives may depend on it.'"
 
+---
+
+## Encounter: The Street Recruiter
+
+Use this encounter when players are exploring Port Nyanzaru and haven't yet sought out guides through official channels.
+
+**Location:** Streets of Port Nyanzaru, Grand Souk Market, or Harbor (Docks)
+
+### Encounter Setup
+
+A guide recruiter approaches players on the street, in a market, or near the docks, recognizing them as newcomers who need guidance.
+
+### Encounter Dialogue
+
+> "As you navigate the bustling streets of Port Nyanzaru, a well-dressed individual with a leather satchel full of maps and documents steps into your path. They have the confident bearing of someone who knows the city well, and their eyes quickly assess your gear and bearing.
+>
+> 'Excuse me,' they say with a friendly but professional smile. 'I couldn't help but notice you're new to Port Nyanzaru. Planning an expedition into the jungle, are you? My name is [Recruiter Name], and I represent some of the finest guides in Chult. The jungle is no place for the unprepared - I've seen too many expeditions fail because they didn't have proper guidance. But I can help you find the right guide for your needs.'
+>
+> They open their satchel, revealing maps, guide profiles, and what appears to be a ledger of past expeditions. 'I have three excellent guides available right now, each with different specialties. Would you like to hear about them? I can arrange a meeting today if you're interested.'"
+
+### Encounter Options
+
+1. **Listen to the pitch** - Hear about available guides
+2. **Ask questions** - Inquire about guide experience and specialties
+3. **Use skill checks** - Investigate recruiter reliability, read their motivations
+4. **Request to meet guides** - Ask for direct interviews
+5. **Negotiate terms** - Try to get better deals or more information
+6. **Decline politely** - Say you'll seek guides through official channels
+
+### Encounter Skill Checks
+
+**DC 12 Perception Check**: Observe the recruiter for signs of professionalism
+
+- **Success**: "You notice the recruiter's equipment is well-maintained, their documents appear organized, and they carry themselves with confidence. They seem like a legitimate professional, though you can't be certain about their specific recommendations."
+- **Failure**: "The recruiter seems friendly and professional, but you can't determine if they're truly reliable or just a good salesperson."
+- **Critical Success (17+)**: "Your observation is keen: you notice the recruiter has genuine credentials, their documents show real expedition records, and their bearing suggests legitimate experience. You can identify which aspects of their pitch are genuine versus which might be salesmanship."
+
+**DC 13 Investigation Check**: Verify the recruiter's credentials and guide reputations
+
+- **Success**: "By examining their documents and asking around, you can verify the recruiter is legitimate and learn about the guides they're promoting. You can identify which guides have good reputations and which might be risky choices."
+- **Failure**: "The recruiter's credentials are difficult to verify, and you can't determine the reliability of their recommendations."
+- **Critical Success (18+)**: "Your investigation reveals detailed information: you learn the recruiter is associated with [organization], verify the guides' reputations and success rates, discover which guides are genuinely recommended versus which the recruiter is pushing for commissions, and even find information about guides not initially presented. You can make a highly informed decision."
+
+**DC 11 Insight Check**: Detect the recruiter's true motivations
+
+- **Success**: "You can sense the recruiter is genuinely trying to help you find a good guide, though they may have preferences based on commissions or relationships. They seem honest but may emphasize certain guides over others."
+- **Failure**: "The recruiter seems helpful, but you can't determine their true motivations or if they're being completely honest."
+- **Critical Success (16+)**: "Your insight is sharp: you can detect the recruiter's specific motivations (genuine helpfulness mixed with commission-seeking), identify which guides they genuinely recommend versus which they're pushing for personal gain, sense their relationships with different guides, and even predict how they'll react to your questions. You can navigate the interaction to get the most honest information."
+
+### Reward
+
+- **Access to Guide Options** - Information about 2-3 available guides
+- **Potential Meeting Arrangement** - Recruiter can arrange interviews
+- **Information** - Insights about guide specialties and jungle dangers
+- **Relationship** - Potential ongoing contact with recruiter
+
+### Using This Encounter
+
+- **If players haven't sought guides yet**: Use this to introduce the guide selection process
+- **If players are exploring the city**: Natural way to encounter guide recruiters
+- **If players want quick access**: Provides immediate guide options without visiting official offices
+- **If players are cautious**: Skill checks help verify recruiter reliability
+
 ## Navigation
 
 ### Next Steps
@@ -162,5 +251,7 @@ Guide recruiters serve as an introduction to the guide selection process. They c
 - [Hiring-Guides.md](./Hiring-Guides.md) - Complete guide selection with all options and stats
 - [Key-NPCs.md](../03-City-Exploration-and-Social-Play/Key-NPCs.md) - Meet Merchant Prince Kwayothe
 - [Gathering-Information.md](../03-City-Exploration-and-Social-Play/Gathering-Information.md) - Research guide reputations
+- [Jungle-Dangers-Understanding.md](../06-Chapter-Transition/Jungle-Dangers-Understanding.md) - Understanding why guides are essential
+- [Chapter-Exit-Conditions.md](../06-Chapter-Transition/Chapter-Exit-Conditions.md) - Verify you have everything needed
 - [City-Activities.md](../04-Side-Quests-and-Activities/City-Activities.md) - Find recruiters in various locations
 - [City-Overview.md](../02-Arrival-in-Port-Nyanzaru/City-Overview.md) - Return to city hub

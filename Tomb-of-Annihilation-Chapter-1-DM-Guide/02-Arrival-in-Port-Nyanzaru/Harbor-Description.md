@@ -8,6 +8,8 @@
 
 Read this description aloud as the party arrives and takes in their surroundings.
 
+**Location:** Port Nyanzaru Harbor
+
 ## What to Say
 
 > "The port of Port Nyanzaru is a riot of color and activity. Brightly painted buildings in every hue line the waterfront - turquoise, crimson, gold, and emerald structures that seem to glow in the tropical sun. The air shimmers with heat and humidity, carrying the mingled scents of salt water, exotic spices, and something earthy and reptilian.

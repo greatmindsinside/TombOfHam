@@ -30,6 +30,32 @@
 
 Present the charter as a smart precaution but not strictly required. Use it to show the official power structure and provide legal protection. The charter is free but may come with expectations or obligations. Balance benefits with potential complications. Use the charter process to provide information about expedition regulations or jungle dangers. Can lead to Flaming Fist encounters later. Emphasizes that the party is on a legitimate mission. Don't force players to get it - make it an option they can choose. Present as a smart precaution. Use to show official power structure. Can lead to Flaming Fist encounters later. Balance benefits with potential obligations or expectations.
 
+---
+
+## Complete Essential Information Delivery
+
+If players need all essential information about the expedition charter at once, use this comprehensive delivery:
+
+**What to Say (Complete Essential Info):**
+
+> "The Flaming Fist captain looks up from his reports. 'So you want an expedition charter. Let me tell you what you need to know:
+>
+> **First, what the charter is:** The charter is an official document that recognizes you as legitimate explorers, not looters or treasure hunters. It provides legal protection against being treated as criminals by Flaming Fist patrols and local authorities. It's free, but it comes with expectations.
+>
+> **Second, what it provides:** The charter gives you legal protection, easier access to some locations, and potential support from Flaming Fist outposts. It won't make the jungle safer, but it might keep opportunistic locals off your back. It also shows you're on a legitimate mission, which can help with certain NPCs and factions.
+>
+> **Third, what it requires:** You need to explain your expedition purpose - ideally, dealing with the Death Curse and finding the Soulmonger. You need to provide reasonable assurances of peaceful intent. And you need to understand that the Flaming Fist will be watching your activities. Abuse this privilege, and you'll answer to them.
+>
+> **Fourth, is it required:** No, the charter is optional. It's a smart precaution, but not strictly necessary. Many expeditions go without it. However, it can make your journey easier and provide valuable legal protection.
+>
+> **Fifth, how to get it:** Visit the Flaming Fist headquarters in Goldenthrone Palace. Answer questions about your expedition purpose honestly. Provide reasonable assurances of peaceful intent. Get approval from the local commander. The process is straightforward if your purpose is legitimate.
+>
+> The charter won't protect you from the jungle, but it might protect you from other dangers. It's your choice whether it's worth the potential obligations.'"
+
+**When to Use This:** If players are considering getting a charter but need comprehensive information, if they're uncertain about its value, or after a very successful Investigation check (DC 18+)
+
+---
+
 ## Skill Checks
 
 ### Perception/Investigation Checks
@@ -111,6 +137,62 @@ The charter provides legal protection against being treated as looters or treasu
 - Useful for players who want to play it safe
 - Can create complications if abused (Flaming Fist expectations)
 
+---
+
+## Encounter: The Charter Application
+
+Use this encounter when players decide to apply for an expedition charter from the Flaming Fist.
+
+**Location:** Flaming Fist Headquarters, Goldenthrone Palace, Port Nyanzaru
+
+### Encounter Setup
+
+Players visit the Flaming Fist headquarters in Goldenthrone Palace to apply for an official expedition charter.
+
+### Encounter Dialogue
+
+> "The Flaming Fist headquarters is a well-organized military facility within Goldenthrone Palace. Guards in distinctive red and gold uniforms stand at attention, and the halls echo with the sounds of military efficiency. You're directed to a waiting area where several other groups are also seeking charters.
+>
+> After a short wait, a clerk calls your name and leads you to Captain [Name]'s office. The captain is a middle-aged human with a stern expression and the bearing of someone who's seen combat. His office is functional and military - maps cover the walls, reports are stacked on his desk, and weapons and armor are displayed as both decoration and warning.
+>
+> 'So,' he says, looking up from a report. 'You want an expedition charter. Tell me: what's your purpose in the jungle? And don't say treasure hunting - we've had enough of that.'"
+
+### Encounter Options
+
+1. **Explain the mission** - Describe the quest to find the Soulmonger
+2. **Mention Merchant Prince connections** - Reference any connections to city leadership
+3. **Emphasize legitimate purpose** - Stress that this is about the Death Curse, not looting
+4. **Use skill checks** - Persuasion to build rapport, Insight to read the captain
+5. **Answer questions directly** - Provide honest information about expedition goals
+
+### Encounter Skill Checks
+
+**DC 13 Persuasion Check**: Convince the captain of your legitimate purpose
+
+- **Success**: "The captain's expression softens slightly. 'The Death Curse - yes, we've heard about that. A legitimate concern. Very well, I'll grant you a charter. It won't protect you from the jungle, but it will protect you from being treated as looters by our patrols and the locals. Just remember: this charter comes with expectations. We'll be watching your activities.'"
+- **Failure**: "The captain remains skeptical. 'Many have claimed noble purposes before. I'll grant the charter, but I'll be watching. Don't abuse this privilege.'"
+- **Critical Success (18+)**: "The captain becomes genuinely supportive. 'The Death Curse affects us all. I'll grant you the charter and provide you with a letter of introduction to our outposts. They'll provide assistance if you need it. Just remember: we expect you to act with honor.'"
+
+**DC 12 Insight Check**: Read the captain's true concerns
+
+- **Success**: "You sense the captain is genuinely concerned about maintaining order and preventing looting, but he's also worried about the Death Curse's impact. He wants to help legitimate expeditions while preventing abuse."
+- **Failure**: "The captain seems professional but guarded, and you can't determine his true motivations."
+- **Critical Success (17+)**: "You detect that the captain is genuinely supportive of your mission but has concerns about recent expeditions that claimed noble purposes but turned to looting. He's also worried about the Death Curse's growing impact and wants to help those who can actually do something about it."
+
+### Reward
+
+- **Expedition Charter** - Official document granting legal protection
+- **Potential Benefits** - Access to Flaming Fist outposts, reduced encounters with patrols
+- **Information** - Captain may share warnings about jungle dangers or recent threats
+- **Relationships** - Positive relationship with Flaming Fist (if successful checks)
+
+### Using This Encounter
+
+- **If players want legal protection**: Use this encounter to provide the charter
+- **If players have Merchant Prince connections**: Mentioning them may help with Persuasion checks
+- **If players are honest about their purpose**: Make the process smoother
+- **If players seem suspicious**: The captain may be more cautious but still grant the charter
+
 ## Navigation
 
 ### Next Steps
@@ -125,5 +207,6 @@ The charter provides legal protection against being treated as looters or treasu
 - [Supplies-and-Gear.md](./Supplies-and-Gear.md) - Buy expedition supplies
 - [Hiring-Guides.md](./Hiring-Guides.md) - Hire jungle guides
 - [Power-Structure.md](../03-City-Exploration-and-Social-Play/Power-Structure.md) - Understand Flaming Fist politics
+- [Optional-Preparations.md](../06-Chapter-Transition/Optional-Preparations.md) - Optional but recommended preparations
 - [Chapter-Exit-Conditions.md](../06-Chapter-Transition/Chapter-Exit-Conditions.md) - Verify you have everything needed
 - [City-Overview.md](../02-Arrival-in-Port-Nyanzaru/City-Overview.md) - Return to city hub

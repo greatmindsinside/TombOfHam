@@ -31,6 +31,34 @@
 
 Guide choice heavily influences Act 2 destinations and encounters. Present 3-4 options with distinct personalities. Make players feel the weight of this decision - it's one of the most important choices in Chapter 1. Encourage players to ask questions and interview guides. Each guide should have 1-2 secrets or agendas. Use skill checks to reveal information that helps players make informed decisions. Don't make any guide obviously "best" - each should have pros and cons. Guide choice affects available paths and encounters significantly. Guides provide local knowledge and survival skills. Make each guide's personality and methods distinct.
 
+---
+
+## Complete Essential Information Delivery
+
+If players need all essential information about hiring guides at once, use this comprehensive delivery:
+
+**What to Say (Complete Essential Info):**
+
+> "Kwayothe gestures to several figures waiting in the antechamber. 'These are some of the best guides available in Port Nyanzaru. Each knows different parts of Chult and has their own... methods. They've all survived multiple expeditions, which is more than can be said for many who venture into the jungle.'
+>
+> She pauses, her expression serious. 'Let me tell you what you absolutely must know about guides:
+>
+> **First, guides are essential - not optional:** The jungle has no roads, no clear paths. Without a guide who knows the terrain, you'll get lost. Getting lost means wasted days, wasted supplies, and increased danger. A guide isn't a luxury - it's essential for survival. Even experienced adventurers can get lost or killed without proper guidance.
+>
+> **Second, each guide is different:** Every guide has their own specialties, methods, and knowledge. Some know specific regions, others have connections with tribes or factions. Some are river guides, others know the jungle interior. Some are professional and reliable, others have hidden agendas. You need to choose based on where you want to go and what you want to accomplish.
+>
+> **Third, guide choice matters:** This is one of the most important decisions you'll make. The wrong guide can lead you into danger or abandon you when things get tough. The right guide can mean the difference between life and death. Interview them carefully. Ask about their experience, their methods, and what they expect from you. Use skill checks to verify their reputations and detect hidden agendas.
+>
+> **Fourth, what guides provide:** Guides provide navigation, survival skills, local knowledge, and connections. They know the dangers, the routes, the water sources, and how to avoid threats. They can help you find destinations, avoid hazards, and survive the jungle's challenges. But they also have their own motivations - some want treasure, some have tribal connections, some serve factions.
+>
+> **Fifth, the cost:** Guides typically charge 50-100 gp upfront, plus a share of any treasure found. This is a significant investment, but it's worth every coin. A good guide will save your life multiple times. A bad guide might cost you everything.
+>
+> Choose wisely - your lives may depend on it.'"
+
+**When to Use This:** If players are ready to hire a guide but need comprehensive information, if they're uncertain about the importance of guides, or after a very successful Investigation check (DC 18+)
+
+---
+
 ## Skill Checks
 
 ### Perception/Investigation Checks
@@ -156,6 +184,129 @@ Guide choice heavily influences Act 2 destinations and encounters. Present 3-4 o
 - **Cost**: 50-100 gp per guide, plus share of treasure
 - **Choice Impact**: Guide influences available paths and encounters
 
+## Encounters to Hire Guides
+
+Use these encounters when players need to hire a guide before leaving Port Nyanzaru.
+
+### Encounter 1: Kwayothe's Guide Introduction
+
+**Location:** Merchant Prince Kwayothe's Office, Port Nyanzaru
+
+**Setup:** Players seek out Merchant Prince Kwayothe or are directed to her for guide services.
+
+**What to Say:**
+
+> "Kwayothe gestures to several figures waiting in the antechamber. 'These are some of the best guides available in Port Nyanzaru. Each knows different parts of Chult and has their own... methods. They've all survived multiple expeditions, which is more than can be said for many who venture into the jungle.' She pauses, her expression serious. 'Choosing a guide is one of the most important decisions you'll make. The wrong guide can lead you into danger or abandon you when things get tough. The right guide can mean the difference between life and death in the jungle. Interview them carefully. Ask about their experience, their methods, and what they expect from you. Choose wisely - your lives may depend on it.'"
+
+**Available Guides:** Present 3-4 guide options (see guide descriptions above)
+
+**Skill Checks:**
+
+- **Investigation (DC 13)**: Research guide reputations before meeting
+- **Perception (DC 12)**: Observe guides for signs of experience
+- **Insight (DC 11-14)**: Detect hidden agendas or reliability issues
+
+**Reward:** Access to multiple guide candidates for hiring
+
+---
+
+### Encounter 2: Guide Guild Meeting
+
+**Location:** Guide Guild Office, Port Nyanzaru
+
+**Setup:** Players visit the guide guild or a guide recruiter.
+
+**What to Say:**
+
+> "The guide guild is a bustling place filled with experienced jungle guides, each with their own specialties. A recruiter approaches you. 'Looking for a guide? We have several available, each with different strengths. Some know specific regions, others have connections with tribes or factions. What are you looking for? A guide who knows the jungle interior? One with tribal connections? Someone who can help you avoid Flaming Fist patrols? Tell me what you need, and I'll introduce you to the right candidates.'"
+
+**Available Guides:** Present guides based on player needs
+
+**Skill Checks:**
+
+- **Persuasion (DC 12)**: Get better guide recommendations
+- **Investigation (DC 13)**: Learn about guide specialties and reputations
+- **Insight (DC 11)**: Determine which guides match your needs
+
+**Reward:** Access to specialized guides based on party needs
+
+---
+
+### Encounter 3: Street Guide Approach
+
+**Location:** Streets of Port Nyanzaru or Tavern (Thundering Lizard or similar)
+
+**Setup:** A guide approaches players on the street or in a tavern.
+
+**What to Say:**
+
+> "A confident-looking individual approaches you. 'I hear you're planning a jungle expedition. I'm [guide name], and I've led dozens of successful expeditions into Chult. I know the jungle better than most, and I can get you where you need to go. I specialize in [guide specialty - e.g., avoiding dangers, finding ruins, tribal connections]. Interested in hiring me? I charge [price], and I expect a share of any treasure we find. But I guarantee I'll get you there and back alive - which is more than most guides can promise.'"
+
+**Available Guides:** One guide option (can be any guide from the list)
+
+**Skill Checks:**
+
+- **Investigation (DC 13)**: Verify the guide's claims and reputation
+- **Insight (DC 12)**: Detect if the guide is reliable or has hidden agendas
+- **Persuasion (DC 12)**: Negotiate better terms
+
+**Reward:** Direct access to a guide (verify reliability through checks)
+
+---
+
+### Encounter 4: Guide Recommendation
+
+**Location:** Various (Tavern, Market, or wherever NPC is encountered)
+
+**Setup:** An NPC recommends a specific guide to the players.
+
+**What to Say:**
+
+> "An NPC you've been talking to says: 'If you're looking for a guide, I know someone perfect. [Guide name] is the best guide I've worked with. They know [specific area or specialty], and they've never lost a client. They're currently available and looking for work. I can introduce you if you're interested. Just be aware - they're not cheap, but they're worth every coin. A good guide can mean the difference between life and death out there.'"
+
+**Available Guides:** One recommended guide
+
+**Skill Checks:**
+
+- **Investigation (DC 12)**: Verify the recommendation and learn about the guide
+- **Insight (DC 11)**: Determine if the NPC's recommendation is trustworthy
+- **Persuasion (DC 10)**: Get the NPC to make the introduction
+
+**Reward:** Access to a recommended guide (potentially more reliable)
+
+---
+
+### Encounter 5: Guide Competition
+
+**Location:** Streets of Port Nyanzaru, Market, or Tavern
+
+**Setup:** Multiple guides compete for the party's business.
+
+**What to Say:**
+
+> "As you discuss your expedition plans, several guides approach you, each trying to convince you to hire them. 'I'm the best guide in Port Nyanzaru!' one claims. 'I know the jungle better than anyone!' another says. 'I'll get you there faster and safer!' a third insists. They begin arguing among themselves, each trying to prove their superiority. You'll need to sort through their claims and choose the best option."
+
+**Available Guides:** 3-4 competing guides
+
+**Skill Checks:**
+
+- **Investigation (DC 14)**: Sort through competing claims and find the truth
+- **Insight (DC 13)**: Detect which guides are reliable and which are exaggerating
+- **Persuasion (DC 12)**: Get guides to reveal their true capabilities
+
+**Reward:** Multiple guide options with verified information
+
+---
+
+## Using These Encounters
+
+- **If players need guides**: Use Kwayothe's Introduction or Guide Guild Meeting (most comprehensive)
+- **If players are proactive**: Use Street Guide Approach (quick option)
+- **If players have NPC connections**: Use Guide Recommendation (potentially more reliable)
+- **If you want drama**: Use Guide Competition (adds tension and choice)
+
+---
+
 ## Navigation
 
 ### Next Steps
@@ -167,8 +318,11 @@ Guide choice heavily influences Act 2 destinations and encounters. Present 3-4 o
 
 ### Related Sections
 
+- [Guide-Recruiters.md](./Guide-Recruiters.md) - Meet guide recruiters on the street
 - [Supplies-and-Gear.md](./Supplies-and-Gear.md) - Buy supplies recommended by guides
 - [Expedition-Charter.md](./Expedition-Charter.md) - Get official expedition approval
+- [Jungle-Dangers-Understanding.md](../06-Chapter-Transition/Jungle-Dangers-Understanding.md) - Understanding jungle dangers
 - [Chapter-Exit-Conditions.md](../06-Chapter-Transition/Chapter-Exit-Conditions.md) - Verify you have everything needed
 - [Gathering-Information.md](../03-City-Exploration-and-Social-Play/Gathering-Information.md) - Learn about guide options
+- [Key-NPCs.md](../03-City-Exploration-and-Social-Play/Key-NPCs.md) - Meet Merchant Prince Kwayothe
 - [City-Overview.md](../02-Arrival-in-Port-Nyanzaru/City-Overview.md) - Return to city hub

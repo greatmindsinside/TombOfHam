@@ -13,6 +13,8 @@ Syndra Silvane is a former adventurer dying from the Death Curse. She approaches
 - **The Offer**: 5,000 gold pieces, magic items, teleportation to Port Nyanzaru
 - **The Stakes**: If they don't destroy the Soulmonger, the curse will spread and kill millions
 
+**Location:** Wherever the party begins (tavern, meeting hall, or other starting location)
+
 ## What to Say
 
 > "Before you stands a woman in her middle years, her skin pale and drawn, with dark circles under her eyes. Withered patches mark her flesh where the Death Curse has taken hold. Despite her weakened state, there's a fire in her eyes - the determination of someone who's faced death before and refused to yield.

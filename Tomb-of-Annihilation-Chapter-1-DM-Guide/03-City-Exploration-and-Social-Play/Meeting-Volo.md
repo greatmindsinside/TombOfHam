@@ -4,13 +4,33 @@
 *Pronunciation: Volo (VOH-loh), Volothamp Geddarm (VOH-loh-thamp GED-darm)*  
 *Reference: [D&D 5E - Tomb of Annihilation.pdf](../../D&D%205E%20-%20Tomb%20of%20Annihilation.pdf)*
 
+**Location:** Thundering Lizard Tavern, Port Nyanzaru
+
 ## What to Say
 
-> "You find a bustling tavern called the Thundering Lizard (or another popular establishment). Inside, adventurers, guides, and merchants mingle over drinks and food. The air is thick with conversation, the clink of tankards, and the occasional burst of laughter or argument.
+> "You find a bustling tavern called the Thundering Lizard. Inside, adventurers, guides, and merchants mingle over drinks and food. The air is thick with conversation, the clink of tankards, and the occasional burst of laughter or argument.
 >
 > In a corner, a flamboyant figure holds court. He's a middle-aged man with an elaborate mustache, wearing colorful but practical travel clothes. A quill and inkwell sit on the table before him, along with a half-finished manuscript. He's regaling a small crowd with animated tales, gesturing wildly as he speaks.
 >
 > 'Ah, newcomers!' he calls out as he spots you. 'Volothamp Geddarm, at your service! But you can call me Volo - everyone does. Come, sit! I've been waiting for adventurers like yourselves. I have stories to tell, and information that might just save your lives in the jungle ahead.'"
+
+## Complete Essential Information Delivery
+
+If players need all essential information at once, use this comprehensive delivery:
+
+**What to Say (Complete Essential Info):**
+
+> "My friends, you're clearly serious about this quest. Let me tell you what you absolutely must know before venturing into the jungle.
+>
+> **First, where to go:** I've heard rumors that the Soulmonger - the source of this Death Curse - lies in what the locals call the 'old city,' somewhere deep in the jungle interior. Some call it Omu - the Forbidden City. There's also talk of an oracle ziggurat called Orolunga that might know where the Soulmonger is. Either could be your destination.
+>
+> **Second, the dangers:** The jungle will try to kill you every single day. Disease from mosquitoes and contaminated water - you'll need insect repellent and clean water sources. Weather that can kill - extreme heat causes exhaustion, storms destroy supplies. Navigation is impossible without a guide - you'll get lost and die. Random encounters are constant - dinosaurs, undead, hostile tribes, natural hazards. Resources are limited - you can't carry everything, and running out means death. Exhaustion kills - it's cumulative and recovery is difficult.
+>
+> **Third, what you need:** A guide is absolutely essential - not optional. You cannot survive without one. Proper supplies are critical - food, water, insect repellent, tents, rain catchers. Missing any of these could mean death.
+>
+> The jungle doesn't forgive mistakes. Those who venture unprepared rarely return. Prepare properly, or don't go at all."
+
+**When to Use This:** If players are ready to leave but lack essential information, or after a very successful Persuasion check (DC 17+)
 
 ## What Players See
 
@@ -116,6 +136,122 @@ Volo is a colorful, helpful NPC who provides valuable information but tends to e
 
 "'Ah, newcomers! Volothamp Geddarm, at your service! But you can call me Volo - everyone does. Come, sit! I've been waiting for adventurers like yourselves. I have stories to tell, and information that might just save your lives in the jungle ahead.'"
 
+---
+
+## Essential Information Volo Must Provide
+
+Use these "What to Say" sections to ensure Volo provides all information players need to progress. Present this information naturally through conversation, skill checks, or when players ask specific questions.
+
+### 1. Solid Lead - Where to Go
+
+**What to Say (Essential):**
+
+> "I've heard rumors, mind you, just rumors, that the source of this Death Curse - this Soulmonger you're seeking - lies in what the locals call the 'old city' somewhere deep in the jungle interior. Some call it Omu - the Forbidden City. An ancient place, full of danger. But that's just what I've heard from various sources. The jungle holds many secrets, and not all of them are safe to uncover."
+
+**Alternative Lead Option:**
+
+> "There's also talk of an oracle ziggurat called Orolunga. Ancient, powerful, said to answer any question if you can reach it. It's located inland, following the river that flows from the mountains. If you're looking for answers about the Soulmonger, Orolunga might know. I can give you rough directions if you're interested."
+
+**When to Say This:** After initial greeting, when players ask about the Soulmonger, or after a successful Persuasion check (DC 12)
+
+---
+
+### 2. Understanding Jungle Dangers - Disease
+
+**What to Say (Essential):**
+
+> "The jungle is no place for the unprepared. Disease is rampant - mosquitoes carry deadly diseases that can kill you in days. Contaminated water brings dysentery. Every wound risks infection. Without proper protection - insect repellent, clean water, proper hygiene - you'll be making daily saves against disease. And failure means suffering, weakness, and potentially death. Disease kills more adventurers than creatures do."
+
+**When to Say This:** When discussing jungle dangers, after players mention preparation, or after a successful Persuasion check (DC 12)
+
+---
+
+### 3. Understanding Jungle Dangers - Weather and Environment
+
+**What to Say (Essential):**
+
+> "The weather itself can kill you. The heat alone causes exhaustion in hours. Tropical storms can destroy your supplies, ruin your gear, and force you to turn back. You'll need proper shelter, water storage that won't break, and protection from the elements. The weather changes daily, and you must be prepared for anything - extreme heat, torrential storms, or both."
+
+**When to Say This:** When discussing jungle dangers or preparation
+
+---
+
+### 4. Understanding Jungle Dangers - Navigation
+
+**What to Say (Essential):**
+
+> "The jungle has no roads, no clear paths. Without a guide who knows the terrain, you'll get lost. I've heard stories of expeditions that got lost on the second day, wasted weeks trying to find their way, ran out of supplies, and died of exhaustion. Getting lost means wasted days, wasted supplies, and increased danger. A guide isn't optional - it's essential for survival. You cannot navigate the jungle without someone who knows its secrets."
+
+**When to Say This:** When discussing guides or navigation
+
+---
+
+### 5. Understanding Jungle Dangers - Random Encounters
+
+**What to Say (Essential):**
+
+> "Every day in the jungle brings new dangers. Dinosaurs hunt in the undergrowth. Undead wander from the Soulmonger's influence. Hostile tribes defend their territory. Natural hazards can kill the unwary - quicksand, falling trees, flash floods. You must be ready for combat, negotiation, or flight at any moment. The jungle is alive with threats, and complacency means death."
+
+**When to Say This:** When discussing jungle dangers or what to expect
+
+---
+
+### 6. Understanding Jungle Dangers - Resource Management
+
+**What to Say (Essential):**
+
+> "You can't carry everything. Water is heavy but essential - you'll need a gallon per person per day, more in extreme heat. Food spoils faster in the jungle. Supplies run out. When you run out of water or food, exhaustion sets in quickly. Plan carefully, ration wisely, and always know where your next meal and drink are coming from. The jungle doesn't provide - you must bring everything you need."
+
+**When to Say This:** When discussing supplies or preparation
+
+---
+
+### 7. Understanding Jungle Dangers - Exhaustion
+
+**What to Say (Essential):**
+
+> "Exhaustion is a killer. Heat causes it. Forced marches cause it. Disease causes it. Lack of water or food causes it. And exhaustion is cumulative - it gets worse with each level. Level six exhaustion means death. Recovery is difficult in jungle conditions. You must manage your resources, pace yourself, and avoid pushing too hard. The jungle will test your endurance every single day."
+
+**When to Say This:** When discussing survival challenges or exhaustion
+
+---
+
+### 8. The Importance of Guides
+
+**What to Say (Essential):**
+
+> "Guides are not optional in Chult - they're essential. The jungle doesn't forgive mistakes, and even experienced adventurers can get lost or killed without proper guidance. Each guide has their own methods and knowledge. Some know specific regions, others have connections with tribes or factions. Choose wisely - your lives may depend on it. You can find guides through Merchant Prince Kwayothe or at the guide guild."
+
+**When to Say This:** When discussing preparation or if players ask about guides
+
+---
+
+### 9. The Importance of Supplies
+
+**What to Say (Essential):**
+
+> "You'll need proper supplies: food rations - at least a week's worth, more if you can carry it. Water containers - a gallon per person per day, minimum. Insect repellent - this is critical, absolutely essential. Tents for shelter from weather and insects. Rain catchers for water collection. Canoes if you're traveling by river. Don't skimp on these - missing any of them could mean death. You can find everything you need in the Grand Souk."
+
+**When to Say This:** When discussing preparation or supplies
+
+---
+
+## Information Delivery Checklist
+
+Before allowing players to leave Chapter 1, ensure Volo has provided (or players have learned elsewhere):
+
+- [ ] **At least one lead** pointing to a jungle location (Omu, Orolunga, or other destination)
+- [ ] **Understanding of disease dangers** and need for insect repellent
+- [ ] **Understanding of weather dangers** and need for proper shelter
+- [ ] **Understanding of navigation challenges** and need for a guide
+- [ ] **Understanding of random encounters** and constant danger
+- [ ] **Understanding of resource management** and supply needs
+- [ ] **Understanding of exhaustion risks** and need to pace themselves
+- [ ] **Knowledge that guides are essential** (not optional)
+- [ ] **Knowledge of essential supplies** needed (food, water, insect repellent, tents)
+
+---
+
 ### About the Jungle (DC 12 Persuasion Success)
 
 "'The jungle is no place for the unprepared. Disease is rampant - mosquitoes carry shivering sickness, contaminated water brings dysentery, and the heat itself can kill you. But more than that, the jungle is home to creatures that would make a dragon think twice. Dinosaurs, of course, but also things far worse. And guides? Absolutely essential. You cannot survive the jungle without someone who knows its secrets.'"
@@ -147,5 +283,7 @@ Volo is a colorful, helpful NPC who provides valuable information but tends to e
 - [Gathering-Information.md](./Gathering-Information.md) - Other information sources
 - [City-Activities.md](../04-Side-Quests-and-Activities/City-Activities.md) - Taverns and other locations
 - [Hiring-Guides.md](../05-Outfitting-and-Preparation/Hiring-Guides.md) - Guide selection
+- [Solid-Lead-Requirements.md](../06-Chapter-Transition/Solid-Lead-Requirements.md) - What constitutes a solid lead
+- [Jungle-Dangers-Understanding.md](../06-Chapter-Transition/Jungle-Dangers-Understanding.md) - Understanding jungle dangers
+- [Chapter-Exit-Conditions.md](../06-Chapter-Transition/Chapter-Exit-Conditions.md) - Requirements for leaving Chapter 1
 - [City-Overview.md](../02-Arrival-in-Port-Nyanzaru/City-Overview.md) - Return to city hub
-

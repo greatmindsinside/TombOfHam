@@ -30,6 +30,38 @@
 
 This phase teaches resource management for jungle travel. Let players shop and ask questions. Use shopping to show local culture and provide information through merchant conversations. Balance between providing necessary supplies and creating resource management challenges. Essential items (food, water, insect repellent) should be available but emphasize their importance. Use merchants to provide rumors or complications. Don't make shopping a chore - make it engaging with colorful descriptions and interesting NPCs. Use shopping encounters to introduce NPCs or provide information.
 
+---
+
+## Complete Essential Information Delivery
+
+If players need all essential information about supplies at once, use this comprehensive delivery:
+
+**What to Say (Complete Essential Info):**
+
+> "A serious merchant pulls you aside in the Grand Souk. 'Before you buy anything, let me tell you what you absolutely must have for jungle travel. I've supplied dozens of expeditions, and I've seen what happens when people don't prepare properly.
+>
+> **First, the essentials you cannot skip:**
+>
+> - **Food rations** (5 sp per day): One per person per day, minimum one week's supply. More is better - you'll get lost, waste days, and need reserves. That's 3.5 gp per person for 7 days.
+> - **Water containers** (2 cp per gallon): One gallon per person per day, minimum. More in extreme heat. You need storage that won't break - storms destroy flimsy containers. That's 1.4 gp per person for 7 days (7 gallons).
+> - **Insect repellent** (1 gp): This is non-negotiable. Mosquitoes carry deadly diseases. Without protection, you'll be making daily saves against disease. Disease kills more adventurers than creatures do.
+> - **Tents** (2 gp): Not optional. You need shelter from weather and insects. Tropical storms can destroy everything you own. Extreme heat causes exhaustion.
+> - **Rain catchers** (5 gp): Essential for collecting water during storms. You can't carry all the water you'll need.
+>
+> **Second, what happens if you're missing supplies:** Missing food means starvation and exhaustion. Missing water means death in days. Missing insect repellent means disease - daily saves that can kill you. Missing shelter means exposure to weather that can destroy your gear and kill you. Missing any essential supply could mean death.
+>
+> **Third, additional useful items:** Canoes (50 gp) for river travel (faster and safer than walking), pack animals or porters for carrying gear (varies), extra rope (1 gp for 50 ft) and tools, torches (1 cp each) or light sources, and specialized Chultan items like insect repellent paste (5 gp) from Merchant Prince Jessamine.
+>
+> **Fourth, the reality of jungle travel:** You can't carry everything. Supplies are heavy. You'll lose gear. You'll waste days getting lost. The jungle will use more resources than you expect. Buy more than you think you need, because you'll need more than you think.
+>
+> **Fifth, where to buy:** The Grand Souk has everything you need. Compare prices, verify quality, and don't be afraid to negotiate. But don't skimp on essentials - the jungle doesn't forgive mistakes.
+>
+> Don't skimp on these. The jungle will kill you if you're not prepared.'"
+
+**When to Use This:** If players are shopping but don't understand what they need, if they're trying to save money by skipping essentials, or after a very successful Survival check (DC 16+)
+
+---
+
 ## Skill Checks
 
 ### Perception/Investigation Checks
@@ -128,17 +160,19 @@ Emphasize that Chult is dangerous and requires preparation:
 
 ### Basic Needs
 
-- **Food & Water**: 1 week minimum (jungle travel is slow)
-- **Insect Repellent**: Essential (mosquitoes carry disease)
-- **Canoes**: For river travel (cheaper and more practical than horses)
-- **Tents/Rain Catchers**: Tropical rains are frequent
-- **Pack Animals**: Dinosaurs or porters for carrying gear
+- **Food Rations** (5 sp per day): 1 week minimum (jungle travel is slow) - 3.5 gp per person for 7 days
+- **Water** (2 cp per gallon): 1 gallon per person per day minimum - 1.4 gp per person for 7 days (7 gallons)
+- **Insect Repellent** (1 gp): Essential (mosquitoes carry disease)
+- **Tent** (2 gp): Shelter from weather and insects
+- **Rain Catcher** (5 gp): Collects water during tropical storms
+- **Canoe** (50 gp): For river travel (cheaper and more practical than horses)
+- **Pack Animals**: Dinosaurs or porters for carrying gear (varies by type)
 
 ### Special Chultan Items
 
-- **Tej**: Alcoholic beverage (social lubricant)
-- **Yklwa**: Tribal throwing weapons
-- **Insect repellent paste**: Merchant Prince Jessamine specialty
+- **Tej** (1 sp per flask): Alcoholic beverage (social lubricant)
+- **Yklwa** (1 gp): Tribal throwing weapon (1d8 piercing, thrown 10/30)
+- **Insect repellent paste** (5 gp): Merchant Prince Jessamine specialty - superior protection
 
 ## Logistics Emphasis
 
@@ -146,6 +180,177 @@ Emphasize that Chult is dangerous and requires preparation:
 - **Heat**: Water discipline is crucial
 - **Transportation**: Canoes over land travel where possible
 - **Weight**: Travel will be slow - prioritize essential items
+
+---
+
+## Encounters to Obtain Supplies
+
+Use these encounters when players need to purchase supplies before leaving Port Nyanzaru.
+
+### Encounter 1: The Helpful Merchant
+
+**Location:** Grand Souk Market, Port Nyanzaru
+
+**Setup:** Players encounter a knowledgeable merchant in the Grand Souk who offers guidance.
+
+**What to Say:**
+
+> "A friendly merchant with a stall full of expedition gear calls out to you. 'First time preparing for the jungle? I can help you with that. You'll need the essentials: food rations (5 sp per day) - at least a week's worth, more if you can carry it. Water containers (2 cp per gallon) - you'll need a gallon per person per day, and the heat will make you drink more. Insect repellent (1 gp) - this is critical. Mosquitoes carry deadly diseases, and without protection, you'll be making daily saves. Tents (2 gp) for shelter, rain catchers (5 gp) for water collection, and canoes (50 gp) if you're traveling by river. What do you need? I have everything, and I'll give you fair prices.'"
+
+**Available Items:** All essential supplies at standard prices
+
+**Skill Checks:**
+
+- **Persuasion (DC 12)**: Get better prices or additional advice
+- **Investigation (DC 13)**: Verify prices are fair and items are quality
+- **Insight (DC 11)**: Determine if the merchant is trustworthy
+
+**Reward:** Access to all essential supplies with helpful guidance
+
+---
+
+### Encounter 2: The Supply Checklist
+
+**Location:** Grand Souk Market or Streets of Port Nyanzaru
+
+**Setup:** An experienced explorer or guide provides a supply checklist.
+
+**What to Say:**
+
+> "An experienced explorer notices you preparing and approaches. 'Let me give you a checklist for jungle travel. You need: food rations (5 sp per day) - one per person per day, minimum one week's supply. Water (2 cp per gallon) - one gallon per person per day, more in extreme heat. Insect repellent (1 gp) - absolutely essential, don't skip this. Tents (2 gp) for shelter from weather and insects. Rain catchers (5 gp) to collect water during storms. Canoes (50 gp) if you're traveling by river - much faster than walking. And don't forget basic tools - rope (1 gp for 50 ft), torches (1 cp each), flint and steel (1 gp). Missing any of these could mean death. Here's where you can find each item at the best prices...'"
+
+**Available Items:** Information about where to find supplies
+
+**Skill Checks:**
+
+- **Investigation (DC 12)**: Get detailed information about supply locations
+- **Persuasion (DC 11)**: Get the explorer to help you shop
+- **Insight (DC 10)**: Verify the checklist is complete
+
+**Reward:** Complete supply checklist and shopping guidance
+
+---
+
+### Encounter 3: The Bargain Hunter
+
+**Location:** Grand Souk Market, Port Nyanzaru
+
+**Setup:** Players encounter a merchant offering deals, but quality may vary.
+
+**What to Say:**
+
+> "A merchant with a smaller stall approaches you. 'Looking for supplies? I have everything you need, and I'll give you a great deal! Food rations (5 sp per day), water containers (2 cp per gallon), insect repellent (1 gp) - I have it all, and my prices are the best in the market. But you have to act fast - good deals like this don't last long. What do you say? I can outfit your entire expedition for a fraction of what the big merchants charge.'"
+
+**Available Items:** All supplies at discounted prices
+
+**Skill Checks:**
+
+- **Investigation (DC 14)**: Verify quality and detect potential scams
+- **Insight (DC 13)**: Determine if the merchant is honest or selling inferior goods
+- **Persuasion (DC 12)**: Negotiate even better deals if quality is good
+
+**Reward:** Potentially cheaper supplies (verify quality through checks)
+
+---
+
+### Encounter 4: The Specialist Merchant
+
+**Location:** Grand Souk Market, Port Nyanzaru
+
+**Setup:** Players encounter a merchant specializing in specific jungle supplies.
+
+**What to Say:**
+
+> "A merchant with a stall specializing in jungle expedition gear greets you. 'I see you're preparing for the jungle. I specialize in the supplies that matter most: insect repellent paste (5 gp) from Merchant Prince Jessamine - the best protection against disease. Rain catchers (5 gp) designed for tropical storms. Water storage containers (2 cp per gallon) that won't break. And I have connections for canoes (50 gp) if you need river transport. These aren't just supplies - they're survival tools. What do you need most?'"
+
+**Available Items:** Specialized high-quality supplies
+
+**Skill Checks:**
+
+- **Investigation (DC 13)**: Learn about specialized items and their benefits
+- **Persuasion (DC 12)**: Get recommendations for your specific needs
+- **Insight (DC 11)**: Determine if specialized items are worth the cost
+
+**Reward:** Access to high-quality specialized supplies
+
+---
+
+### Encounter 5: The Supply Shortage
+
+**Location:** Grand Souk Market, Port Nyanzaru
+
+**Setup:** Players discover some supplies are in short supply, creating urgency.
+
+**What to Say:**
+
+> "As you shop, you notice merchants are running low on certain supplies. 'Insect repellent? We're almost out - there's been a run on it lately. Everyone's preparing for jungle expeditions. Water containers? Those are getting scarce too. You'd better buy what you need now, because tomorrow they might be gone, or the prices will be much higher. The jungle season is starting, and everyone needs the same supplies.'"
+
+**Available Items:** Limited supplies, may need to visit multiple merchants
+
+**Skill Checks:**
+
+- **Investigation (DC 13)**: Find remaining supplies and best alternatives
+- **Persuasion (DC 14)**: Convince merchants to hold items or get better prices
+- **Survival (DC 12)**: Identify alternative supplies that work just as well
+
+**Reward:** Supplies despite shortage (may need to be creative)
+
+---
+
+### Encounter 6: The Honest Warning
+
+**Location:** Grand Souk Market, Port Nyanzaru
+
+**Setup:** A merchant warns players about what they really need.
+
+**What to Say:**
+
+> "A serious-looking merchant stops you. 'Before you buy, let me tell you what you actually need. I've supplied dozens of expeditions, and I've seen what happens when people don't prepare properly. You need: food rations (5 sp per day) - more than you think, because you'll get lost and waste days. Water (2 cp per gallon) - a gallon per person per day, minimum, and storage that won't break. Insect repellent (1 gp) - this is non-negotiable, disease kills more people than creatures. Tents (2 gp) - not optional, you need shelter from weather and insects. Rain catchers (5 gp) for collecting water. And canoes (50 gp) if you're going by river - they're worth every coin. Don't skimp on these. The jungle will kill you if you're not prepared.'"
+
+**Available Items:** All essential supplies with honest advice
+
+**Skill Checks:**
+
+- **Investigation (DC 12)**: Get detailed information about supply needs
+- **Insight (DC 11)**: Verify the merchant's advice is sound
+- **Persuasion (DC 10)**: Get specific recommendations for your expedition
+
+**Reward:** Honest supply guidance and access to quality items
+
+---
+
+### Encounter 7: The Bulk Purchase Opportunity
+
+**Location:** Grand Souk Market, Port Nyanzaru
+
+**Setup:** A merchant offers a package deal for all supplies.
+
+**What to Say:**
+
+> "A merchant approaches you with a proposition. 'I can outfit your entire expedition in one go. Food rations (5 sp per day), water (2 cp per gallon), insect repellent (1 gp), tents (2 gp), tools - everything you need, all at once. I'll give you a package deal: buy everything from me, and I'll give you a discount. Plus, I'll throw in some extras - extra rope (1 gp for 50 ft), a few torches (1 cp each), maybe even a rain catcher (5 gp). It's easier than shopping around, and you'll save time and money. Interested?'"
+
+**Available Items:** Complete supply package at discounted price
+
+**Skill Checks:**
+
+- **Investigation (DC 13)**: Verify the package is complete and prices are fair
+- **Persuasion (DC 12)**: Negotiate additional items or better discount
+- **Insight (DC 11)**: Determine if the package deal is actually a good value
+
+**Reward:** Complete supply package (verify completeness and value)
+
+---
+
+## Using These Encounters
+
+- **If players need guidance**: Use The Helpful Merchant or The Supply Checklist
+- **If players want deals**: Use The Bargain Hunter (verify quality)
+- **If players need specialized items**: Use The Specialist Merchant
+- **If you want urgency**: Use The Supply Shortage
+- **If players want convenience**: Use The Bulk Purchase Opportunity
+- **If players are unsure**: Use The Honest Warning
+
+---
 
 ## Navigation
 
@@ -158,7 +363,10 @@ Emphasize that Chult is dangerous and requires preparation:
 
 ### Related Sections
 
+- [Essential-Supplies-Encounters.md](./Essential-Supplies-Encounters.md) - Individual encounters for each essential supply item
 - [Hiring-Guides.md](./Hiring-Guides.md) - Hire guides who know what supplies are needed
 - [Expedition-Charter.md](./Expedition-Charter.md) - Get official expedition approval
+- [Jungle-Dangers-Understanding.md](../06-Chapter-Transition/Jungle-Dangers-Understanding.md) - Understanding jungle dangers and supply needs
 - [Chapter-Exit-Conditions.md](../06-Chapter-Transition/Chapter-Exit-Conditions.md) - Verify you have everything needed
+- [City-Activities.md](../04-Side-Quests-and-Activities/City-Activities.md) - Shop in the Grand Souk
 - [City-Overview.md](../02-Arrival-in-Port-Nyanzaru/City-Overview.md) - Return to city hub

@@ -6,6 +6,8 @@
 *Pronunciation: Port Nyanzaru (POR-nyan-ZAH-roo)*  
 *Reference: [D&D 5E - Tomb of Annihilation.pdf](../../D&D%205E%20-%20Tomb%20of%20Annihilation.pdf)*
 
+**Location:** Port Nyanzaru (City Overview)
+
 ## What to Say
 
 > "As you take in your surroundings, Port Nyanzaru sprawls before you - a vibrant, chaotic city unlike any you've seen. The streets are a riot of color, with buildings painted in every shade imaginable: turquoise, crimson, gold, and emerald structures that seem to glow in the tropical sun. The air shimmers with heat and humidity, and the sounds of the city wash over you in waves.

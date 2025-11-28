@@ -3,6 +3,8 @@
 *Official source: Things to Do header: **p. 31***  
 *Reference: [D&D 5E - Tomb of Annihilation.pdf](../../D&D%205E%20-%20Tomb%20of%20Annihilation.pdf)*
 
+**Location:** Port Nyanzaru (Various Locations)
+
 ## What to Say
 
 > "Port Nyanzaru is a city that never sleeps, and there's always something happening. As you explore, you'll find countless opportunities to engage with the city's vibrant culture, gather information, and prepare for your journey into the jungle. Whether you're seeking rumors in a crowded tavern, shopping for supplies in the bustling markets, seeking blessings at the temples, or simply watching the spectacle of dinosaur racing, every activity is a chance to learn more about Chult and its people.
@@ -31,6 +33,32 @@
 ## DM Guidance
 
 Let players drive the action - what do they want to do? Use activities to build anticipation for the jungle while showing the city's culture. Balance opportunities with potential dangers. Each activity should provide value (information, connections, resources). Don't overwhelm players with too many options at once. Use activities to introduce complications that show jungle dangers exist even in the city. Keep energy high with colorful, exotic descriptions.
+
+---
+
+## Complete Essential Information Delivery
+
+If players need all essential information about city activities at once, use this comprehensive delivery:
+
+**What to Say (Complete Essential Info):**
+
+> "Port Nyanzaru is a city that never sleeps, and there's always something happening. Here's what you need to know about the activities available:
+>
+> **First, social activities:** Taverns are great for gathering rumors, meeting contacts, and building relationships. Markets (especially the Grand Souk) are perfect for shopping, overhearing conversations, and gathering information. Temples offer blessings, religious knowledge, and potential quest hooks. Arena spectacles (like dinosaur racing) provide entertainment, social connections, and potential betting opportunities.
+>
+> **Second, adventure activities:** Side quests provide opportunities for experience, gold, and connections. Street encounters offer random events that provide flavor and opportunities. Faction meetings allow you to seek aid or information from organizations. Each activity can lead to valuable resources or information.
+>
+> **Third, preparation activities:** Guide research helps you learn about potential jungle guides. Supply gathering lets you stock up on expedition gear. Information gathering helps you research jungle locations and dangers. These activities are essential for proper preparation.
+>
+> **Fourth, what each activity provides:** Every activity should provide value - information, connections, resources, or experience. Use skill checks to maximize the value of each activity. Investigation to research, Persuasion to build relationships, Insight to detect opportunities or dangers.
+>
+> **Fifth, balancing activities:** You don't need to do everything. Focus on activities that help with your main goals - gathering information, hiring guides, buying supplies, and preparing for the jungle. But don't ignore social activities - they can provide valuable connections and information.
+>
+> The city rewards those who take the time to explore and engage. Every conversation might reveal a clue, every purchase might provide a crucial tool, and every encounter might lead to a valuable connection. But be careful - not everyone in Port Nyanzaru is friendly, and some activities might lead you into danger even within the city walls.'"
+
+**When to Use This:** If players are overwhelmed by activity options, if they need to understand what activities are valuable, or after a very successful Perception check (DC 17+)
+
+---
 
 ## Skill Checks
 
@@ -140,6 +168,8 @@ The city offers various activities for players to engage with:
 
 ## Sample Street Encounter
 
+**Location:** Streets of Port Nyanzaru (Merchant District)
+
 ### What to Say (Street Encounter)
 
 > "As you navigate the crowded streets, you hear a commotion ahead. A panicked merchant shouts, 'Look out! The beast is loose!' Suddenly, a juvenile triceratops bursts through a fruit stand, scattering wares everywhere. The crowd scatters as the confused dinosaur charges down the street."
@@ -159,6 +189,72 @@ The city offers various activities for players to engage with:
 - Each activity should provide value (information, connections, resources)
 - Balance opportunities with potential dangers
 
+---
+
+## Encounter: The Grand Souk
+
+Use this encounter when players want to explore the markets of Port Nyanzaru, shop for supplies, or gather information in the bustling commercial district.
+
+**Location:** Grand Souk Market, Port Nyanzaru
+
+### Encounter Setup
+
+Players enter the Grand Souk, the main marketplace of Port Nyanzaru, where countless merchants sell everything from expedition gear to exotic curiosities.
+
+### Encounter Dialogue
+
+> "The Grand Souk is a riot of color, sound, and activity. Stalls stretch as far as you can see, each one overflowing with goods. Merchants call out in a dozen languages, their voices competing with the sounds of haggling, the clink of coins, and the exotic scents of spices and perfumes.
+>
+> You can see everything here: expedition gear stacked high, food vendors offering strange fruits and cooked meats, merchants selling maps and information, and traders offering curiosities from across Chult. The air is thick with the energy of commerce, and you can feel the pulse of the city's trade.
+>
+> As you navigate the crowded aisles, a merchant catches your eye. Their stall is well-organized, displaying quality expedition gear - water containers, insect repellent, tents, and other essentials. The merchant, a [description] individual with sharp eyes and a ready smile, notices your interest.
+>
+> 'Ah, newcomers preparing for the jungle!' they call out. 'You've come to the right place. I have everything you need for a successful expedition - and I can tell you're serious about this, not just tourists. Let me show you what I have...'"
+
+### Encounter Options
+
+1. **Browse the market** - Explore different stalls and merchants
+2. **Shop for supplies** - Purchase expedition gear and essentials
+3. **Gather information** - Overhear conversations or talk to merchants
+4. **Haggle for prices** - Use Persuasion to negotiate better deals
+5. **Investigate quality** - Use Investigation to verify merchant reliability
+6. **Meet contacts** - Encounter NPCs or make connections
+
+### Encounter Skill Checks
+
+**DC 12 Perception Check**: Notice valuable opportunities and identify quality merchants
+
+- **Success**: "You notice which merchants have quality goods, which are offering fair prices, and which might be trying to take advantage of newcomers. You can identify the best merchants for different types of supplies and spot potential scams or overpriced items."
+- **Failure**: "The market is overwhelming, and you can't determine which merchants are trustworthy or which deals are good."
+- **Critical Success (17+)**: "Your observation is comprehensive: you can identify the highest quality merchants, spot the best deals, detect scams and overpriced items, notice merchants who might have special items or connections, and even identify opportunities for information gathering. You can make highly informed decisions."
+
+**DC 13 Investigation Check**: Research prices and verify merchant reliability
+
+- **Success**: "By asking around and comparing prices, you can find the best deals and identify which merchants are most reliable. You can avoid overpaying and find merchants who offer quality goods at fair prices."
+- **Failure**: "The market prices are difficult to compare, and you can't determine which merchants offer the best deals."
+- **Critical Success (18+)**: "Your investigation reveals detailed information: you learn about standard prices, identify merchants who offer discounts or special deals, discover which merchants have the highest quality goods, and even find merchants who might provide additional services or information. You can make highly informed purchasing decisions and might secure better deals or find rare items."
+
+**DC 12 Persuasion Check**: Negotiate better prices or gather information
+
+- **Success**: "Your friendly approach and haggling skills help you negotiate better prices or get merchants to share information. You can secure discounts, learn about jungle dangers, or discover valuable tips about expedition planning."
+- **Failure**: "Merchants stick to their asking prices and don't share additional information."
+- **Critical Success (17+)**: "Your negotiation is highly effective: you can secure significant discounts, get merchants to share valuable information about the jungle or expedition planning, discover special deals or rare items, and even build relationships that provide ongoing benefits. You might gain valuable contacts or insider knowledge."
+
+### Reward
+
+- **Supplies** - Access to expedition gear and essentials
+- **Information** - Insights about jungle dangers, prices, or expedition planning
+- **Connections** - Potential relationships with merchants or other NPCs
+- **Deals** - Better prices if successful Persuasion checks
+- **Special Items** - Rare or valuable items if successful Investigation checks
+
+### Using This Encounter
+
+- **If players need supplies**: Primary location for purchasing expedition gear
+- **If players want to gather information**: Market conversations provide rumors and tips
+- **If players need to save money**: Haggling can reduce costs
+- **If players want to experience city culture**: Immersive market experience
+
 ## Navigation
 
 ### Next Steps
@@ -172,5 +268,8 @@ The city offers various activities for players to engage with:
 
 - [Dinosaur-Racing.md](./Dinosaur-Racing.md) - Attend dinosaur races
 - [Side-Quests.md](./Side-Quests.md) - Find quest opportunities in various locations
+- [Tavern-Rumors.md](./Tavern-Rumors.md) - Overhear rumors in taverns
+- [Gathering-Information.md](../03-City-Exploration-and-Social-Play/Gathering-Information.md) - Gather information from various sources
+- [Supplies-and-Gear.md](../05-Outfitting-and-Preparation/Supplies-and-Gear.md) - Shop for supplies in the Grand Souk
 - [Key-NPCs.md](../03-City-Exploration-and-Social-Play/Key-NPCs.md) - Meet NPCs in various locations
 - [City-Overview.md](../02-Arrival-in-Port-Nyanzaru/City-Overview.md) - Return to city hub

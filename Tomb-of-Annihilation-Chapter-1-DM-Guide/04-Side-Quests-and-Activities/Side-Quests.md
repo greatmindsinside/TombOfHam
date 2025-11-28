@@ -30,6 +30,32 @@
 
 Present 1-2 side quests per session to avoid overwhelming players. Keep quests short (1-2 encounters each) so they don't derail the main story. Use side quests to introduce factions, locations, or NPCs that may become important later. Connect quests to the larger Chult plot when possible. Not all quests are required - let players choose which to pursue. Use quests to provide XP, flavor, and world-building. Use side quests to introduce factions or locations. They should provide clues about jungle dangers. Not required for chapter completion, but enrich the experience.
 
+---
+
+## Complete Essential Information Delivery
+
+If players need all essential information about side quests at once, use this comprehensive delivery:
+
+**What to Say (Complete Essential Info):**
+
+> "As you explore Port Nyanzaru, you'll encounter various people with problems that need solving. Here's what you need to know about side quests:
+>
+> **First, what side quests are:** Side quests are optional missions that provide opportunities for experience, gold, connections, and information. They're not required for your main quest, but they can be valuable. Common quests include: debt collection, escort missions, pirate hunts, missing person searches, and beast control.
+>
+> **Second, what they provide:** Side quests offer rewards like gold (typically 100-200 gp), experience points, connections to NPCs or factions, information about the city or jungle, and sometimes equipment or favors. They can also introduce you to important NPCs or locations that might help with your main quest.
+>
+> **Third, how to evaluate them:** Use skill checks to investigate quest details, read quest givers' motivations, and verify information. Not all quests are what they seem - some quest givers may have hidden agendas or be withholding information. Trust, but verify.
+>
+> **Fourth, time management:** Side quests are short (1-2 encounters each), but they do take time. You need to balance side quests with your main preparation - hiring guides, buying supplies, gathering information. Don't let side quests delay your departure too long, but they can be valuable if you have time.
+>
+> **Fifth, which to pursue:** Choose quests that provide value - either good rewards, useful connections, or information relevant to your main quest. You don't need to do all of them. Focus on 1-2 that seem most valuable or interesting.
+>
+> Side quests are optional but can enrich your experience and provide valuable resources. Choose wisely, and don't let them distract you from your main goal.'"
+
+**When to Use This:** If players are overwhelmed by quest options, if they need to understand the value of side quests, or after a very successful Investigation check (DC 18+)
+
+---
+
 ## Skill Checks
 
 ### Perception/Investigation Checks
@@ -112,6 +138,8 @@ Present 1-2 side quests per session to avoid overwhelming players. Keep quests s
 
 ### Debt Collection
 
+**Location:** Grand Souk Market, Port Nyanzaru
+
 #### What to Say (Debt Collection)
 
 > "In a bustling market, you overhear a merchant prince representative complaining about a debtor who skipped town. 'That Zhent slimy dog owes us 500 gold!' The representative notices you listening and eyes you appraisingly. 'You lot look capable. Find him and bring back what's ours, and I'll make it worth your while. He's hiding somewhere in the city - probably in one of the seedier districts. Bring me proof you found him, and I'll pay you 100 gold plus a share of what we recover.'"
@@ -123,6 +151,8 @@ Present 1-2 side quests per session to avoid overwhelming players. Keep quests s
 - **Insight (DC 11)**: Detect if the quest giver is being truthful about the debt
 
 ### Escort Mission
+
+**Location:** Temple District, Port Nyanzaru
 
 #### What to Say (Escort Mission)
 
@@ -136,6 +166,8 @@ Present 1-2 side quests per session to avoid overwhelming players. Keep quests s
 
 ### Pirate Hunt
 
+**Location:** Port Nyanzaru Harbor (Docks)
+
 #### What to Say (Pirate Hunt)
 
 > "A harbor master flags you down at the docks. 'We've got a problem - pirates have been preying on our shipping lanes. They've hit three ships in the past week, and we need someone to track them down and deal with them. The Flaming Fist is stretched thin, so we're offering 200 gold to anyone who can stop these attacks. Interested?'"
@@ -147,6 +179,8 @@ Present 1-2 side quests per session to avoid overwhelming players. Keep quests s
 - **Persuasion (DC 12)**: Negotiate better rewards or gather information
 
 ### Missing Person
+
+**Location:** Streets of Port Nyanzaru (Various Districts)
 
 #### What to Say (Missing Person)
 
@@ -160,6 +194,8 @@ Present 1-2 side quests per session to avoid overwhelming players. Keep quests s
 
 ### Beast Control
 
+**Location:** Merchant District, Port Nyanzaru
+
 #### What to Say (Beast Control)
 
 > "City guards are frantically trying to contain a situation. A handler rushes up to you. 'A triceratops broke loose from its handler and is rampaging through the merchant district! We need help containing it before someone gets hurt. The beast is confused and scared, not malicious, but it's still dangerous. Help us calm it down or drive it back to its enclosure, and we'll pay you 120 gold.'"
@@ -169,6 +205,80 @@ Present 1-2 side quests per session to avoid overwhelming players. Keep quests s
 - **Animal Handling (DC 13)**: Calm or control the beast
 - **Nature (DC 12)**: Understand the beast's behavior
 - **Persuasion (DC 12)**: Coordinate with guards and handlers
+
+---
+
+## Encounter: The Desperate Quest Giver
+
+Use this encounter when players are exploring Port Nyanzaru and haven't yet engaged with side quests, or when you want to introduce a specific quest opportunity.
+
+**Location:** Streets of Port Nyanzaru (Market, Tavern, or Public Area)
+
+### Encounter Setup
+
+A desperate NPC approaches players in a public area (market, tavern, street) with an urgent problem that needs solving.
+
+### Encounter Dialogue
+
+> "As you walk through [location], a [description] person rushes up to you, their eyes wide with desperation. They're clearly distressed - their clothes are disheveled, their hands are shaking, and they're looking around nervously as if afraid of being overheard.
+>
+> 'Please,' they say, their voice urgent and pleading. 'You look like capable adventurers. I need help, and I don't know who else to turn to. My [relationship] has been missing for [time period], and I'm terrified something terrible has happened. They were supposed to [purpose], but they never returned. The city guards say they can't help - not enough evidence, not enough resources. But I know something's wrong. I can feel it.'
+>
+> They reach into a pouch and pull out a small bag of coins. 'I don't have much, but I can offer you [reward amount] gold if you can find them. Please, I'm desperate. Will you help me?'"
+
+### Encounter Options
+
+1. **Accept the quest** - Agree to help find the missing person
+2. **Ask questions** - Gather more information about the situation
+3. **Use skill checks** - Investigate the NPC's story, detect deception
+4. **Negotiate terms** - Try to get better rewards or more information
+5. **Decline politely** - Say you're focused on other priorities
+6. **Offer alternative help** - Suggest other resources or contacts
+
+### Encounter Skill Checks
+
+**DC 12 Insight Check**: Detect if the quest giver is being truthful
+
+- **Success**: "You can sense the quest giver is genuinely distressed and telling the truth about their missing [relationship]. Their fear and desperation seem real, though you notice they might be holding back some details about why their [relationship] was in that situation."
+- **Failure**: "The quest giver seems distressed, but you can't determine if they're being completely truthful or if there's more to the story."
+- **Critical Success (17+)**: "Your insight is sharp: you can detect the quest giver is genuinely desperate and truthful about the core situation, but you notice they're hiding something - perhaps the missing person was involved in something dangerous or illegal. Their fear is real, but there's more to this story than they're sharing."
+
+**DC 13 Investigation Check**: Gather information about the missing person and the situation
+
+- **Success**: "By asking questions and investigating, you can learn more about the missing person, their last known location, who they were meeting, and what they were doing. You can identify potential leads and understand the situation better."
+- **Failure**: "The information is vague, and you can't determine clear leads or understand the full situation."
+- **Critical Success (18+)**: "Your investigation reveals detailed information: you learn about the missing person's activities, identify potential witnesses, discover clues about their last known location, and even uncover information the quest giver didn't know or wasn't sharing. You can build a clear picture of what happened and where to start looking."
+
+**DC 12 Persuasion Check**: Get the quest giver to share more information or negotiate better terms
+
+- **Success**: "Your empathetic approach helps the quest giver open up. They share additional details they were hesitant to mention, provide more information about the missing person, and may even increase the reward or offer additional benefits."
+- **Failure**: "The quest giver sticks to their initial story and doesn't share additional information."
+- **Critical Success (17+)**: "Your approach is so effective that the quest giver becomes completely open. They share everything they know, including details they were afraid to mention, provide contacts or resources that could help, and may offer significantly better rewards or additional benefits like connections to important NPCs."
+
+### Reward
+
+- **Gold** - Payment for completing the quest (typically 100-200 gp)
+- **Information** - Clues about the missing person's location or activities
+- **Connections** - Potential contacts or resources from the quest giver
+- **Experience** - XP for completing the quest
+- **Story Hooks** - May lead to other quests or important NPCs
+
+### Quest Variations
+
+This encounter can be adapted for different quest types:
+
+- **Missing Person**: As described above
+- **Debt Collection**: Quest giver needs help collecting a debt
+- **Escort Mission**: Quest giver needs protection for a journey
+- **Beast Control**: Quest giver needs help with a dangerous animal
+- **Pirate Hunt**: Quest giver needs help dealing with pirates
+
+### Using This Encounter
+
+- **If players haven't engaged with side quests**: Use this to introduce the concept
+- **If players need gold or connections**: Provides both
+- **If you want to introduce specific NPCs**: Quest giver can lead to important contacts
+- **If players need experience**: Provides XP opportunity
 
 ## Navigation
 
@@ -183,4 +293,6 @@ Present 1-2 side quests per session to avoid overwhelming players. Keep quests s
 
 - [City-Activities.md](./City-Activities.md) - Find quest opportunities in various locations
 - [Key-NPCs.md](../03-City-Exploration-and-Social-Play/Key-NPCs.md) - Quest givers and contacts
+- [Optional-Preparations.md](../06-Chapter-Transition/Optional-Preparations.md) - Side quests as optional preparation
+- [Chapter-Exit-Conditions.md](../06-Chapter-Transition/Chapter-Exit-Conditions.md) - Requirements for leaving Chapter 1
 - [City-Overview.md](../02-Arrival-in-Port-Nyanzaru/City-Overview.md) - Return to city hub

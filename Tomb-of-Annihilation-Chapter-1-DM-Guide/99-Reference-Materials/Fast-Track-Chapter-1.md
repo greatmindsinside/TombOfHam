@@ -21,6 +21,8 @@ This fast-track version condenses Chapter 1 into essential scenes:
 
 ## Scene 1: The Hook
 
+**Location:** Wherever the party begins (tavern, meeting hall, or other starting location)
+
 ### What to Say
 
 > "Rumors have reached you of a terrible curse spreading across Faerûn: the dead remain dead, and those who were once restored to life are now wasting away. Resurrection magic no longer works anywhere in the world. Amid this crisis, a gaunt, determined woman named Syndra Silvane seeks you out. She reveals she is dying from this 'Death Curse'—and that she has discovered its source: a powerful necromantic artifact called the Soulmonger, hidden deep within the jungles of Chult.
@@ -45,6 +47,8 @@ This fast-track version condenses Chapter 1 into essential scenes:
 ---
 
 ## Scene 2: Arrival in Port Nyanzaru
+
+**Location:** Teleportation Platform, Port Nyanzaru Harbor
 
 ### Arrival Description
 
@@ -75,6 +79,8 @@ This fast-track version condenses Chapter 1 into essential scenes:
 
 ### Option A: The Thundering Lizard Tavern
 
+**Location:** Thundering Lizard Tavern, Port Nyanzaru
+
 **What to Say**:
 
 > "You find a bustling tavern called the Thundering Lizard. Inside, adventurers, guides, and merchants mingle. A famous explorer named Volo sits at a corner table, regaling listeners with tales of Chult's dangers. Several guides are actively recruiting for expeditions."
@@ -96,6 +102,8 @@ This fast-track version condenses Chapter 1 into essential scenes:
 
 ### Option B: The Grand Souk Market
 
+**Location:** Grand Souk Market, Port Nyanzaru
+
 **What to Say**:
 
 > "The Grand Souk is a maze of colorful stalls and bargaining merchants. Exotic spices scent the air, and vendors call out in a dozen languages. Merchants eye you appraisingly as you pass, recognizing newcomers who need to stock up for jungle expeditions."
@@ -114,6 +122,8 @@ This fast-track version condenses Chapter 1 into essential scenes:
 
 ### Option C: Guide Guild Office
 
+**Location:** Guide Guild Office (or Merchant Prince Kwayothe's Office), Port Nyanzaru
+
 **What to Say**:
 
 > "You find the guide guild office, a well-organized building where professional guides register and clients can hire them. Several guides are available for interview, each with different specialties and prices."
@@ -128,11 +138,14 @@ This fast-track version condenses Chapter 1 into essential scenes:
 **For More Detail (Guide Guild)**:
 
 - **Complete guide hiring guide with all options**: [Hiring-Guides.md](../05-Outfitting-and-Preparation/Hiring-Guides.md)
+- **Guide recruiters on the street**: [Guide-Recruiters.md](../05-Outfitting-and-Preparation/Guide-Recruiters.md)
 - **All key NPCs**: [Key-NPCs.md](../03-City-Exploration-and-Social-Play/Key-NPCs.md)
 
 ---
 
 ## Scene 4: Quick Guide Selection
+
+**Location:** Same location as Scene 3 (Thundering Lizard Tavern, Grand Souk Market, Guide Guild Office, or Merchant Prince Kwayothe's Office)
 
 Present 2-3 guide options (choose from full guide list, but only present a few):
 
@@ -169,23 +182,26 @@ Pick one other guide from the full list that fits your campaign needs.
 
 ## Scene 5: Quick Gear Purchase
 
+**Location:** Grand Souk Market, Port Nyanzaru
+
 ### Essential Supplies Checklist
 
 Present this as a shopping list rather than individual encounters:
 
 **Must-Have Items**:
 
-- **Water**: 1 gallon per person per day (minimum 7 days = 7 gallons per person)
-- **Rations**: 7 days per person
-- **Insect Repellent**: Essential - prevents disease
-- **Tent with insect netting**: Protection from elements and bugs
-- **Canoe** (if traveling by river): 50 gp
+- **Water** (2 cp per gallon): 1 gallon per person per day (minimum 7 days = 7 gallons per person) - 1.4 gp per person
+- **Rations** (5 sp per day): 7 days per person - 3.5 gp per person
+- **Insect Repellent** (1 gp): Essential - prevents disease
+- **Tent with insect netting** (2 gp): Protection from elements and bugs
+- **Rain Catcher** (5 gp): Collects water during storms
+- **Canoe** (50 gp): If traveling by river
 
 **Recommended Items**:
 
-- **Healing potions**: 2-3 per party
-- **Antitoxin**: 1-2 per party
-- **Rope, grappling hook, basic tools**
+- **Healing potions** (50 gp each): 2-3 per party
+- **Antitoxin** (50 gp each): 1-2 per party
+- **Rope** (1 gp for 50 ft), **grappling hook** (2 gp), **flint and steel** (1 gp)
 
 **Quick Shopping**:
 
@@ -201,13 +217,17 @@ Present this as a shopping list rather than individual encounters:
 
 **For More Detail (Gear Purchase)**:
 
+- **Essential supplies as individual encounters**: [Essential-Supplies-Encounters.md](../05-Outfitting-and-Preparation/Essential-Supplies-Encounters.md) - Each essential item as a focused encounter
 - **Complete supplies and gear guide**: [Supplies-and-Gear.md](../05-Outfitting-and-Preparation/Supplies-and-Gear.md)
 - **Full shopping options and merchant details**: See Supplies-and-Gear.md for complete item lists, prices, and merchant interactions
 - **Expedition charter (optional)**: [Expedition-Charter.md](../05-Outfitting-and-Preparation/Expedition-Charter.md)
+- **Understanding jungle dangers and supply needs**: [Jungle-Dangers-Understanding.md](../06-Chapter-Transition/Jungle-Dangers-Understanding.md)
 
 ---
 
 ## Scene 6: Departure
+
+**Location:** City Gates, Port Nyanzaru
 
 ### Departure Description
 
@@ -221,11 +241,17 @@ Present this as a shopping list rather than individual encounters:
 
 - **Readiness Verification**: Do they have a guide? Supplies? A destination? If missing anything, provide one last opportunity.
 - **Destination**: Guide asks where they want to go. Common choices: Orolunga (oracle), Kir Sabal (aarakocra), or straight toward the Soulmonger's general location.
+- **Verification checklist**: [Chapter-Exit-Conditions.md](../06-Chapter-Transition/Chapter-Exit-Conditions.md) - Complete readiness checklist
+- **Solid lead requirements**: [Solid-Lead-Requirements.md](../06-Chapter-Transition/Solid-Lead-Requirements.md) - What constitutes a solid lead
+- **Jungle dangers understanding**: [Jungle-Dangers-Understanding.md](../06-Chapter-Transition/Jungle-Dangers-Understanding.md) - Required understanding of dangers
 
 **For More Detail (Departure)**:
 
 - **Complete departure scene**: [Leaving-Port-Nyanzaru.md](../06-Chapter-Transition/Leaving-Port-Nyanzaru.md)
 - **Chapter exit conditions checklist**: [Chapter-Exit-Conditions.md](../06-Chapter-Transition/Chapter-Exit-Conditions.md)
+- **Solid lead requirements**: [Solid-Lead-Requirements.md](../06-Chapter-Transition/Solid-Lead-Requirements.md)
+- **Jungle dangers understanding**: [Jungle-Dangers-Understanding.md](../06-Chapter-Transition/Jungle-Dangers-Understanding.md)
+- **Optional preparations**: [Optional-Preparations.md](../06-Chapter-Transition/Optional-Preparations.md)
 
 ---
 
@@ -272,7 +298,14 @@ If players show interest in specific aspects, quickly jump to these detailed gui
 - **Political intrigue**: [Power-Structure.md](../03-City-Exploration-and-Social-Play/Power-Structure.md) - Merchant princes, factions, political dynamics
 - **City exploration**: [City-Overview.md](../02-Arrival-in-Port-Nyanzaru/City-Overview.md) - Complete city guide with all districts and locations
 - **More NPCs**: [Key-NPCs.md](../03-City-Exploration-and-Social-Play/Key-NPCs.md) - Volo, Merchant Princes, faction representatives
+- **Meeting Volo**: [Meeting-Volo.md](../03-City-Exploration-and-Social-Play/Meeting-Volo.md) - Detailed Volo encounter with essential information
 - **More activities**: [City-Activities.md](../04-Side-Quests-and-Activities/City-Activities.md) - Taverns, temples, markets, spectacles
+- **Gathering information**: [Gathering-Information.md](../03-City-Exploration-and-Social-Play/Gathering-Information.md) - Complete information gathering guide
+- **Tavern rumors**: [Tavern-Rumors.md](../04-Side-Quests-and-Activities/Tavern-Rumors.md) - Detailed rumor tables and encounters
+- **Understanding requirements**: [Chapter-Exit-Conditions.md](../06-Chapter-Transition/Chapter-Exit-Conditions.md) - What players need before leaving
+- **Solid leads**: [Solid-Lead-Requirements.md](../06-Chapter-Transition/Solid-Lead-Requirements.md) - What constitutes a solid lead
+- **Jungle dangers**: [Jungle-Dangers-Understanding.md](../06-Chapter-Transition/Jungle-Dangers-Understanding.md) - Understanding jungle dangers
+- **Optional prep**: [Optional-Preparations.md](../06-Chapter-Transition/Optional-Preparations.md) - Optional but recommended preparations
 
 ---
 
@@ -291,12 +324,17 @@ If players show interest in specific aspects, quickly jump to these detailed gui
 - **Interaction**: Colorful storyteller, provides useful rumors
 - **Detailed encounter**: [Meeting-Volo.md](../03-City-Exploration-and-Social-Play/Meeting-Volo.md) - Full Volo interaction with all skill checks and dialogue
 - **For full details**: [Key-NPCs.md](../03-City-Exploration-and-Social-Play/Key-NPCs.md)
+- **Gathering information**: [Gathering-Information.md](../03-City-Exploration-and-Social-Play/Gathering-Information.md) - How to gather information from various sources
+- **Tavern rumors**: [Tavern-Rumors.md](../04-Side-Quests-and-Activities/Tavern-Rumors.md) - Detailed rumor tables
 
 ### Selected Guide
 
 - **Role**: Jungle expert
 - **Key Info**: Knows survival, navigation, and dangers
 - **Interaction**: Professional, answers questions, leads expedition
+- **Complete guide selection**: [Hiring-Guides.md](../05-Outfitting-and-Preparation/Hiring-Guides.md) - All guide options with full details
+- **Guide recruiters**: [Guide-Recruiters.md](../05-Outfitting-and-Preparation/Guide-Recruiters.md) - Meeting guide recruiters
+- **Understanding jungle dangers**: [Jungle-Dangers-Understanding.md](../06-Chapter-Transition/Jungle-Dangers-Understanding.md) - Why guides are essential
 
 ---
 
@@ -347,12 +385,14 @@ Once players depart Port Nyanzaru, they enter Chapter 2: The Land of Chult. The 
 ### Exploration & Social
 
 - **Gathering Information**: [Gathering-Information.md](../03-City-Exploration-and-Social-Play/Gathering-Information.md)
+- **Meeting Volo**: [Meeting-Volo.md](../03-City-Exploration-and-Social-Play/Meeting-Volo.md)
 - **Key NPCs**: [Key-NPCs.md](../03-City-Exploration-and-Social-Play/Key-NPCs.md)
 - **Power Structure**: [Power-Structure.md](../03-City-Exploration-and-Social-Play/Power-Structure.md)
 
 ### Activities & Quests
 
 - **City Activities**: [City-Activities.md](../04-Side-Quests-and-Activities/City-Activities.md)
+- **Tavern Rumors**: [Tavern-Rumors.md](../04-Side-Quests-and-Activities/Tavern-Rumors.md)
 - **Side Quests**: [Side-Quests.md](../04-Side-Quests-and-Activities/Side-Quests.md)
 - **Dinosaur Racing**: [Dinosaur-Racing.md](../04-Side-Quests-and-Activities/Dinosaur-Racing.md)
 
@@ -360,11 +400,15 @@ Once players depart Port Nyanzaru, they enter Chapter 2: The Land of Chult. The 
 
 - **Supplies & Gear**: [Supplies-and-Gear.md](../05-Outfitting-and-Preparation/Supplies-and-Gear.md)
 - **Hiring Guides**: [Hiring-Guides.md](../05-Outfitting-and-Preparation/Hiring-Guides.md)
+- **Guide Recruiters**: [Guide-Recruiters.md](../05-Outfitting-and-Preparation/Guide-Recruiters.md)
 - **Expedition Charter**: [Expedition-Charter.md](../05-Outfitting-and-Preparation/Expedition-Charter.md)
 
 ### Transition
 
 - **Chapter Exit Conditions**: [Chapter-Exit-Conditions.md](../06-Chapter-Transition/Chapter-Exit-Conditions.md)
+- **Solid Lead Requirements**: [Solid-Lead-Requirements.md](../06-Chapter-Transition/Solid-Lead-Requirements.md)
+- **Jungle Dangers Understanding**: [Jungle-Dangers-Understanding.md](../06-Chapter-Transition/Jungle-Dangers-Understanding.md)
+- **Optional Preparations**: [Optional-Preparations.md](../06-Chapter-Transition/Optional-Preparations.md)
 - **Leaving Port Nyanzaru**: [Leaving-Port-Nyanzaru.md](../06-Chapter-Transition/Leaving-Port-Nyanzaru.md)
 
 ### Other Resources
@@ -372,3 +416,5 @@ Once players depart Port Nyanzaru, they enter Chapter 2: The Land of Chult. The 
 - **For Full Chapter 1 Experience**: See the detailed files in the main guide structure
 - **For Other Alternatives**: [Alternative-Structures.md](./Alternative-Structures.md)
 - **Session Prep**: [Chapter-Overview.md](../00-Session-Prep/Chapter-Overview.md)
+- **Combat Reference**: [Combat.md](./Combat.md)
+- **Maps Reference**: [Maps.md](./Maps.md)

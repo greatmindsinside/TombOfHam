@@ -30,6 +30,30 @@
 
 Dole out information gradually to build mystery and engagement. Use rumor tables to provide clues about the Soulmonger and jungle locations. Not all information should be reliable - some rumors may be false or misleading. Players should leave this phase with at least one solid lead pointing into the jungle. Balance information gathering with other activities. Use skill checks to reveal information naturally rather than just giving it away. Use this phase to build excitement about the jungle while establishing that preparation is crucial. Balance information gathering with opportunities for social interaction and character development.
 
+---
+
+## Complete Essential Information Delivery
+
+If players need all essential information about gathering information at once, use this comprehensive delivery:
+
+**What to Say (Complete Essential Info):**
+
+> "Port Nyanzaru is a city of secrets and stories, and information is currency here. To find the Soulmonger, you'll need to gather clues from multiple sources. Here's what you need to know:
+>
+> **First, where to find information:** You can gather information from several sources. Volo, the famous explorer, can be found in taverns and has extensive knowledge about Chult. Merchant Princes control different aspects of the city and have specialized knowledge. Faction representatives (Harpers, Flaming Fist, etc.) have their own information networks. Local guides know practical jungle knowledge. And taverns are full of rumors - some true, some false, all potentially valuable.
+>
+> **Second, what information you need:** You need at least one solid lead pointing to a jungle location. This could be information about Omu (the Forbidden City), Orolunga (the oracle ziggurat), or other locations. You also need to understand jungle dangers - disease, weather, navigation challenges, encounters, and resource management. And you need practical knowledge about guides, supplies, and expedition planning.
+>
+> **Third, how to verify information:** Not all information is reliable. Some rumors are false or exaggerated. Use skill checks to verify information - Investigation to cross-reference sources, Insight to detect deception, and Persuasion to build relationships with reliable sources. Trust, but verify.
+>
+> **Fourth, the importance of preparation:** Information gathering isn't just about finding the Soulmonger - it's about understanding what you'll face. Learn about jungle dangers, find reliable guides, identify essential supplies, and understand the political landscape. The more you know, the better prepared you'll be.
+>
+> Information is everywhere in Port Nyanzaru, but the most valuable information often comes from the most unexpected sources. Ask questions, build relationships, and don't take everything at face value."
+
+**When to Use This:** If players are overwhelmed by information gathering options, if they need a clear overview of what information is available, or after a very successful Investigation check (DC 18+)
+
+---
+
 ## Skill Checks
 
 ### Perception/Investigation Checks
@@ -141,6 +165,77 @@ Players can:
 - Political factions have their own agendas
 - Supplies and guides are essential
 
+---
+
+## Encounter: The Information Broker
+
+Use this encounter when players need to obtain specific information about the Soulmonger, jungle locations, or expedition planning, and want to pay for reliable intelligence.
+
+**Location:** Tavern, Grand Souk Market, or Streets of Port Nyanzaru
+
+### Encounter Setup
+
+Players encounter an information broker in a tavern, market, or other public space who offers to sell valuable information for a price or favor.
+
+### Encounter Dialogue
+
+> "As you [location activity], a [description] individual approaches you. They have the bearing of someone who deals in secrets - their eyes are sharp, their movements are calculated, and they carry themselves with the confidence of someone who knows things others don't.
+>
+> 'I couldn't help but notice you're new to Port Nyanzaru,' they say, their voice low and measured. 'Planning an expedition, are you? Looking for information about the Death Curse, perhaps? The Soulmonger?'
+>
+> They pause, letting the words hang in the air. 'Information is valuable in this city, and I happen to have some that might interest you. I know things about the jungle, about the locations you're seeking, about what you'll face out there. But information like this... it doesn't come free.'
+>
+> They lean closer, their expression serious. 'I can tell you about Omu - the old city where the Soulmonger is said to be. I can tell you about the dangers you'll face, the routes that are safest, the guides who are reliable. But it'll cost you. Either gold, or a favor. What do you say?'"
+
+### Encounter Options
+
+1. **Pay for information** - Agree to pay gold for the information
+2. **Offer a favor** - Agree to do something in exchange for information
+3. **Negotiate terms** - Try to get better prices or more information
+4. **Use skill checks** - Investigate the broker's reliability, detect deception
+5. **Decline** - Say you'll find information elsewhere
+6. **Threaten or intimidate** - Try to force information (risky)
+
+### Encounter Skill Checks
+
+**DC 13 Investigation Check**: Verify the broker's reliability and the value of their information
+
+- **Success**: "By asking around and investigating, you can learn about the broker's reputation. They seem to have legitimate sources and have provided reliable information to others in the past. Their information appears to be valuable, though you can't verify all of it."
+- **Failure**: "The broker's reputation is difficult to verify, and you can't determine if their information is reliable or if they're just trying to make a sale."
+- **Critical Success (18+)**: "Your investigation reveals detailed information: you learn the broker has a solid reputation for providing accurate information, verify some of their claims through other sources, discover what information they actually have access to, and even identify potential complications or hidden costs. You can make a highly informed decision about whether to trust them."
+
+**DC 12 Insight Check**: Detect if the broker is being truthful or has hidden agendas
+
+- **Success**: "You can sense the broker is generally truthful about having information, though they may be exaggerating its value or holding back some details. They seem to want payment more than they want to deceive you, but you should verify what they're offering."
+- **Failure**: "The broker seems sincere, but you can't determine if they're being completely truthful or if they have hidden agendas."
+- **Critical Success (17+)**: "Your insight is penetrating: you can detect the broker's specific motivations (profit, building connections, potential hidden agendas), identify what information they genuinely have versus what they're exaggerating, sense if they're holding back important details, and even predict how they'll react to different negotiation approaches. You can navigate the interaction effectively."
+
+**DC 13 Persuasion Check**: Negotiate better terms or get more information
+
+- **Success**: "Your diplomatic approach helps you negotiate better terms. The broker becomes more open, may lower their price, or might provide additional information as part of the deal. They may even offer to verify information or provide contacts."
+- **Failure**: "The broker sticks to their asking price and terms, unwilling to negotiate or provide additional information."
+- **Critical Success (18+)**: "Your negotiation is highly effective: you can secure significantly better terms (lower price, more information, additional services), get the broker to share information they normally wouldn't, build a relationship that provides ongoing benefits, and even convince them to provide verification or contacts. You gain valuable information and a potential ongoing source."
+
+### Reward
+
+- **Valuable Information** - Details about the Soulmonger, jungle locations, or expedition planning
+- **Reliable Intelligence** - Verified information about dangers, routes, or guides
+- **Contacts** - Potential introductions to other NPCs or resources
+- **Ongoing Relationship** - Future access to information (if successful checks)
+
+### Cost
+
+- **Gold** - Typically 50-200 gp depending on information value
+- **Favor** - May require completing a task or providing a service
+- **Risk** - Information may not be completely reliable without verification
+
+### Using This Encounter
+
+- **If players need specific information**: Provides targeted intelligence
+- **If players have gold to spend**: Quick way to obtain information
+- **If players want reliable sources**: Broker may have verified information
+- **If players are stuck**: Provides alternative information gathering method
+
 ## Navigation
 
 ### Next Steps
@@ -154,6 +249,10 @@ Players can:
 ### Related Sections
 
 - [Key-NPCs.md](./Key-NPCs.md) - Meet Volo and other information sources
+- [Meeting-Volo.md](./Meeting-Volo.md) - Meet Volo for detailed information
 - [City-Activities.md](../04-Side-Quests-and-Activities/City-Activities.md) - Visit taverns and other gathering places
+- [Tavern-Rumors.md](../04-Side-Quests-and-Activities/Tavern-Rumors.md) - Overhear rumors in taverns
 - [Power-Structure.md](./Power-Structure.md) - Use political knowledge to gather information
+- [Solid-Lead-Requirements.md](../06-Chapter-Transition/Solid-Lead-Requirements.md) - What constitutes a solid lead
+- [Chapter-Exit-Conditions.md](../06-Chapter-Transition/Chapter-Exit-Conditions.md) - Requirements for leaving Chapter 1
 - [City-Overview.md](../02-Arrival-in-Port-Nyanzaru/City-Overview.md) - Return to city hub
