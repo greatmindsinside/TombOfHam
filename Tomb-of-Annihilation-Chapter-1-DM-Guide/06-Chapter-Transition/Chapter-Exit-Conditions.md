@@ -137,10 +137,49 @@ If missing essential elements, provide opportunities to acquire them before allo
 ### Next Steps
 
 - **If ready to leave**: → [Leaving-Port-Nyanzaru.md](./Leaving-Port-Nyanzaru.md) - Depart the city and begin Chapter 2
-- **If missing guide**: → [Hiring-Guides.md](../05-Outfitting-and-Preparation/Hiring-Guides.md) - Hire a jungle guide
-- **If missing supplies**: → [Supplies-and-Gear.md](../05-Outfitting-and-Preparation/Supplies-and-Gear.md) - Buy expedition gear
-- **If missing destination**: → [Gathering-Information.md](../03-City-Exploration-and-Social-Play/Gathering-Information.md) - Learn about jungle destinations
-- **If need more preparation**: → [City-Overview.md](../02-Arrival-in-Port-Nyanzaru/City-Overview.md) - Return to city exploration
+
+## Player Choices & Navigation
+
+### If Players Have Everything Needed
+
+→ [Leaving-Port-Nyanzaru.md](./Leaving-Port-Nyanzaru.md) - Depart the city and begin Chapter 2
+
+### If Players Are Missing Essential Items
+
+**Missing a solid lead:**
+→ [Solid-Lead-Requirements.md](./Solid-Lead-Requirements.md) - What constitutes a solid lead
+→ [Gathering-Information.md](../03-City-Exploration-and-Social-Play/Gathering-Information.md) - Gather information
+→ [Tavern-Rumors.md](../04-Side-Quests-and-Activities/Tavern-Rumors.md) - Listen to tavern rumors
+→ [Meeting-Volo.md](../03-City-Exploration-and-Social-Play/Meeting-Volo.md) - Meet Volo for information
+
+**Missing understanding of jungle dangers:**
+→ [Jungle-Dangers-Understanding.md](./Jungle-Dangers-Understanding.md) - Required understanding of dangers
+→ [Meeting-Volo.md](../03-City-Exploration-and-Social-Play/Meeting-Volo.md) - Volo explains dangers
+→ [Gathering-Information.md](../03-City-Exploration-and-Social-Play/Gathering-Information.md) - Learn from other sources
+
+**Missing a guide:**
+→ [Hiring-Guides.md](../05-Outfitting-and-Preparation/Hiring-Guides.md) - Hire a jungle guide
+→ [Guide-Recruiters.md](../05-Outfitting-and-Preparation/Guide-Recruiters.md) - Meet guide recruiters
+
+**Missing supplies:**
+→ [Supplies-and-Gear.md](../05-Outfitting-and-Preparation/Supplies-and-Gear.md) - Buy expedition gear
+→ [Essential-Supplies-Encounters.md](../05-Outfitting-and-Preparation/Essential-Supplies-Encounters.md) - Individual supply encounters
+
+**Want optional preparations:**
+→ [Optional-Preparations.md](./Optional-Preparations.md) - Optional but recommended preparations
+
+### If Players Need More City Exploration
+
+→ [City-Overview.md](../02-Arrival-in-Port-Nyanzaru/City-Overview.md) - Return to city exploration
+
+### After This Check
+
+- **If ready:** → [Leaving-Port-Nyanzaru.md](./Leaving-Port-Nyanzaru.md) - Depart the city
+- **If not ready:** Return to missing requirement document
+
+### Master Navigation
+
+→ [Story-Navigation.md](../00-Session-Prep/Story-Navigation.md) - Complete navigation guide
 
 ### Related Sections
 

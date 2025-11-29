@@ -5,6 +5,7 @@ This folder contains maps for cities, towns, and settlements.
 ## Usage
 
 City maps are useful for:
+
 - Urban exploration
 - Social encounters
 - Navigation and travel planning
@@ -22,6 +23,7 @@ City maps are useful for:
 ## File Organization
 
 Organize by:
+
 - City name
 - District or area
 - Scale (overview vs detailed)
@@ -36,4 +38,3 @@ Organize by:
 ---
 
 **Back to:** [Maps Directory](../README.md) | [Maps Reference Guide](../../Maps.md)
-

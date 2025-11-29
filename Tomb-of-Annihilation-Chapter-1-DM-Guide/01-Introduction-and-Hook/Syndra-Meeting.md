@@ -118,12 +118,31 @@ This is the detailed meeting scene. Allow players to interact with Syndra natura
   - Her protective spells are actually making the curse worse - *Needs verification*
   - Has less time remaining than she claims (6-8 weeks, not months) - *Needs verification*
 
-## Navigation
+## Player Choices & Navigation
 
-### Next Steps
+### If Players Accept the Quest
 
-- **If players accept the quest**: → [Teleportation-to-Chult.md](./Teleportation-to-Chult.md) - Syndra teleports the party to Port Nyanzaru
-- **If players negotiate successfully (Critical Success)**: → [Teleportation-to-Chult.md](./Teleportation-to-Chult.md) - With additional benefits (journal, guide contact, sending stone)
+→ [Teleportation-to-Chult.md](./Teleportation-to-Chult.md) - Syndra teleports the party to Port Nyanzaru
+
+### If Players Negotiate Successfully (Critical Success)
+
+→ [Teleportation-to-Chult.md](./Teleportation-to-Chult.md) - With additional benefits (journal, guide contact, sending stone)
+
+### If Players Ask More Questions
+
+Continue in this scene, then → [Teleportation-to-Chult.md](./Teleportation-to-Chult.md)
+
+### If Players Want to Investigate Syndra Further
+
+Use skill checks in this scene, then → [Teleportation-to-Chult.md](./Teleportation-to-Chult.md)
+
+### After This Scene
+
+→ [Teleportation-to-Chult.md](./Teleportation-to-Chult.md) - Next step: teleportation to Chult
+
+### Master Navigation
+
+→ [Story-Navigation.md](../00-Session-Prep/Story-Navigation.md) - Complete navigation guide
 
 ### Related Sections
 

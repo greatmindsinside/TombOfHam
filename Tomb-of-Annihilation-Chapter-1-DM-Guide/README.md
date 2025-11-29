@@ -51,8 +51,9 @@ Additional reference materials, page numbers, and alternative structures.
 ## How to Use This Guide
 
 1. **Start with 00-Session-Prep** to review the chapter overview and prepare your materials
-2. **Follow the numbered folders in order** during your session
-3. **Use the reference materials** as needed for quick lookups
-4. **Read the content aloud** or paraphrase as appropriate for your players
+2. **Use the Navigation System** → [Story-Navigation.md](00-Session-Prep/Story-Navigation.md) - Choose-your-own-adventure style navigation based on player choices
+3. **Follow the numbered folders in order** during your session, OR use the navigation guide to jump between sections based on what players choose
+4. **Use the reference materials** as needed for quick lookups
+5. **Read the content aloud** or paraphrase as appropriate for your players
 
-Each folder contains markdown files with the information you need to know and say at that point in the session.
+Each folder contains markdown files with the information you need to know and say at that point in the session. Each file also includes a "Player Choices & Navigation" section to help you find the next scene based on what players choose to do.

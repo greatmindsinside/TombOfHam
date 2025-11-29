@@ -307,14 +307,47 @@ Use these encounters when players need to hire a guide before leaving Port Nyanz
 
 ---
 
-## Navigation
+## Player Choices & Navigation
 
-### Next Steps
+### If Players Hire a Guide
 
-- **After hiring a guide**: → [Chapter-Exit-Conditions.md](../06-Chapter-Transition/Chapter-Exit-Conditions.md) - Verify readiness for jungle travel
-- **If still need supplies**: → [Supplies-and-Gear.md](./Supplies-and-Gear.md) - Buy expedition gear
-- **If still need charter**: → [Expedition-Charter.md](./Expedition-Charter.md) - Get Flaming Fist expedition charter
-- **If need more information**: → [City-Overview.md](../02-Arrival-in-Port-Nyanzaru/City-Overview.md) - Return to city exploration
+→ [Supplies-and-Gear.md](./Supplies-and-Gear.md) - Next: Buy expedition gear
+→ [Chapter-Exit-Conditions.md](../06-Chapter-Transition/Chapter-Exit-Conditions.md) - Check readiness (if they already have supplies)
+
+### If Players Want to Buy Supplies First
+
+→ [Supplies-and-Gear.md](./Supplies-and-Gear.md) - Buy expedition gear
+
+- **If focusing on essential supplies individually:**
+  → [Essential-Supplies-Encounters.md](./Essential-Supplies-Encounters.md) - Individual supply encounters
+
+### If Players Want an Expedition Charter
+
+→ [Expedition-Charter.md](./Expedition-Charter.md) - Get Flaming Fist charter (optional)
+
+### If Players Need More Information Before Hiring
+
+→ [Gathering-Information.md](../03-City-Exploration-and-Social-Play/Gathering-Information.md) - Gather information about guides
+→ [City-Overview.md](../02-Arrival-in-Port-Nyanzaru/City-Overview.md) - Return to city exploration
+
+### If Players Have Guide and Supplies
+
+→ [Chapter-Exit-Conditions.md](../06-Chapter-Transition/Chapter-Exit-Conditions.md) - Verify readiness for jungle travel
+
+### If Players Think They're Ready to Leave
+
+→ [Chapter-Exit-Conditions.md](../06-Chapter-Transition/Chapter-Exit-Conditions.md) - Final readiness check
+
+- **If ready:**
+  → [Leaving-Port-Nyanzaru.md](../06-Chapter-Transition/Leaving-Port-Nyanzaru.md) - Depart the city
+
+### After This Scene
+
+Continue to supplies purchase or verify readiness
+
+### Master Navigation
+
+→ [Story-Navigation.md](../00-Session-Prep/Story-Navigation.md) - Complete navigation guide
 
 ### Related Sections
 

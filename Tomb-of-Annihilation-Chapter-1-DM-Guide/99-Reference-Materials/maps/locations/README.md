@@ -18,6 +18,7 @@ Location maps cover specific areas that aren't full cities or dungeons but are i
 ## File Organization
 
 Organize by:
+
 - Location name
 - Type (fort, camp, ruin, etc.)
 - Grid vs gridless versions
@@ -32,4 +33,3 @@ Organize by:
 ---
 
 **Back to:** [Maps Directory](../README.md) | [Maps Reference Guide](../../Maps.md)
-

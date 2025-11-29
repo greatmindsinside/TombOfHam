@@ -17,6 +17,7 @@ Dungeon maps typically contain hidden information (traps, secret doors, monster 
 ## File Organization
 
 Organize by:
+
 - Location name
 - Level or floor (if multi-level)
 - Grid vs gridless versions
@@ -31,4 +32,3 @@ Organize by:
 ---
 
 **Back to:** [Maps Directory](../README.md) | [Maps Reference Guide](../../Maps.md)
-

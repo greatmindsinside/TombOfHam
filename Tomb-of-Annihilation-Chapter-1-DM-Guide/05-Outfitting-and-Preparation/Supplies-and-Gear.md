@@ -352,14 +352,44 @@ Use these encounters when players need to purchase supplies before leaving Port 
 
 ---
 
-## Navigation
+## Player Choices & Navigation
 
-### Next Steps
+### If Players Purchase Supplies
 
-- **After purchasing supplies**: → [Chapter-Exit-Conditions.md](../06-Chapter-Transition/Chapter-Exit-Conditions.md) - Verify readiness for jungle travel
-- **If still need guides**: → [Hiring-Guides.md](./Hiring-Guides.md) - Hire a jungle guide
-- **If still need charter**: → [Expedition-Charter.md](./Expedition-Charter.md) - Get Flaming Fist expedition charter
-- **If need more information**: → [City-Overview.md](../02-Arrival-in-Port-Nyanzaru/City-Overview.md) - Return to city exploration
+→ [Hiring-Guides.md](./Hiring-Guides.md) - Next: Hire a guide (if not already done)
+→ [Chapter-Exit-Conditions.md](../06-Chapter-Transition/Chapter-Exit-Conditions.md) - Check readiness (if they already have a guide)
+
+### If Players Want to Focus on Essential Supplies Individually
+
+→ [Essential-Supplies-Encounters.md](./Essential-Supplies-Encounters.md) - Individual encounters for each essential supply item
+
+### If Players Want an Expedition Charter
+
+→ [Expedition-Charter.md](./Expedition-Charter.md) - Get Flaming Fist charter (optional)
+
+### If Players Need More Information About Supplies
+
+→ [Jungle-Dangers-Understanding.md](../06-Chapter-Transition/Jungle-Dangers-Understanding.md) - Understand why supplies are essential
+→ [City-Overview.md](../02-Arrival-in-Port-Nyanzaru/City-Overview.md) - Return to city exploration
+
+### If Players Have Supplies and Guide
+
+→ [Chapter-Exit-Conditions.md](../06-Chapter-Transition/Chapter-Exit-Conditions.md) - Verify readiness for jungle travel
+
+### If Players Think They're Ready to Leave
+
+→ [Chapter-Exit-Conditions.md](../06-Chapter-Transition/Chapter-Exit-Conditions.md) - Final readiness check
+
+- **If ready:**
+  → [Leaving-Port-Nyanzaru.md](../06-Chapter-Transition/Leaving-Port-Nyanzaru.md) - Depart the city
+
+### After This Scene
+
+Continue to guide hiring or verify readiness
+
+### Master Navigation
+
+→ [Story-Navigation.md](../00-Session-Prep/Story-Navigation.md) - Complete navigation guide
 
 ### Related Sections
 

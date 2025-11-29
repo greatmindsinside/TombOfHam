@@ -13,7 +13,7 @@ This folder contains tavern and inn maps for use in your campaign. Perfect for s
 
 A comprehensive collection of tavern maps from the DungeonFog community challenge. Each tavern includes multiple levels and both grid and gridless versions.
 
-#### Available Taverns:
+#### Available Taverns
 
 1. **Auberge du Repos Mérité** (galahad38)
    - 3 levels (ground floor, second floor, third floor)
@@ -77,6 +77,7 @@ A comprehensive collection of tavern maps from the DungeonFog community challeng
 ## File Naming Convention
 
 Files follow this pattern:
+
 - `[tavernname]_[creator]/[tavernname]_[creator]_level-[X]_grid.jpg` - Grid version
 - `[tavernname]_[creator]/[tavernname]_[creator]_level-[X].jpg` - Gridless version
 
@@ -92,4 +93,3 @@ Files follow this pattern:
 ---
 
 **Back to:** [Maps Directory](../README.md) | [Maps Reference Guide](../../Maps.md)
-

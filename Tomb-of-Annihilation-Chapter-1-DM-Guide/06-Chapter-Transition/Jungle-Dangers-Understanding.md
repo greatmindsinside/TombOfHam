@@ -341,4 +341,3 @@ Use these encounters when players need to understand jungle dangers before leavi
 - [Tavern-Rumors.md](../04-Side-Quests-and-Activities/Tavern-Rumors.md) - Hear horror stories about failed expeditions
 - [Solid-Lead-Requirements.md](./Solid-Lead-Requirements.md) - Requirements for having a destination
 - [Optional-Preparations.md](./Optional-Preparations.md) - Additional preparation options
-

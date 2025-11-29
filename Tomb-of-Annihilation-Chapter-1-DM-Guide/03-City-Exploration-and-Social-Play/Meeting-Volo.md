@@ -268,14 +268,43 @@ Before allowing players to leave Chapter 1, ensure Volo has provided (or players
 
 "'I'm working on a new guide, you see. Volo's Guide to Chult - or perhaps Volo's Guide to Surviving the Death Curse. I think your adventures would make excellent material. If you're successful, I'd love to document your journey. It would be quite the story!'"
 
-## Navigation
+## Player Choices & Navigation
 
-### Next Steps
+### If Players Want to Continue Gathering Information
 
-- **After meeting Volo**: → [Gathering-Information.md](./Gathering-Information.md) - Continue gathering information from other sources
-- **If Volo mentions guides**: → [Hiring-Guides.md](../05-Outfitting-and-Preparation/Hiring-Guides.md) - Follow up on guide recommendations
-- **If Volo provides leads**: → [City-Activities.md](../04-Side-Quests-and-Activities/City-Activities.md) - Explore other city locations
-- **If players want more NPCs**: → [Key-NPCs.md](./Key-NPCs.md) - Meet other important NPCs
+→ [Gathering-Information.md](./Gathering-Information.md) - Other information sources
+
+- **If gathering rumors in taverns:**
+  → [Tavern-Rumors.md](../04-Side-Quests-and-Activities/Tavern-Rumors.md)
+
+### If Volo Mentions Guides or Players Want to Hire One
+
+→ [Hiring-Guides.md](../05-Outfitting-and-Preparation/Hiring-Guides.md) - Follow up on guide recommendations
+
+### If Players Want to Explore Other City Locations
+
+→ [City-Activities.md](../04-Side-Quests-and-Activities/City-Activities.md) - Taverns, markets, temples, spectacles
+
+### If Players Want to Meet Other NPCs
+
+→ [Key-NPCs.md](./Key-NPCs.md) - Meet other important NPCs
+
+### If Players Have Enough Information and Want to Prepare
+
+→ [Hiring-Guides.md](../05-Outfitting-and-Preparation/Hiring-Guides.md) - Hire a guide
+→ [Supplies-and-Gear.md](../05-Outfitting-and-Preparation/Supplies-and-Gear.md) - Buy supplies
+
+### If Players Think They're Ready to Leave
+
+→ [Chapter-Exit-Conditions.md](../06-Chapter-Transition/Chapter-Exit-Conditions.md) - Verify readiness
+
+### After This Scene
+
+Players can return to [City-Overview.md](../02-Arrival-in-Port-Nyanzaru/City-Overview.md) to choose their next activity
+
+### Master Navigation
+
+→ [Story-Navigation.md](../00-Session-Prep/Story-Navigation.md) - Complete navigation guide
 
 ### Related Sections
 

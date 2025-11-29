@@ -16,6 +16,7 @@ If you have digital copies of official maps (scanned or downloaded), place them 
 ## File Organization
 
 Organize official maps by:
+
 - Chapter or location
 - Map type (regional, city, dungeon, location)
 - Player vs DM versions (if applicable)
@@ -27,4 +28,3 @@ For page references and online links to official maps, see the [Maps Reference G
 ---
 
 **Back to:** [Maps Directory](../README.md) | [Maps Reference Guide](../../Maps.md)
-

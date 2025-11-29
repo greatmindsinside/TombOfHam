@@ -280,14 +280,42 @@ This encounter can be adapted for different quest types:
 - **If you want to introduce specific NPCs**: Quest giver can lead to important contacts
 - **If players need experience**: Provides XP opportunity
 
-## Navigation
+## Player Choices & Navigation
 
-### Next Steps
+### If Players Complete Side Quests
 
-- **After completing side quests**: → [City-Overview.md](../02-Arrival-in-Port-Nyanzaru/City-Overview.md) - Return to city exploration
-- **When ready to prepare for jungle**: → [Supplies-and-Gear.md](../05-Outfitting-and-Preparation/Supplies-and-Gear.md), [Hiring-Guides.md](../05-Outfitting-and-Preparation/Hiring-Guides.md), [Expedition-Charter.md](../05-Outfitting-and-Preparation/Expedition-Charter.md)
-- **If quests lead to NPCs**: → [Key-NPCs.md](../03-City-Exploration-and-Social-Play/Key-NPCs.md) - Follow up on quest contacts
-- **If quests provide information**: → [Gathering-Information.md](../03-City-Exploration-and-Social-Play/Gathering-Information.md) - Use quest information
+→ [City-Overview.md](../02-Arrival-in-Port-Nyanzaru/City-Overview.md) - Return to city exploration to choose next activity
+
+### If Players Want to Take More Side Quests
+
+→ Continue in this document - Multiple quest options available
+
+### If Players Are Ready to Prepare for Jungle
+
+→ [Hiring-Guides.md](../05-Outfitting-and-Preparation/Hiring-Guides.md) - Hire a guide
+→ [Supplies-and-Gear.md](../05-Outfitting-and-Preparation/Supplies-and-Gear.md) - Buy expedition gear
+→ [Expedition-Charter.md](../05-Outfitting-and-Preparation/Expedition-Charter.md) - Get Flaming Fist charter (optional)
+
+### If Quests Lead to Important NPCs
+
+→ [Key-NPCs.md](../03-City-Exploration-and-Social-Play/Key-NPCs.md) - Follow up on quest contacts
+
+### If Quests Provide Information About Jungle
+
+→ [Gathering-Information.md](../03-City-Exploration-and-Social-Play/Gathering-Information.md) - Use quest information
+→ [Solid-Lead-Requirements.md](../06-Chapter-Transition/Solid-Lead-Requirements.md) - Check if quest provided a solid lead
+
+### If Players Think They're Ready to Leave
+
+→ [Chapter-Exit-Conditions.md](../06-Chapter-Transition/Chapter-Exit-Conditions.md) - Verify readiness
+
+### After This Scene
+
+Players can return to [City-Overview.md](../02-Arrival-in-Port-Nyanzaru/City-Overview.md) to choose their next activity
+
+### Master Navigation
+
+→ [Story-Navigation.md](../00-Session-Prep/Story-Navigation.md) - Complete navigation guide
 
 ### Related Sections
 

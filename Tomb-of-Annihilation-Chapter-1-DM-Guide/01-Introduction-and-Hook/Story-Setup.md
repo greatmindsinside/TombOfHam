@@ -80,12 +80,31 @@ This is the campaign's opening hook. Most parties will accept, but allow players
 - **Failure**: "The ambient magic feels normal to you, though you're aware that more powerful mages have reported disturbances. You can't personally sense the connection to the Death Curse."
 - **Critical Success (18+)**: "The magical disturbance is more pronounced than you expected. You can actually trace faint threads of necromantic energy in the air, all pointing roughly southward - toward Chult. The corruption in the weave is growing stronger, suggesting the artifact is becoming more active. You also sense that the disturbance affects not just resurrection magic, but all forms of life-restoring magic, including healing spells that bring people back from the brink of death." *(Note: Specific magical details are DM-created content to enhance the scene - verify against official source p. 5)*
 
-## Navigation
+## Player Choices & Navigation
 
-### Next Steps
+### If Players Accept the Quest Immediately
 
-- **If players accept the quest**: → [Syndra-Meeting.md](./Syndra-Meeting.md) - Detailed meeting with Syndra Silvane
-- **If players ask questions or negotiate**: Continue in this scene, then → [Syndra-Meeting.md](./Syndra-Meeting.md)
+→ [Syndra-Meeting.md](./Syndra-Meeting.md) - Detailed meeting with Syndra Silvane
+
+### If Players Ask Questions or Negotiate
+
+Continue in this scene, then → [Syndra-Meeting.md](./Syndra-Meeting.md)
+
+### If Players Decline or Hesitate
+
+→ [Handling-Player-Reluctance.md](./Handling-Player-Reluctance.md) - Dealing with player reluctance
+
+### If Players Want More Detail
+
+→ [Syndra-Meeting.md](./Syndra-Meeting.md) - Full Syndra interaction with all skill checks
+
+### After This Scene
+
+→ [Syndra-Meeting.md](./Syndra-Meeting.md) - Next step in the story flow
+
+### Master Navigation
+
+→ [Story-Navigation.md](../00-Session-Prep/Story-Navigation.md) - Complete navigation guide
 
 ### Related Sections
 

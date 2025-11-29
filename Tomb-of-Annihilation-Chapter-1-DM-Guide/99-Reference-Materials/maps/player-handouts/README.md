@@ -5,6 +5,7 @@ This folder contains maps that are safe to show players. These maps do not conta
 ## Usage
 
 Player handout maps are designed to be shared directly with players. They help with:
+
 - Navigation and travel planning
 - Understanding location layouts
 - Visualizing the world
@@ -27,6 +28,7 @@ Player handout maps are designed to be shared directly with players. They help w
 ## File Organization
 
 Organize by:
+
 - Map type (regional, city, location)
 - Purpose (navigation, exploration, etc.)
 
@@ -40,4 +42,3 @@ Organize by:
 ---
 
 **Back to:** [Maps Directory](../README.md) | [Maps Reference Guide](../../Maps.md)
-

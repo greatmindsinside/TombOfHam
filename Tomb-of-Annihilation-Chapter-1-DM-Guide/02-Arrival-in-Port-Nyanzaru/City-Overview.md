@@ -108,27 +108,59 @@ This is the party's first chance to explore. Let them choose their direction, bu
 - **Failure**: "You sense magic around the city, but you can't determine its specific nature or purpose."
 - **Critical Success (16+)**: "Your arcane analysis reveals detailed information: the city is protected by multiple layers of magical wards (abjuration magic for defense, divination magic for early warning, and even some transmutation magic that may affect the city's climate). The wards are sophisticated and clearly maintained by skilled spellcasters. You also detect that some areas have stronger protections than others (likely merchant prince compounds and important buildings), and you sense a subtle magical barrier that may prevent certain types of creatures from entering the city. Most interestingly, you notice the wards have been recently reinforced, suggesting the city is preparing for increased threats - possibly related to the Death Curse or increased expedition activity disturbing things in the jungle."
 
-## Navigation
+## Player Choices & Navigation
 
-### Exploration Options
+### If Players Want to Use Fast-Track
 
-- **Meet NPCs**: → [Key-NPCs.md](../03-City-Exploration-and-Social-Play/Key-NPCs.md) - Volo, Merchant Princes, faction representatives
-- **Understand politics**: → [Power-Structure.md](../03-City-Exploration-and-Social-Play/Power-Structure.md) - Merchant princes and factions
-- **Gather information**: → [Gathering-Information.md](../03-City-Exploration-and-Social-Play/Gathering-Information.md) - Rumors, leads, and knowledge
-- **Take side quests**: → [Side-Quests.md](../04-Side-Quests-and-Activities/Side-Quests.md) - Missions and opportunities
-- **City activities**: → [City-Activities.md](../04-Side-Quests-and-Activities/City-Activities.md) - Taverns, markets, temples, spectacles
-- **Dinosaur racing**: → [Dinosaur-Racing.md](../04-Side-Quests-and-Activities/Dinosaur-Racing.md) - Entertainment and betting
+→ [Fast-Track-Chapter-1.md](../99-Reference-Materials/Fast-Track-Chapter-1.md) - Condensed version for quick play
 
-### Preparation Options
+### If Players Want to Explore (Full Experience)
 
-- **Buy supplies**: → [Supplies-and-Gear.md](../05-Outfitting-and-Preparation/Supplies-and-Gear.md) - Essential expedition gear
+**Option A: Meet Important NPCs**
+→ [Key-NPCs.md](../03-City-Exploration-and-Social-Play/Key-NPCs.md) - Volo, Merchant Princes, faction representatives
+
+- **If meeting Volo specifically:**
+  → [Meeting-Volo.md](../03-City-Exploration-and-Social-Play/Meeting-Volo.md)
+
+**Option B: Gather Information**
+→ [Gathering-Information.md](../03-City-Exploration-and-Social-Play/Gathering-Information.md) - Rumors, leads, and knowledge
+
+- **If gathering rumors in taverns:**
+  → [Tavern-Rumors.md](../04-Side-Quests-and-Activities/Tavern-Rumors.md)
+
+**Option C: Explore City Activities**
+→ [City-Activities.md](../04-Side-Quests-and-Activities/City-Activities.md) - Taverns, markets, temples, spectacles
+
+- **If watching dinosaur racing:**
+  → [Dinosaur-Racing.md](../04-Side-Quests-and-Activities/Dinosaur-Racing.md)
+
+**Option D: Take Side Quests**
+→ [Side-Quests.md](../04-Side-Quests-and-Activities/Side-Quests.md) - Missions and opportunities
+
+**Option E: Understand Politics**
+→ [Power-Structure.md](../03-City-Exploration-and-Social-Play/Power-Structure.md) - Merchant princes and factions
+
+**Option F: Start Preparing**
+→ [Hiring-Guides.md](../05-Outfitting-and-Preparation/Hiring-Guides.md) OR [Supplies-and-Gear.md](../05-Outfitting-and-Preparation/Supplies-and-Gear.md)
+
+### If Players Are Ready to Prepare
+
 - **Hire guides**: → [Hiring-Guides.md](../05-Outfitting-and-Preparation/Hiring-Guides.md) - Choose a jungle guide
-- **Get charter**: → [Expedition-Charter.md](../05-Outfitting-and-Preparation/Expedition-Charter.md) - Flaming Fist expedition charter
+- **Buy supplies**: → [Supplies-and-Gear.md](../05-Outfitting-and-Preparation/Supplies-and-Gear.md) - Essential expedition gear
+- **Get charter (optional)**: → [Expedition-Charter.md](../05-Outfitting-and-Preparation/Expedition-Charter.md) - Flaming Fist expedition charter
 
-### When Ready to Leave
+### If Players Think They're Ready to Leave
 
 - **Verify readiness**: → [Chapter-Exit-Conditions.md](../06-Chapter-Transition/Chapter-Exit-Conditions.md) - Check that you have everything needed
-- **Depart the city**: → [Leaving-Port-Nyanzaru.md](../06-Chapter-Transition/Leaving-Port-Nyanzaru.md) - Begin Chapter 2
+- **If ready**: → [Leaving-Port-Nyanzaru.md](../06-Chapter-Transition/Leaving-Port-Nyanzaru.md) - Begin Chapter 2
+
+### After Any Activity
+
+Players can return to this document to choose their next activity, or proceed to preparation if ready.
+
+### Master Navigation
+
+→ [Story-Navigation.md](../00-Session-Prep/Story-Navigation.md) - Complete navigation guide
 
 ### Return to
 

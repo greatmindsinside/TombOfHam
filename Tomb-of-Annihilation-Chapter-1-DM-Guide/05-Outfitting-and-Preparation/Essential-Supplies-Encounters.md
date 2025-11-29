@@ -15,11 +15,11 @@ This document breaks down the Essential Supplies Checklist into individual encou
 
 **Location:** Grand Souk Market, Port Nyanzaru
 
-### Encounter Setup
+### Encounter Setup (Water Containers)
 
 Players encounter a merchant specializing in water storage containers, or a merchant emphasizes the critical importance of water during their shopping.
 
-### Encounter Dialogue
+### Encounter Dialogue (Water Containers)
 
 > "A merchant with a stall full of water containers calls out to you. 'Water storage! You'll need proper containers for your expedition. The heat in the jungle will make you drink more than you think - a gallon per person per day is the minimum, and that's if you're lucky. In extreme heat, you'll need more. And these containers need to be sturdy - tropical storms can destroy flimsy containers, and losing your water means death in days.
 >
@@ -27,25 +27,25 @@ Players encounter a merchant specializing in water storage containers, or a merc
 >
 > 'These containers (2 cp per gallon) are made to withstand tropical conditions. They're worth every coin. How many gallons do you need? Remember: one gallon per person per day, minimum seven days. That's seven gallons per person, and you'll probably need more.'"
 
-### Encounter Options
+### Encounter Options (Water Containers)
 
 1. **Purchase containers** - Buy the recommended amount (7+ gallons per person)
 2. **Ask about alternatives** - Inquire about rain catchers or other water sources
 3. **Negotiate price** - Try to get a better deal
 4. **Use skill checks** - Investigate quality, detect if merchant is honest
 
-### Encounter Skill Checks
+### Encounter Skill Checks (Water Containers)
 
 - **Survival (DC 12)**: Understand true water needs for jungle travel
 - **Investigation (DC 11)**: Verify container quality and durability
 - **Persuasion (DC 12)**: Negotiate better prices or get advice
 - **Insight (DC 10)**: Detect if merchant is being honest about water needs
 
-### Reward
+### Reward (Water Containers)
 
 Access to quality water containers and understanding of water requirements
 
-### What Happens If Players Skip This
+### What Happens If Players Skip This (Water Containers)
 
 - **Missing water containers**: Players cannot carry enough water, leading to dehydration and exhaustion
 - **Flimsy containers**: Containers break during storms, losing all water
@@ -57,11 +57,11 @@ Access to quality water containers and understanding of water requirements
 
 **Location:** Grand Souk Market, Port Nyanzaru
 
-### Encounter Setup
+### Encounter Setup (Food Rations)
 
 Players encounter a merchant selling preserved food rations, or a merchant emphasizes the importance of proper food supplies.
 
-### Encounter Dialogue
+### Encounter Dialogue (Food Rations)
 
 > "A merchant with a stall full of preserved rations approaches you. 'Food for your expedition? You'll need rations that won't spoil in the heat. Fresh food will rot in days - the jungle humidity and heat destroy everything. You need preserved rations that can last weeks.
 >
@@ -69,25 +69,25 @@ Players encounter a merchant selling preserved food rations, or a merchant empha
 >
 > 'These rations (5 sp per day) are preserved to last in tropical conditions. They're not gourmet, but they'll keep you alive. Seven days per person is 3.5 gold pieces. But trust me - bring more if you can. The jungle has a way of making expeditions take longer than expected.'"
 
-### Encounter Options
+### Encounter Options (Food Rations)
 
 1. **Purchase rations** - Buy the recommended amount (7+ days per person)
 2. **Ask about preservation** - Learn about how rations are preserved
 3. **Negotiate bulk discount** - Try to get a better price for larger quantities
 4. **Use skill checks** - Investigate quality, verify preservation methods
 
-### Encounter Skill Checks
+### Encounter Skill Checks (Food Rations)
 
 - **Survival (DC 12)**: Understand true food needs and preservation requirements
 - **Investigation (DC 11)**: Verify ration quality and preservation methods
 - **Persuasion (DC 12)**: Negotiate better prices or get bulk discounts
 - **Insight (DC 10)**: Detect if merchant is being honest about food needs
 
-### Reward
+### Reward (Food Rations)
 
 Access to quality preserved rations and understanding of food requirements
 
-### What Happens If Players Skip This
+### What Happens If Players Skip This (Food Rations)
 
 - **Missing rations**: Players cannot carry enough food, leading to starvation and exhaustion
 - **Fresh food**: Food spoils quickly in tropical conditions, becoming inedible
@@ -99,11 +99,11 @@ Access to quality preserved rations and understanding of food requirements
 
 **Location:** Grand Souk Market, Port Nyanzaru
 
-### Encounter Setup
+### Encounter Setup (Insect Repellent)
 
 Players encounter a merchant selling insect repellent, or a merchant emphasizes the critical importance of protection against disease-carrying insects.
 
-### Encounter Dialogue
+### Encounter Dialogue (Insect Repellent)
 
 > "A merchant with a stall specializing in insect protection calls out urgently. 'Insect repellent! This is absolutely critical - you cannot skip this. Mosquitoes in the jungle carry deadly diseases: shivering sickness, which causes fever and chills, and other tropical diseases that can kill you in days.
 >
@@ -111,25 +111,25 @@ Players encounter a merchant selling insect repellent, or a merchant emphasizes 
 >
 > 'Standard repellent (1 gp) will protect you, but if you want the best protection, Merchant Prince Jessamine's insect repellent paste (5 gp) is superior. It lasts longer and provides better protection. But even the standard repellent is better than nothing. Don't leave the city without it.'"
 
-### Encounter Options
+### Encounter Options (Insect Repellent)
 
 1. **Purchase standard repellent** - Buy basic protection (1 gp)
 2. **Purchase premium paste** - Buy Merchant Prince Jessamine's superior paste (5 gp)
 3. **Ask about diseases** - Learn about specific diseases and their effects
 4. **Use skill checks** - Investigate effectiveness, verify merchant claims
 
-### Encounter Skill Checks
+### Encounter Skill Checks (Insect Repellent)
 
 - **Medicine (DC 12)**: Understand disease risks and protection needs
 - **Investigation (DC 11)**: Verify repellent effectiveness and compare options
 - **Persuasion (DC 12)**: Negotiate prices or get recommendations
 - **Insight (DC 10)**: Detect if merchant is being honest about disease risks
 
-### Reward
+### Reward (Insect Repellent)
 
 Access to insect repellent and understanding of disease protection needs
 
-### What Happens If Players Skip This
+### What Happens If Players Skip This (Insect Repellent)
 
 - **Missing repellent**: Players must make daily Constitution saves against disease
 - **Failed saves**: Players contract diseases that cause exhaustion, ability score reduction, and potential death
@@ -141,11 +141,11 @@ Access to insect repellent and understanding of disease protection needs
 
 **Location:** Grand Souk Market, Port Nyanzaru
 
-### Encounter Setup
+### Encounter Setup (Tents with Insect Netting)
 
 Players encounter a merchant selling tents, or a merchant emphasizes the importance of proper shelter.
 
-### Encounter Dialogue
+### Encounter Dialogue (Tents with Insect Netting)
 
 > "A merchant with a stall full of tents approaches you. 'Shelter! You'll need tents for your expedition - and not just any tents. You need tents with insect netting. The jungle is full of insects that bite at night, and without protection, you'll be making disease saves even while you sleep.
 >
@@ -153,25 +153,25 @@ Players encounter a merchant selling tents, or a merchant emphasizes the importa
 >
 > 'These tents (2 gp) are designed for tropical conditions. They have insect netting to keep bugs out, waterproof materials to keep rain out, and they're sturdy enough to withstand storms. Don't try to save money by skipping this - exposure to weather and insects will kill you faster than most creatures.'"
 
-### Encounter Options
+### Encounter Options (Tents with Insect Netting)
 
 1. **Purchase tent** - Buy a tent with insect netting (2 gp)
 2. **Ask about features** - Learn about tent specifications and durability
 3. **Negotiate price** - Try to get a better deal
 4. **Use skill checks** - Investigate quality, verify durability
 
-### Encounter Skill Checks
+### Encounter Skill Checks (Tents with Insect Netting)
 
 - **Survival (DC 12)**: Understand shelter needs for jungle conditions
 - **Investigation (DC 11)**: Verify tent quality and durability
 - **Persuasion (DC 12)**: Negotiate prices or get recommendations
 - **Insight (DC 10)**: Detect if merchant is being honest about shelter needs
 
-### Reward
+### Reward (Tents with Insect Netting)
 
 Access to quality tents and understanding of shelter requirements
 
-### What Happens If Players Skip This
+### What Happens If Players Skip This (Tents with Insect Netting)
 
 - **Missing tents**: Players have no shelter from weather or insects
 - **No insect netting**: Players are exposed to disease-carrying insects while sleeping
@@ -183,11 +183,11 @@ Access to quality tents and understanding of shelter requirements
 
 **Location:** Grand Souk Market, Port Nyanzaru
 
-### Encounter Setup
+### Encounter Setup (Rain Catchers)
 
 Players encounter a merchant selling rain catchers, or a merchant emphasizes the importance of water collection during storms.
 
-### Encounter Dialogue
+### Encounter Dialogue (Rain Catchers)
 
 > "A merchant with a stall full of water collection equipment calls out to you. 'Rain catchers! You can't carry all the water you'll need - it's too heavy. But the jungle provides water almost daily in the form of tropical storms. You just need a way to collect it.
 >
@@ -195,25 +195,25 @@ Players encounter a merchant selling rain catchers, or a merchant emphasizes the
 >
 > 'I've seen expeditions fail because they ran out of water. They had containers, but they didn't have a way to collect more. The jungle gives you water almost every day - you just need to be ready to catch it. A rain catcher can mean the difference between survival and death.'"
 
-### Encounter Options
+### Encounter Options (Rain Catchers)
 
 1. **Purchase rain catcher** - Buy a rain catcher (5 gp)
 2. **Ask about operation** - Learn how to use rain catchers effectively
 3. **Negotiate price** - Try to get a better deal
 4. **Use skill checks** - Investigate quality, verify effectiveness
 
-### Encounter Skill Checks
+### Encounter Skill Checks (Rain Catchers)
 
 - **Survival (DC 12)**: Understand water collection needs and methods
 - **Investigation (DC 11)**: Verify rain catcher quality and effectiveness
 - **Persuasion (DC 12)**: Negotiate prices or get recommendations
 - **Insight (DC 10)**: Detect if merchant is being honest about water collection needs
 
-### Reward
+### Reward (Rain Catchers)
 
 Access to rain catchers and understanding of water collection methods
 
-### What Happens If Players Skip This
+### What Happens If Players Skip This (Rain Catchers)
 
 - **Missing rain catchers**: Players cannot collect water during storms, increasing risk of running out
 - **Water shortage**: Players must rely solely on carried water, which may not be enough
@@ -225,11 +225,11 @@ Access to rain catchers and understanding of water collection methods
 
 **Location:** Grand Souk Market or Harbor, Port Nyanzaru
 
-### Encounter Setup
+### Encounter Setup (Canoes)
 
 Players encounter a merchant selling canoes, or a merchant emphasizes the benefits of river travel.
 
-### Encounter Dialogue
+### Encounter Dialogue (Canoes)
 
 > "A merchant near the harbor or in the market approaches you. 'Planning to travel by river? You'll need a canoe. River travel is much faster and safer than walking through the jungle. You can cover more distance in a day, avoid many ground-based dangers, and carry more supplies.
 >
@@ -237,25 +237,25 @@ Players encounter a merchant selling canoes, or a merchant emphasizes the benefi
 >
 > 'I've seen expeditions take weeks to reach their destination on foot, but with a canoe, they can get there in days. Plus, you avoid many of the ground-based dangers - dinosaurs, undead, and hostile tribes. If you're traveling anywhere near a river, a canoe is worth every coin.'"
 
-### Encounter Options
+### Encounter Options (Canoes)
 
 1. **Purchase canoe** - Buy a canoe (50 gp)
 2. **Ask about river routes** - Learn about available river paths
 3. **Negotiate price** - Try to get a better deal
 4. **Use skill checks** - Investigate quality, verify river travel benefits
 
-### Encounter Skill Checks
+### Encounter Skill Checks (Canoes)
 
 - **Survival (DC 12)**: Understand river travel benefits and requirements
 - **Investigation (DC 11)**: Verify canoe quality and river route availability
 - **Persuasion (DC 12)**: Negotiate prices or get route information
 - **Insight (DC 10)**: Detect if merchant is being honest about river travel benefits
 
-### Reward
+### Reward (Canoes)
 
 Access to canoes and understanding of river travel benefits
 
-### What Happens If Players Skip This
+### What Happens If Players Skip This (Canoes)
 
 - **No canoe**: Players must travel on foot, which is slower and more dangerous
 - **Slower travel**: Walking takes much longer, increasing resource consumption
@@ -302,4 +302,3 @@ Access to canoes and understanding of river travel benefits
 - [Jungle-Dangers-Understanding.md](../06-Chapter-Transition/Jungle-Dangers-Understanding.md) - Understanding jungle dangers and supply needs
 - [Chapter-Exit-Conditions.md](../06-Chapter-Transition/Chapter-Exit-Conditions.md) - Verify you have everything needed
 - [Fast-Track-Chapter-1.md](../99-Reference-Materials/Fast-Track-Chapter-1.md) - Quick reference for essential supplies
-
