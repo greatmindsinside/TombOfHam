@@ -5,9 +5,51 @@
 
 **Location:** Tavern (Thundering Lizard or similar), Port Nyanzaru
 
-## What to Say
+## Tavern Environment and NPCs
 
-> "The tavern is alive with conversation. Adventurers share tales of narrow escapes, merchants discuss trade routes and dangers, and locals exchange the latest news and gossip. As you find a table and order drinks, you can't help but overhear snippets of conversation floating through the air.
+**What to Say (Initial Description):**
+
+> "The Thundering Lizard Tavern sprawls before you - a large, multi-level establishment that serves as Port Nyanzaru's primary gathering place for adventurers, guides, merchants, and anyone seeking information about the jungle. The air is thick with the smell of spiced ale, roasted meat, and the faint scent of sweat and leather from countless expeditions.
+>
+> **The Main Floor:**
+>
+> The ground level is a wide-open space with a high ceiling supported by thick wooden beams. A long bar runs along the back wall, well-stocked with local brews and exotic spirits. Behind it, a **bartender** - a middle-aged Chultan with a knowing smile - moves efficiently, occasionally checking on regulars and keeping an eye on the room's mood.
+>
+> **Near the Bar:**
+>
+> At the bar itself, a **weathered guide** sits nursing a drink, their eyes scanning the room nervously. They look like they've seen a lot - scars mark their arms, and their gear shows signs of hard use. They keep glancing around as if afraid someone might overhear them, and they seem to know more than they're sharing. *(This is the guide who knows about Omu but is afraid to talk about it - mentioned in Insight checks)*
+>
+> **Corner Tables:**
+>
+> In the far corner, a **group of weathered adventurers** sits huddled around a table, speaking in hushed tones. Their armor is dented, their faces lined with exhaustion and fear. They're clearly discussing something important - you catch fragments about 'the old city' and 'undead being drawn somewhere.' They stop talking when others approach, suggesting they know something valuable about the Soulmonger's location. *(This is the group mentioned in Perception and Insight checks)*
+>
+> At another corner table, a **survivor of a failed expedition** sits alone, looking traumatized. Their eyes are distant, and they flinch at sudden noises. They haven't touched their drink. This person has clearly been through something terrible in the jungle and might share honest information if approached carefully. *(Mentioned in Insight checks as a good source for honest information)*
+>
+> **Center Tables:**
+>
+> At a table in the center of the room, a **merchant** is deep in conversation with a **local guide**. The merchant gestures animatedly as they discuss trade routes and dangers, while the guide listens intently, occasionally nodding. Their conversation touches on failed expeditions and jungle dangers. *(Mentioned in Perception checks)*
+>
+> Nearby, another **guide** sits with **potential clients** - a group of nervous-looking newcomers to Port Nyanzaru. The guide is speaking earnestly, explaining the dangers of the jungle and the importance of hiring the right guide. They mention something about 'the old city' and undead being drawn to it. *(Mentioned in Perception checks)*
+>
+> **Other Patrons:**
+>
+> Scattered throughout the tavern are various other patrons:
+>
+> - A **group of experienced adventurers** at a larger table, laughing and sharing stories. They've clearly been to the jungle multiple times and might share valuable information if approached. *(Mentioned in Persuasion checks)*
+>
+> - An **older merchant** who's been in Port Nyanzaru for years, sitting alone and observing everything with a knowing eye. They have no agenda and know the real situation. *(Mentioned in Insight checks as a reliable source)*
+>
+> - A **merchant prince's agent** (you can tell by their fine clothes and confident bearing) moving between tables, subtly steering conversations. They're deliberately spreading false information about guide reputations to steer people toward specific guides. *(Mentioned in Insight checks)*
+>
+> - A **guide** who's clearly badmouthing rivals to get more business, talking loudly about how other guides have lost expeditions.
+>
+> - Various **locals, sailors, and other adventurers** filling the remaining tables, creating a constant background of conversation.
+>
+> **The Atmosphere:**
+>
+> The tavern is alive with conversation - every table seems to be discussing the jungle, the Death Curse, failed expeditions, or the dangers that await. The mood is a mix of excitement, fear, desperation, and opportunism. Some people are clearly trying to recruit for expeditions, while others are trying to discourage people from going. Information flows freely, but separating truth from rumor requires careful listening.
+>
+> As you find a table and order drinks, you can't help but overhear snippets of conversation floating through the air:
 >
 > '...expedition never returned...'
 > '...something in the jungle interior is drawing the undead...'
@@ -16,6 +58,8 @@
 > '...guide led them straight into a trap...'
 >
 > Every conversation seems to touch on the jungle, the Death Curse, or the dangers that await those foolish enough to venture beyond the city walls. Information flows freely here, but separating truth from rumor requires careful listening and a discerning ear."
+
+## What to Say (When Players Enter)
 
 ## What Players Find
 
@@ -71,35 +115,261 @@ If players need all essential information about tavern rumors at once, use this 
 
 **DC 12 Perception Check**: Overhear useful conversations and identify valuable information
 
-- **Success**: "You catch snippets of multiple conversations. You overhear mentions of failed expeditions, jungle dangers, the Death Curse's impact, and various rumors about the Soulmonger's location. You can identify which conversations might contain valuable information worth pursuing."
-- **Failure**: "The tavern is noisy and crowded, making it difficult to pick out individual conversations. You hear general chatter but nothing specific."
-- **Critical Success (17+)**: "Your hearing is sharp: you can clearly distinguish multiple conversations and identify specific valuable information. You overhear detailed mentions of expedition routes, specific jungle locations, guide reputations, and even rumors about the Soulmonger being in an 'old city' in the interior. You can identify which patrons have the most valuable information and which rumors are worth investigating further."
+**What to Say (Success):**
+
+> "As you listen to the tavern's conversations, you catch several interesting snippets:
+>
+> From a table of weathered adventurers: '...expedition never returned from the interior. Only two came back, and they were half-mad. Said something in the jungle is driving people insane...'
+>
+> From a merchant talking to a guide: '...another group disappeared last week. They had a guide, good supplies, everything. Just... gone. The jungle doesn't forgive mistakes...'
+>
+> From a group discussing the Death Curse: '...the curse is spreading. It's not just affecting those who were resurrected - it's getting stronger. Something's feeding it...'
+>
+> From a guide speaking to potential clients: '...they say the source of the curse is in the 'old city' - some ancient place deep in the jungle. No one knows exactly where, but the undead are drawn to it...'
+>
+> You can identify which conversations might contain valuable information worth pursuing further."
+
+**What to Say (Failure):**
+
+> "The tavern is noisy and crowded, making it difficult to pick out individual conversations. You hear general chatter about the jungle, expeditions, and the Death Curse, but nothing specific stands out."
+
+**What to Say (Critical Success - 17+):**
+
+> "Your hearing is sharp, and you can clearly distinguish multiple conversations throughout the tavern. Here's what you learn:
+>
+> **About Failed Expeditions:** You overhear that the Flaming Fist lost an entire patrol recently. Something's drawing the undead deeper into the jungle, and it's getting worse. Multiple expeditions have disappeared or returned broken.
+>
+> **About the Soulmonger:** You catch a detailed conversation where someone mentions the artifact is supposed to be in 'Omu' - the lost city. 'But no one's been there in centuries, and those who try don't come back.' Another person mentions an ancient ziggurat with an oracle that might have answers, but 'getting there is nearly impossible.'
+>
+> **About Jungle Dangers:** You hear that disease is everywhere - mosquitoes, contaminated water, the heat itself. 'You need protection, or you'll be dead in a week.' The dinosaurs are the least of your worries - 'there are things in the jungle that make dinosaurs look tame.'
+>
+> **About Guides:** You overhear that choosing a guide carefully is crucial. 'Some will lead you into danger, some will abandon you, and some have their own agendas that don't include your survival.'
+>
+> You can identify which patrons have the most valuable information - particularly a weathered guide at the corner table who seems to know more than they're sharing, and a group of adventurers who recently returned from the jungle."
 
 **DC 13 Investigation Check**: Verify rumors and separate truth from fiction
 
-- **Success**: "By listening carefully and cross-referencing different conversations, you can identify which rumors seem reliable versus which are likely false or exaggerated. You can separate useful information from mere gossip and identify leads worth pursuing."
-- **Failure**: "The rumors are difficult to verify, and you can't determine which information is reliable."
-- **Critical Success (18+)**: "Your investigation is thorough: you can cross-reference multiple conversations, identify patterns in the rumors, verify information through different sources, and even detect when the same false rumor is being spread by multiple people (suggesting deliberate misinformation). You can build a comprehensive picture of what's true, what's false, and what needs further investigation."
+**What to Say (Success):**
+
+> "By listening carefully and cross-referencing different conversations, you can identify which rumors seem reliable:
+>
+> **Verified as True:**
+>
+> - The jungle is extremely dangerous - multiple sources confirm this
+> - Disease is rampant - several people mention mosquitoes and contaminated water
+> - Guides are essential - everyone agrees on this
+> - The Soulmonger is in an 'old city' (Omu) in the interior - this comes up in multiple conversations
+> - Undead are being drawn toward something in the jungle - the Flaming Fist patrol story supports this
+> - Expeditions frequently fail or disappear - too many stories to be false
+>
+> **Likely Exaggerated:**
+>
+> - Specific guide reputations - may be biased or outdated
+> - Exact locations of ruins - may be approximate
+> - Details about the Soulmonger - mixes truth with speculation
+>
+> **Possibly False:**
+>
+> - Some exaggerated death counts
+> - Completely fictional locations mentioned by one source
+> - Outdated information presented as current
+>
+> You can separate useful information from mere gossip and identify leads worth pursuing - particularly the mentions of Omu and the oracle ziggurat."
+
+**What to Say (Failure):**
+
+> "The rumors are difficult to verify. You hear many conflicting stories, but you can't determine which information is reliable. Everything seems equally plausible or equally suspect."
+
+**What to Say (Critical Success - 18+):**
+
+> "Your investigation is thorough. By cross-referencing multiple conversations, you build a comprehensive picture:
+>
+> **Confirmed True Information:**
+>
+> - Omu is a real location - the 'old city' or 'Forbidden City' - mentioned by multiple independent sources
+> - The Soulmonger is likely there - the pattern of undead being drawn in that direction supports this
+> - There is an oracle ziggurat called Orolunga that might know the Soulmonger's location - mentioned by a guide who claims to have seen it from a distance
+> - Disease, dinosaurs, and undead are all real jungle dangers - too many first-hand accounts to dispute
+> - The Death Curse is getting stronger - multiple people who were resurrected confirm this
+>
+> **Detected False Information:**
+>
+> - You notice the same exaggerated story about 'hundreds of expeditions lost' being spread by multiple people, suggesting deliberate misinformation (possibly by someone trying to discourage competition)
+> - One person is clearly making up locations that don't exist - their stories don't match any known geography
+> - Some guide reputations are being slandered by rivals
+>
+> **Partially True (needs verification):**
+>
+> - Specific guide reputations - some seem reliable, others may be exaggerated
+> - Exact routes to locations - may be approximate
+> - Details about what the Soulmonger does - mixes known facts with speculation
+>
+> You can build a reliable picture: Omu is your best lead for finding the Soulmonger, and Orolunga might help you locate it. The jungle is extremely dangerous, and a good guide is essential."
 
 ### Additional Skill Checks
 
 **DC 11 Insight Check**: Read the mood and detect when information is being withheld
 
-- **Success**: "You can sense the general mood of the tavern - fear, excitement, desperation, or opportunism. You notice when people are holding back information or when conversations suddenly go quiet. You can identify which patrons might know more than they're sharing."
-- **Failure**: "The tavern's mood is difficult to read, and you can't determine if people are withholding information."
-- **Critical Success (16+)**: "Your insight is sharp: you can read the emotional landscape of the entire tavern, detect when specific individuals know more than they're sharing, sense hidden agendas or fears, and even identify which patrons might be spreading false information deliberately. You can identify the best people to approach for honest information."
+**What to Say (Success):**
+
+> "You can sense the general mood of the tavern - there's a mix of fear, excitement, desperation, and opportunism. You notice:
+>
+> - Several conversations suddenly go quiet when you approach, suggesting people are holding back information
+> - A group of adventurers in the corner are clearly discussing something important but speaking in hushed tones
+> - A guide at the bar seems to know more than they're sharing - they keep glancing around nervously
+> - Some patrons are clearly trying to recruit for expeditions, while others are trying to discourage people from going
+> - The overall atmosphere suggests people are both excited about opportunities in the jungle and terrified of the dangers
+>
+> You can identify which patrons might know more than they're sharing - particularly the guide at the bar and the group of adventurers in the corner."
+
+**What to Say (Failure):**
+
+> "The tavern's mood is difficult to read. People seem to be going about their business normally, and you can't determine if anyone is withholding information or has hidden agendas."
+
+**What to Say (Critical Success - 16+):**
+
+> "Your insight is sharp, and you can read the emotional landscape of the entire tavern:
+>
+> **People Holding Back Information:**
+>
+> - A guide at the bar (looks like they've seen a lot) knows more about Omu than they're sharing - they seem afraid to talk about it
+> - A group of adventurers in the corner are discussing something important but stop talking when others approach - they know something about the Soulmonger's location
+> - A merchant prince's agent is deliberately spreading false information about guide reputations - they're trying to steer people toward specific guides
+>
+> **Hidden Agendas:**
+>
+> - Several people are trying to recruit for expeditions but are downplaying the dangers
+> - One person is spreading exaggerated death counts to discourage competition
+> - A guide is badmouthing rivals to get more business
+>
+> **Best Sources for Honest Information:**
+>
+> - The weathered guide at the bar - they seem honest but afraid
+> - A survivor of a failed expedition (sitting alone, looks traumatized) - they'll tell the truth if approached carefully
+> - An older merchant who's been in Port Nyanzaru for years - they have no agenda and know the real situation
+>
+> You can identify the best people to approach for honest information and avoid those with hidden agendas."
 
 **DC 12 Persuasion Check**: Join conversations and get people to share information
 
-- **Success**: "Your friendly approach and genuine interest help you join conversations. People are willing to share information, especially if you buy drinks or show interest in their stories. You can gather useful rumors and information from multiple sources."
-- **Failure**: "People are polite but guarded, sharing only basic information or common knowledge."
-- **Critical Success (17+)**: "Your charisma and approach are so effective that people become quite talkative. They share detailed information, introduce you to other sources, and may even reveal information they normally wouldn't share. You might gain valuable leads, contacts, or even invitations to join expeditions or meet important NPCs."
+**What to Say (Success):**
+
+> "Your friendly approach and genuine interest help you join conversations. After buying a round of drinks, people become more talkative:
+>
+> **From a group of adventurers:**
+>
+> - 'The jungle is worse than you think. Disease, dinosaurs, undead - and that's just the start. We lost three people on our last expedition, and we barely made it back.'
+> - 'If you're going, get a good guide. Don't cheap out. The cheap ones will get you killed.'
+>
+> **From a local guide:**
+>
+> - 'I've heard the Soulmonger is in Omu - the old city. But getting there is nearly impossible. The undead are thick in that area, and the tribes are hostile.'
+> - 'There's an oracle ziggurat - Orolunga, they call it. Supposed to know where the Soulmonger is. But I've never been there myself.'
+>
+> **From a merchant:**
+>
+> - 'The Death Curse is getting worse. It started about a year ago, right when expeditions into the interior increased. Coincidence? I don't think so.'
+> - 'Something in the jungle is drawing the undead. They're all moving in one direction - toward the interior.'
+>
+> You gather useful rumors and information from multiple sources, and people are willing to share more if you continue to show interest."
+
+**What to Say (Failure):**
+
+> "People are polite but guarded. They share only basic information or common knowledge:
+>
+> - 'The jungle is dangerous' (everyone knows this)
+> - 'You need a guide' (obvious advice)
+> - 'The Death Curse is bad' (common knowledge)
+>
+> They don't open up or share detailed information, and conversations remain surface-level."
+
+**What to Say (Critical Success - 17+):**
+
+> "Your charisma and approach are so effective that people become quite talkative. Here's what you learn:
+>
+> **From a group of experienced adventurers (they invite you to join their table):**
+>
+> - 'We've been to the interior three times. The first time, we lost half our party. The second time, we barely escaped with our lives. The third time, we didn't even make it halfway.'
+> - 'The Soulmonger is definitely in Omu. We've seen the signs - the undead all move in that direction. Something powerful is calling them.'
+> - 'If you're serious about this, talk to [guide name]. They're expensive, but they know the routes and they actually care if you survive.'
+> - 'There's an oracle at Orolunga that might help you find Omu. But getting there is dangerous - you'll need to cross through Batiri goblin territory.'
+> - They offer to introduce you to their guide contact and share a rough map of known safe routes
+>
+> **From a guide who opens up:**
+>
+> - 'I've seen Omu from a distance. The ruins, the ziggurats... there's something wrong with that place. The undead don't just wander there - they're being called.'
+> - 'The oracle at Orolunga is real. I've met people who've been there. They say it knows where the Soulmonger is, but getting the answer requires a test or quest.'
+> - 'Here's what you need to know: disease is your biggest enemy. Get insect repellent, purify your water, and watch for symptoms. The heat will kill you if you're not careful.'
+> - They offer to share more detailed information if you hire them or do them a favor
+>
+> **From a merchant who becomes friendly:**
+>
+> - 'The Merchant Princes know more than they're sharing. They have their own expeditions, their own information networks. If you can get in good with one of them, they might help.'
+> - 'The Flaming Fist has been losing patrols. Something in the jungle is getting worse, and they're not telling the public everything.'
+> - They introduce you to a contact who might have more information
+>
+> You gain valuable leads, contacts, and potentially invitations to meet important NPCs or join expeditions."
 
 **DC 10 History Check**: Recall information that helps verify or contextualize rumors
 
-- **Success**: "Your historical knowledge helps you contextualize the rumors you hear. You can identify which stories align with known facts about Chult, which locations are real versus fictional, and which rumors might have a basis in truth."
-- **Failure**: "You can't determine if the rumors align with known facts about Chult."
-- **Critical Success (15+)**: "Your historical knowledge is extensive: you can verify many rumors against known facts about Chult's history, identify which locations mentioned are real, cross-reference stories with known events, and even identify when rumors are based on actual historical events versus pure fiction. You can build a reliable picture of what's likely true."
+**What to Say (Success):**
+
+> "Your historical knowledge helps you contextualize the rumors:
+>
+> **Verified Locations:**
+>
+> - Omu is a real place - the 'Forbidden City' of Chult, an ancient city that was abandoned centuries ago
+> - Orolunga is mentioned in historical texts as an oracle ziggurat, though its exact location is uncertain
+> - The jungle has always been dangerous, but the increase in undead activity is recent
+>
+> **Historical Context:**
+>
+> - Chult has a long history of lost cities and ancient ruins
+> - The peninsula has been largely unexplored due to its dangers
+> - There are records of previous expeditions that failed or disappeared
+>
+> **What Might Be True:**
+>
+> - Rumors about the Soulmonger being in an ancient city align with Chult's history of lost civilizations
+> - Stories about undead being drawn to a location could be based on real necromantic artifacts
+> - The timing of the Death Curse (about a year ago) might correlate with someone finding or activating the Soulmonger
+>
+> You can identify which stories align with known facts about Chult and which rumors might have a basis in truth."
+
+**What to Say (Failure):**
+
+> "You can't determine if the rumors align with known facts about Chult. The names and locations mentioned don't immediately ring a bell, and you don't have enough historical knowledge to verify the stories."
+
+**What to Say (Critical Success - 15+):**
+
+> "Your historical knowledge is extensive, and you can verify many rumors:
+>
+> **Confirmed Historical Facts:**
+>
+> - Omu is definitely real - it was the capital of a powerful Chultan empire that fell centuries ago. Historical records mention it was a city of great power and dark magic
+> - Orolunga is mentioned in ancient Chultan texts as a sacred oracle site, though its exact location was lost
+> - The pattern of undead being drawn to a location matches historical accounts of powerful necromantic artifacts
+> - The timing of the Death Curse (about a year ago) aligns with when expeditions into the interior increased significantly
+>
+> **Historical Patterns:**
+>
+> - Chult has a history of powerful artifacts being hidden in lost cities
+> - Previous attempts to explore the interior have often ended in disaster
+> - The peninsula's history suggests that powerful magical forces have been active there for centuries
+>
+> **What's Likely True:**
+>
+> - The Soulmonger being in Omu makes historical sense - it's exactly the kind of place where such an artifact would be hidden
+> - The oracle at Orolunga might genuinely know the location - oracles in Chultan history have been known to possess such knowledge
+> - The increase in undead activity suggests something powerful was recently activated or discovered
+>
+> **What's Likely False:**
+>
+> - Some of the exaggerated death counts don't match historical patterns
+> - A few mentioned locations don't appear in any historical records
+> - Some guide reputations seem to contradict known historical facts
+>
+> You can build a reliable picture: Omu and Orolunga are real places, and the rumors about the Soulmonger being in Omu are historically plausible. The oracle at Orolunga might genuinely be able to help locate it."
 
 ## Common Rumors Overheard
 
@@ -237,27 +507,203 @@ Players are in a tavern (Thundering Lizard or similar) when they overhear or par
 
 **DC 12 Perception Check**: Overhear the full conversation and catch all details
 
-- **Success**: "You catch the full conversation: the mention of Omu (the 'old city'), the connection to the Soulmonger and Death Curse, the fact that undead are being drawn there, and the urgency of the situation. You have a clear lead pointing to Omu as a potential location for the Soulmonger."
-- **Failure**: "The conversation is difficult to follow, and you only catch fragments - mentions of an 'old city' and something about undead, but the details are unclear."
-- **Critical Success (17+)**: "Your hearing is sharp: you catch every detail, including specific mentions of Omu, the ziggurats, the way undead are being drawn there, and even hints about the location's approximate direction. You also notice the guide seems to know more than they're sharing, and you can identify them for later questioning."
+**What to Say (Success):**
+
+> "You catch the full conversation from the nearby table:
+>
+> Adventurer 1: '...and I'm telling you, it's in the old city. I've seen the signs - the undead are all moving in that direction. Something's drawing them there, something powerful.'
+>
+> Adventurer 2: 'Omu? That's just a legend. No one's been there in centuries. And those who tried...' (they trail off)
+>
+> Guide: 'It's not a legend. I've seen it from a distance - the ruins, the ziggurats, the... wrongness of the place. The undead don't just wander there - they're being called. Something in that city is the source of the Death Curse, I'm certain of it.'
+>
+> Adventurer 1: 'And it's getting worse. The curse is spreading, getting stronger. Whatever's causing it, it's feeding on souls. We need to find it and destroy it before it's too late.'
+>
+> You have a clear lead pointing to Omu as a potential location for the Soulmonger."
+
+**What to Say (Failure):**
+
+> "The conversation is difficult to follow, and you only catch fragments - mentions of an 'old city' and something about undead being drawn somewhere, but the details are unclear. You can't make out the specific location name or the full context of what they're discussing."
+
+**What to Say (Critical Success - 17+):**
+
+> "Your hearing is sharp, and you catch every detail of the conversation:
+>
+> **Key Information:**
+>
+> - The 'old city' is called Omu
+> - The undead are being drawn there by something powerful
+> - The guide has seen Omu from a distance - mentions ruins and ziggurats
+> - The guide describes a 'wrongness' about the place
+> - The Soulmonger (source of the Death Curse) is likely in Omu
+> - The curse is getting worse and feeding on souls
+> - The guide mentions the undead are 'being called' rather than just wandering
+>
+> **Additional Observations:**
+>
+> - The guide seems to know more than they're sharing - they pause before saying 'wrongness' as if choosing their words carefully
+> - The adventurers seem genuinely concerned and believe what they're saying
+> - The guide appears to be the most knowledgeable source in the group
+> - You can identify the guide for later questioning - they're wearing a distinctive [describe guide's appearance]
+>
+> You have a very clear lead pointing to Omu, and you know which person to approach for more information."
 
 **DC 13 Investigation Check**: Verify the rumor and separate truth from speculation
 
-- **Success**: "By cross-referencing what you've heard with other information and asking around, you can verify that Omu is indeed a real location, that undead activity has been increasing in that direction, and that the connection to the Death Curse seems legitimate. This appears to be a reliable lead."
-- **Failure**: "The information is difficult to verify, and you can't determine if the rumor is reliable or just speculation."
-- **Critical Success (18+)**: "Your investigation is thorough: you can verify Omu's existence and location, confirm the undead activity patterns, cross-reference the information with other sources, and even discover additional details about the old city. You can build a comprehensive understanding of this lead and identify it as highly valuable."
+**What to Say (Success):**
+
+> "By cross-referencing what you've heard with other information and asking around the tavern, you can verify:
+>
+> **Confirmed:**
+>
+> - Omu is indeed a real location - multiple sources confirm it's the 'Forbidden City' of Chult
+> - Undead activity has been increasing in the direction of the interior - the Flaming Fist patrol story supports this
+> - The connection to the Death Curse seems legitimate - the timing and pattern match
+> - The guide who mentioned seeing it has a reputation for being reliable
+>
+> **Likely True:**
+>
+> - The Soulmonger being in Omu makes sense given the pattern of undead movement
+> - The guide's description of 'wrongness' aligns with other accounts of powerful necromantic sites
+>
+> **Speculation:**
+>
+> - Exact details about what the Soulmonger does or how it works
+> - Specific routes to Omu (the guide only saw it from a distance)
+>
+> This appears to be a reliable lead worth pursuing."
+
+**What to Say (Failure):**
+
+> "The information is difficult to verify. You can't find other sources that confirm Omu's existence or the connection to the Soulmonger. The rumor could be true, but it could also be speculation or exaggeration. You can't determine if this is a reliable lead."
+
+**What to Say (Critical Success - 18+):**
+
+> "Your investigation is thorough, and you can verify and expand on the information:
+>
+> **Verified Facts:**
+>
+> - Omu is definitely real - historical records confirm it was the capital of an ancient Chultan empire
+> - Undead activity patterns confirm they're being drawn toward the interior, specifically in the direction where Omu is located
+> - The guide who mentioned seeing it is well-respected and has a reputation for accurate observations
+> - Multiple independent sources confirm the connection between the Death Curse and something in the jungle interior
+> - The timing (Death Curse started about a year ago) aligns with when expeditions into the interior increased
+>
+> **Additional Details Discovered:**
+>
+> - Omu is also called the 'Forbidden City' and was abandoned centuries ago
+> - Historical records mention it was a center of powerful magic, including necromancy
+> - Previous expeditions that went in that direction either didn't return or came back changed
+> - The Flaming Fist has lost multiple patrols in that area
+> - There are rumors of an oracle at Orolunga that might know Omu's exact location
+>
+> **What's Speculation:**
+>
+> - Exact details about the Soulmonger's nature or appearance
+> - Specific routes to Omu (the guide only saw it from a distance)
+> - What exactly is causing the 'wrongness' the guide mentioned
+>
+> You can build a comprehensive understanding: Omu is almost certainly where the Soulmonger is located, and this is a highly valuable lead. The oracle at Orolunga might help you find the exact location."
 
 **DC 12 Persuasion Check**: Get the group to share more information
 
-- **Success**: "Your friendly approach and genuine interest help you join the conversation. The adventurers and guide are willing to share more details: rough directions to Omu, warnings about the dangers, and information about what to expect. They may even provide a rough map or additional clues."
-- **Failure**: "The group is guarded and doesn't share much beyond what you already overheard."
-- **Critical Success (17+)**: "Your approach is so effective that the group becomes quite helpful. They share detailed information about Omu's location, provide warnings about specific dangers, offer contacts or resources, and may even suggest guides who know the area. You gain valuable information and potential allies."
+**What to Say (Success):**
+
+> "Your friendly approach and genuine interest help you join the conversation. After buying a round of drinks, the group becomes more open:
+>
+> **The Guide Shares:**
+>
+> - 'Omu is real. I've seen it from a distance - maybe two weeks' travel from here, deep in the interior. The ruins are massive, and there's something... wrong about the place. The undead are thick there, and they're not just wandering - they're being called.'
+> - 'Getting there is dangerous. You'll need to cross through Batiri goblin territory, avoid the undead hordes, and navigate some of the most treacherous jungle in Chult.'
+> - 'If you're serious about this, you'll need a guide who knows the routes. Not many do, and those who do charge a premium.'
+>
+> **The Adventurers Share:**
+>
+> - 'We've seen the signs - the undead all move in that direction. Something powerful is calling them.'
+> - 'The Death Curse is getting worse. Whatever's causing it, it's feeding on souls. We need to destroy it before it's too late.'
+> - 'If you're going, be prepared. Disease, dinosaurs, undead, hostile tribes - the jungle will test you at every turn.'
+>
+> They may even provide a rough map showing the general direction to Omu (though not the exact route)."
+
+**What to Say (Failure):**
+
+> "The group is guarded and doesn't share much beyond what you already overheard:
+>
+> - 'The old city is dangerous' (you already know this)
+> - 'You need a guide' (obvious advice)
+> - 'The jungle is treacherous' (common knowledge)
+>
+> They're polite but don't open up or provide additional details, maps, or contacts."
+
+**What to Say (Critical Success - 17+):**
+
+> "Your approach is so effective that the group becomes quite helpful and shares detailed information:
+>
+> **The Guide Provides:**
+>
+> - A rough map showing the general direction to Omu (about two weeks' travel, deep in the interior)
+> - Warnings about specific dangers: 'Watch for Batiri goblin war parties, avoid the undead hordes that gather near Omu, and be careful of the terrain - there are swamps and difficult passes'
+> - Information about routes: 'There are a few ways to get there, but the safest is to follow the river for most of the journey, then cut inland. Avoid the direct route - that's where most expeditions get lost or killed'
+> - A contact: 'If you're looking for a guide who knows the area, talk to [guide name] at the guide's guild. They've been closer to Omu than anyone else I know, and they're reliable'
+> - Additional detail: 'The oracle at Orolunga might help you find the exact location. It's dangerous to get there, but if you can reach it, the oracle might give you the information you need'
+>
+> **The Adventurers Provide:**
+>
+> - Information about what to expect: 'The undead are thick near Omu. We saw hundreds of them, all moving in the same direction. Something powerful is calling them'
+> - Warnings: 'Don't go at night. The undead are more active then, and something else comes out at night - something worse'
+> - Contacts: 'If you need supplies, talk to [merchant name]. They know what you'll need for a journey like this'
+> - Encouragement: 'If you're going to try this, do it soon. The curse is getting worse, and we're running out of time'
+>
+> You gain valuable information, potential contacts, and a rough map. The group offers to help you prepare or introduce you to useful NPCs."
 
 **DC 11 Insight Check**: Detect if the information is reliable or if the speakers are exaggerating
 
-- **Success**: "You can sense the speakers are genuinely concerned and believe what they're saying. The guide seems to have real knowledge, and the adventurers appear to be sharing genuine experiences. The information seems reliable, though some details might be speculation."
-- **Failure**: "You can't determine if the speakers are being truthful or if they're exaggerating or speculating."
-- **Critical Success (16+)**: "Your insight is sharp: you can detect which parts of the conversation are based on real knowledge (the guide's observations, the undead activity) versus which are speculation (exact details about Omu, the Soulmonger's nature). You can identify the most reliable information and separate it from guesswork."
+**What to Say (Success):**
+
+> "You can sense the speakers are genuinely concerned and believe what they're saying:
+>
+> - The guide seems to have real knowledge - their description of seeing Omu from a distance feels authentic, and their hesitation when describing the 'wrongness' suggests they're choosing their words carefully rather than exaggerating
+> - The adventurers appear to be sharing genuine experiences - their fear and concern seem real, not performative
+> - The information seems reliable, though some details (like exact routes or what the Soulmonger looks like) might be speculation
+> - The guide's knowledge seems firsthand, while the adventurers' knowledge seems to be based on observations and secondhand information
+>
+> The information appears trustworthy, though you should verify specific details like routes and exact locations."
+
+**What to Say (Failure):**
+
+> "You can't determine if the speakers are being truthful or if they're exaggerating or speculating. They seem sincere, but you can't read their intentions or verify the reliability of their information."
+
+**What to Say (Critical Success - 16+):**
+
+> "Your insight is sharp, and you can detect exactly what's reliable versus what's speculation:
+>
+> **Based on Real Knowledge:**
+>
+> - The guide's observation about seeing Omu from a distance - this feels completely authentic. Their hesitation when describing the 'wrongness' suggests they're struggling to put into words something they genuinely experienced
+> - The pattern of undead being drawn toward the interior - this is based on real observations that multiple people have made
+> - The connection between the Death Curse and something in the jungle - this is based on logical deduction from observable facts
+>
+> **Speculation or Exaggeration:**
+>
+> - Exact details about what the Soulmonger does or how it works - the guide and adventurers are making educated guesses based on what they've observed, but they don't actually know
+> - Specific routes to Omu - the guide only saw it from a distance, so they're speculating about the best way to get there
+> - What exactly causes the 'wrongness' - this is the guide's subjective experience, and they're struggling to describe it
+> - The adventurer's claim that 'hundreds' of undead are there - this might be an exaggeration based on fear, though there are definitely many undead
+>
+> **What You Can Trust:**
+>
+> - Omu is real and is likely where the Soulmonger is located
+> - The undead are being drawn there
+> - The guide has genuinely seen it from a distance
+> - The journey is extremely dangerous
+>
+> **What Needs Verification:**
+>
+> - Exact routes and travel times
+> - Specific dangers and how to avoid them
+> - What the Soulmonger actually does (beyond causing the Death Curse)
+>
+> You can identify the most reliable information (Omu's location and the connection to the Soulmonger) and separate it from guesswork (specific details about routes and mechanics)."
 
 ### Reward
 
@@ -281,11 +727,11 @@ Use this encounter when you want to start the campaign with the party meeting Sy
 
 **Location:** Thundering Lizard Tavern (or similar), Port Nyanzaru
 
-### Encounter Setup
+### Meeting Syndra: Encounter Setup
 
 Players are in a tavern when they notice a gaunt, determined woman sitting alone at a corner table. She's clearly suffering from the Death Curse, and her desperate but determined demeanor sets her apart from the other patrons. She notices the party and gestures for them to join her.
 
-### Encounter Description
+### Meeting Syndra: Encounter Description
 
 > "The tavern is alive with conversation, but your attention is drawn to a corner table where a woman sits alone. She's in her middle years, her skin pale and drawn, with dark circles under her eyes. Withered patches mark her flesh where the Death Curse has taken hold - necrotic areas that seem to pulse with dark energy. Despite her weakened state, there's a fire in her eyes - the determination of someone who's faced death before and refused to yield.
 >
@@ -293,7 +739,7 @@ Players are in a tavern when they notice a gaunt, determined woman sitting alone
 >
 > As you approach, she speaks in a hoarse but steady voice: 'Adventurers. You've heard the rumors, haven't you? The dead stay dead. Resurrection magic fails. And those of us brought back from death's door... we're withering away.'"
 
-### Encounter Dialogue
+### Meeting Syndra: Encounter Dialogue
 
 > "She pulls back her sleeve, revealing a withered, necrotic arm. The flesh is blackened and shriveled, and you can see the curse spreading like dark veins beneath her skin. 'This curse affects the entire world. But I know its source: a necromantic artifact called the Soulmonger, hidden in the jungles of Chult. I was part of an expedition that found it once... and barely escaped with our lives.'
 >
@@ -301,7 +747,7 @@ Players are in a tavern when they notice a gaunt, determined woman sitting alone
 >
 > Her voice trembles with exhaustion and hope as she locks eyes with you. 'Please... I am dying. The curse is spreading, and I do not have much time. Will you help me? Will you try to save us all?'"
 
-### Encounter Options
+### Meeting Syndra: Encounter Options
 
 1. **Accept the quest** - Agree to help Syndra and travel to Chult
 2. **Ask about her background** - Learn more about her past expeditions and experience
@@ -311,7 +757,7 @@ Players are in a tavern when they notice a gaunt, determined woman sitting alone
 6. **Request more information** - Get details about the Soulmonger, previous expedition, or contacts
 7. **Observe the tavern** - Notice how other patrons react to Syndra (or don't notice her)
 
-### Encounter Skill Checks
+### Meeting Syndra: Encounter Skill Checks
 
 **DC 12 Perception Check**: Observe Syndra's physical condition and the tavern's reaction to her
 
@@ -362,7 +808,7 @@ Players are in a tavern when they notice a gaunt, determined woman sitting alone
 - **Background Conversations**: Rumors about the Death Curse and failed expeditions continue around you, creating an appropriate backdrop
 - **Privacy**: Syndra has chosen a corner table that provides some privacy, but the tavern's noise means your conversation won't be easily overheard
 
-### Reward
+### Meeting Syndra: Reward
 
 - **Quest Acceptance** - The main quest to find and destroy the Soulmonger
 - **Upfront Payment** - 5,000 gold pieces (or more if negotiated)
@@ -370,25 +816,27 @@ Players are in a tavern when they notice a gaunt, determined woman sitting alone
 - **Teleportation** - Direct transport to Port Nyanzaru
 - **Additional Benefits** - If negotiation is successful (journal, guide contact, sending stone)
 
-### Using This Encounter
+### Meeting Syndra: Using This Encounter
 
 - **For Fast-Track campaigns**: Use this as Scene 1 to quickly introduce the quest
 - **For organic introductions**: Provides a natural tavern meeting instead of a formal setting
 - **For atmosphere**: The tavern setting adds flavor and allows for additional interactions
 - **For information gathering**: Players can observe Syndra and use skill checks before committing
 
-### Navigation
+### Meeting Syndra: Navigation
 
 **After Accepting the Quest**:
+
 - → [Teleportation-to-Chult.md](../01-Introduction-and-Hook/Teleportation-to-Chult.md) - Syndra teleports the party to Port Nyanzaru
 
 **For More Detail**:
+
 - → [Syndra-Meeting.md](../01-Introduction-and-Hook/Syndra-Meeting.md) - Complete detailed Syndra meeting with all skill checks
 - → [Story-Setup.md](../01-Introduction-and-Hook/Story-Setup.md) - Full story setup and hook options
 
 ---
 
-## Navigation
+## File Navigation
 
 ### Next Steps
 

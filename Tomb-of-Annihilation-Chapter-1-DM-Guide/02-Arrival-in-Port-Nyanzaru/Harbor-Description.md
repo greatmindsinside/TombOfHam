@@ -10,13 +10,71 @@ Read this description aloud as the party arrives and takes in their surroundings
 
 **Location:** Port Nyanzaru Harbor
 
-## What to Say
+## Harbor Environment and NPCs
+
+**What to Say (Initial Description):**
 
 > "The port of Port Nyanzaru is a riot of color and activity. Brightly painted buildings in every hue line the waterfront - turquoise, crimson, gold, and emerald structures that seem to glow in the tropical sun. The air shimmers with heat and humidity, carrying the mingled scents of salt water, exotic spices, and something earthy and reptilian.
 >
-> Massive dinosaurs lumber through the streets, some pulling heavily laden wagons, others bearing riders in elaborate saddles. Smaller reptiles dart between the legs of merchants and sailors. The docks themselves are a cacophony of sound: vendors shouting in multiple languages, the creak of ropes and timbers, the splash of waves against hulls, and the occasional bellow or chirp from the beasts of burden.
+> **The Docks:**
 >
-> Ships from across Faerûn crowd the harbor - sleek Chultan longships with dragon-headed prows, sturdy Cormyrean galleys, and even a few Shou Lung junks. The city feels alive, thriving, and utterly alien compared to the temperate ports of the Sword Coast. This is clearly a place where wealth and danger walk hand in hand."
+> The docks stretch before you, a maze of wooden planks and stone quays where ships from across Faerûn crowd the harbor. The docks themselves are a cacophony of sound: vendors shouting in multiple languages, the creak of ropes and timbers, the splash of waves against hulls, and the occasional bellow or chirp from the beasts of burden.
+>
+> **Along the Docks:**
+>
+> - **Dockworkers** - Teams of laborers haul cargo on and off ships, their muscles glistening with sweat in the tropical heat. They work in organized groups, calling out to each other in Chultan and Common. Some are friendly and willing to chat, others are focused on their work.
+>
+> - **Merchants** - Several merchants have set up temporary stalls near the docks, selling supplies to arriving ships and expeditions. They call out prices and offer 'special deals for newcomers.'
+>
+> - **Vendors** - Food vendors move through the crowd, selling refreshments to dockworkers and sailors. They're friendly and chatty, often overhearing conversations.
+>
+> **Security Patrols:**
+>
+> - **Flaming Fist Guards** - Well-armed mercenaries wearing the tabards of the Flaming Fist patrol the docks in organized groups. They're professional and watchful, ensuring order and security.
+>
+> - **Merchant Prince Guards** - Guards bearing the symbols of various merchant princes protect specific areas and shipments. They're well-equipped and clearly represent powerful interests.
+>
+> - **City Watch** - Local guards patrol the general harbor area, maintaining order and responding to incidents. They're familiar with the port and its regulars.
+>
+> **Ships and Crews:**
+>
+> Ships from across Faerûn crowd the harbor:
+>
+> - **Chultan Longships** - Sleek vessels with dragon-headed prows, crewed by Chultan sailors who move with practiced efficiency.
+>
+> - **Cormyrean Galleys** - Sturdy ships with crews from the mainland, some unloading expedition supplies.
+>
+> - **Shou Lung Junks** - Exotic vessels with unique rigging, their crews speaking in unfamiliar languages.
+>
+> - **Other Vessels** - Various other ships from different regions, each with their own crews and purposes.
+>
+> **On the Streets:**
+>
+> Massive dinosaurs lumber through the streets leading from the harbor, some pulling heavily laden wagons, others bearing riders in elaborate saddles. Smaller reptiles dart between the legs of merchants and sailors.
+>
+> **Near the Harbor Entrance:**
+>
+> - **Guide Recruiters** - Several individuals with maps and equipment lists position themselves near the harbor entrance, ready to approach newcomers arriving in Port Nyanzaru.
+>
+> - **Information Brokers** - Some individuals offer to sell information about the city, guides, or jungle dangers to newcomers.
+>
+> - **Street Vendors** - Various vendors sell maps, basic supplies, and information to arriving adventurers.
+>
+> **Other NPCs:**
+>
+> Throughout the harbor area, you notice:
+>
+> - **Sailors** - Crew members from various ships, some sharing stories, others preparing for departure
+>
+> - **Adventurers** - Other groups arriving or preparing to leave, some already loaded with expedition gear
+>
+> - **Locals** - Chultan residents going about their business, familiar with the harbor's rhythms
+>
+> - **Potential Pickpockets** - A few individuals moving through the crowd with suspicious behavior (if Passive Perception is below 14)
+>
+> The city feels alive, thriving, and utterly alien compared to the temperate ports of the Sword Coast. This is clearly a place where wealth and danger walk hand in hand."
+
+## What to Say (When Players Arrive)
 
 ## What Players See
 

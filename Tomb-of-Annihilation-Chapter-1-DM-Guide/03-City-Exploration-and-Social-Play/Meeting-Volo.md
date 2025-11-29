@@ -6,13 +6,45 @@
 
 **Location:** Thundering Lizard Tavern, Port Nyanzaru
 
-## What to Say
+## Tavern Environment and NPCs
 
-> "You find a bustling tavern called the Thundering Lizard. Inside, adventurers, guides, and merchants mingle over drinks and food. The air is thick with conversation, the clink of tankards, and the occasional burst of laughter or argument.
+**What to Say (Initial Description):**
+
+> "The Thundering Lizard Tavern sprawls before you - a large, multi-level establishment that serves as Port Nyanzaru's primary gathering place for adventurers, guides, merchants, and anyone seeking information about the jungle. The air is thick with the smell of spiced ale, roasted meat, and the faint scent of sweat and leather from countless expeditions.
 >
-> In a corner, a flamboyant figure holds court. He's a middle-aged man with an elaborate mustache, wearing colorful but practical travel clothes. A quill and inkwell sit on the table before him, along with a half-finished manuscript. He's regaling a small crowd with animated tales, gesturing wildly as he speaks.
+> **The Main Floor:**
 >
-> 'Ah, newcomers!' he calls out as he spots you. 'Volothamp Geddarm, at your service! But you can call me Volo - everyone does. Come, sit! I've been waiting for adventurers like yourselves. I have stories to tell, and information that might just save your lives in the jungle ahead.'"
+> The ground level is a wide-open space with a high ceiling supported by thick wooden beams. A long bar runs along the back wall, well-stocked with local brews and exotic spirits. Behind it, a **bartender** - a middle-aged Chultan with a knowing smile - moves efficiently, occasionally checking on regulars and keeping an eye on the room's mood.
+>
+> **Volo's Corner:**
+>
+> In a prominent corner near the center of the room, a flamboyant figure holds court. **Volothamp Geddarm** - or Volo, as he introduces himself - sits at a large table surrounded by a small crowd of listeners. He's a middle-aged man with an elaborate mustache, wearing colorful but practical travel clothes. A quill and inkwell sit on the table before him, along with a half-finished manuscript and several empty tankards. He's regaling his audience with animated tales, gesturing wildly as he speaks, occasionally pausing to jot notes in his manuscript.
+>
+> **Around Volo's Table:**
+>
+> - **Three to four listeners** hang on Volo's words - a mix of newcomers to Port Nyanzaru and locals who seem entertained by his stories. They laugh at his jokes and nod along with his tales.
+> - **A guide** sits nearby, occasionally interjecting to correct or add to Volo's stories, clearly familiar with the explorer-author.
+> - **An adventurer** at a nearby table occasionally calls out questions or challenges to Volo's more dramatic claims, creating a friendly banter.
+>
+> **Other Patrons:**
+>
+> Throughout the tavern, various other patrons create a bustling atmosphere:
+>
+> - **Near the Bar:** A weathered guide sits nursing a drink, their eyes scanning the room. They look like they've seen a lot and seem to know more than they're sharing.
+>
+> - **Corner Tables:** A group of weathered adventurers sits huddled around a table, speaking in hushed tones about failed expeditions and jungle dangers.
+>
+> - **Center Tables:** Merchants discuss trade routes with guides, and various adventurers share stories and information.
+>
+> - **Throughout:** Locals, sailors, and other adventurers fill the remaining tables, creating a constant background of conversation about the jungle, the Death Curse, and expeditions.
+>
+> **The Atmosphere:**
+>
+> The tavern is alive with conversation - every table seems to be discussing the jungle, the Death Curse, failed expeditions, or the dangers that await. The mood is a mix of excitement, fear, desperation, and opportunism. Volo's corner is particularly animated, with his storytelling drawing attention and creating a focal point for the room.
+>
+> As you approach, Volo spots you and his eyes light up. 'Ah, newcomers!' he calls out, his voice carrying across the room. 'Volothamp Geddarm, at your service! But you can call me Volo - everyone does. Come, sit! I've been waiting for adventurers like yourselves. I have stories to tell, and information that might just save your lives in the jungle ahead.'"
+
+## What to Say (When Approaching Volo)
 
 ## Complete Essential Information Delivery
 

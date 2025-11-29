@@ -3,11 +3,77 @@
 *Official source: Buying special items: **p. 31***  
 *Reference: [D&D 5E - Tomb of Annihilation.pdf](../../D&D%205E%20-%20Tomb%20of%20Annihilation.pdf)*
 
-## What to Say
+## Market Environment and NPCs
 
-> "The Grand Souk is a maze of colorful stalls and bargaining merchants. Exotic spices scent the air, and vendors call out in a dozen languages. You can find almost anything here - from practical expedition gear to bizarre curiosities from across Chult.
+**What to Say (Initial Description):**
+
+> "The Grand Souk sprawls before you - a massive, open-air market that serves as Port Nyanzaru's commercial heart. The air is thick with the mingled scents of exotic spices, roasting meat, fresh produce, and the earthy smell of leather and canvas from expedition gear. Colorful awnings stretch overhead, providing shade from the tropical sun, while vendors call out in a dozen languages, creating a cacophony of commerce.
+>
+> **Market Layout:**
+>
+> The market is organized into sections, though the boundaries blur as you move through the maze of stalls:
+>
+> **Food and Rations Section:**
+>
+> - **Ration Merchant** - A practical Chultan merchant runs a well-stocked stall with preserved foods, dried meats, and hardtack. Their stall is organized and clean, suggesting quality goods. They're knowledgeable about expedition needs and can advise on quantities.
+>
+> - **Spice Merchant** - A colorful stall overflowing with exotic spices and seasonings. The merchant is friendly and chatty, offering samples and explaining which spices work best for jungle cooking.
+>
+> - **Produce Vendors** - Several vendors sell fresh fruits and vegetables, though most adventurers prefer preserved rations for jungle travel.
+>
+> **Water and Containers Section:**
+>
+> - **Water Container Merchant** - A serious merchant specializes in water storage - leather waterskins, ceramic jugs, and metal canteens. They emphasize durability and can explain which containers survive jungle conditions best.
+>
+> - **Rain Catcher Vendor** - A specialized merchant sells rain collection equipment - tarps, funnels, and storage systems. They're knowledgeable about water management in jungle conditions.
+>
+> **Expedition Gear Section:**
+>
+> - **Tent Merchant** - A practical merchant displays various tent options, from simple tarps to more elaborate shelters. They can explain which tents handle tropical storms and insect protection best.
+>
+> - **Equipment Merchant** - A well-organized stall with ropes, tools, torches, and other expedition essentials. The merchant is efficient and can help you identify what you need.
+>
+> - **Canoe Merchant** - Near the edge of the market, a merchant displays canoes and river travel equipment. They're knowledgeable about river routes and can advise on canoe selection.
+>
+> **Specialty Items Section:**
+>
+> - **Insect Repellent Merchant** - A merchant specializing in disease prevention sells various forms of insect repellent - pastes, oils, and treated clothing. They emphasize the importance of protection and can explain disease risks.
+>
+> - **Merchant Prince Jessamine's Representative** - A well-dressed representative sells high-quality insect repellent paste (5 gp) from Merchant Prince Jessamine's personal stock. They're professional and emphasize the superior quality of their product.
+>
+> - **Chultan Weapons Merchant** - A merchant sells traditional Chultan weapons like the yklwa (spear) and other local arms. They're knowledgeable about Chultan combat styles.
+>
+> - **Tej Merchant** - A merchant sells tej, the local Chultan alcoholic beverage. They're friendly and can explain local customs and traditions.
+>
+> **Other Merchants:**
+>
+> Throughout the market, you notice:
+>
+> - **General Merchants** - Various stalls selling a mix of goods, some offering 'special deals for adventurers'
+>
+> - **Curiosity Vendors** - Merchants selling bizarre items and curiosities from across Chult
+>
+> - **Repair Services** - Craftspeople offering to repair or modify equipment
+>
+> - **Information Brokers** - Some merchants also sell information about the jungle, routes, or dangers
+>
+> **Market Activity:**
+>
+> The market is alive with activity:
+>
+> - **Other Adventurers** - Groups shopping for supplies, some already loaded down with gear, others just starting their shopping
+>
+> - **Locals** - Chultan residents going about their daily shopping
+>
+> - **Merchants** - Calling out prices, haggling with customers, and managing their stalls
+>
+> - **Guards** - Market guards patrol the area, ensuring order and preventing theft
+>
+> - **Guide Recruiters** - Some recruiters position themselves near supply stalls, knowing that adventurers shopping for gear will need guides
 >
 > Merchants eye you appraisingly as you pass, recognizing newcomers who need to stock up for jungle expeditions. Some call out prices, others offer 'special deals for adventurers,' and a few simply watch, waiting for you to approach. The market is alive with the energy of commerce, but beneath the surface, you sense that every purchase matters - the wrong gear or the wrong merchant could mean the difference between survival and death in the jungle beyond."
+
+## What to Say (When Entering the Market)
 
 ## What Players Find
 

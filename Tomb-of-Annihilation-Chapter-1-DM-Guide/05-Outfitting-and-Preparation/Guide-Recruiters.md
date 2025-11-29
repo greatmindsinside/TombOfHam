@@ -3,11 +3,89 @@
 *Official source: Finding a guide: **pp. 33-35***  
 *Reference: [D&D 5E - Tomb of Annihilation.pdf](../../D&D%205E%20-%20Tomb%20of%20Annihilation.pdf)*
 
-## What to Say
+## Environment and NPCs
 
-> "As you explore Port Nyanzaru you notice several individuals who stand out from the crowd. They carry maps, equipment lists, and have the bearing of people who organize expeditions. These are guide recruiters, and they're actively seeking clients.
+**What to Say (Location: Tavern - Thundering Lizard or similar):**
+
+> "The tavern is bustling with activity, but several individuals stand out from the crowd. They carry rolled maps, equipment lists, and have the bearing of people who organize expeditions. These are guide recruiters, and they're actively seeking clients.
 >
-> One approaches you with a friendly smile. 'New to Port Nyanzaru, are you? Planning an expedition into the jungle? You'll need a guide - that's not optional, it's essential. The jungle kills the unprepared, and even experienced adventurers can get lost or worse without proper guidance. I represent several excellent guides, each with their own specialties. Let me introduce you to some options...'"
+> **Near the Bar:**
+>
+> A **recruiter** leans against the bar, casually observing newcomers as they enter. They're well-dressed but practical, with a leather satchel full of maps and documents. They make eye contact with you and give a friendly nod, clearly assessing whether you're potential clients.
+>
+> **At a Corner Table:**
+>
+> Another **recruiter** sits at a corner table with a **guide** they're representing. They're showing maps to a group of adventurers, pointing out routes and explaining different guide specialties. The guide looks experienced, with well-worn equipment and the confident bearing of someone who knows the jungle.
+>
+> **Near the Entrance:**
+>
+> A third **recruiter** positions themselves near the tavern entrance, ready to intercept newcomers. They carry a clipboard with a list of available guides and their specialties, and they're clearly looking for people who appear to be planning expeditions.
+>
+> **Other Patrons:**
+>
+> Throughout the tavern, you notice:
+>
+> - **Potential clients** - groups of adventurers discussing expedition plans, some already talking to recruiters
+> - **Guides** - several guides are present, some with recruiters, others waiting to be introduced to potential clients
+> - **Regular patrons** - locals and other adventurers who seem familiar with the recruitment process
+>
+> One recruiter approaches you with a friendly smile. 'New to Port Nyanzaru, are you? Planning an expedition into the jungle? You'll need a guide - that's not optional, it's essential. The jungle kills the unprepared, and even experienced adventurers can get lost or worse without proper guidance. I represent several excellent guides, each with their own specialties. Let me introduce you to some options...'"
+
+**What to Say (Location: Grand Souk Market):**
+
+> "The Grand Souk is a maze of colorful stalls and bargaining merchants, but several individuals stand out from the typical vendors. They carry maps and equipment lists rather than goods, and they have the bearing of people who organize expeditions rather than sell wares.
+>
+> **Near the Market Entrance:**
+>
+> A **recruiter** positions themselves at the market entrance, ready to approach newcomers. They're well-dressed and professional, with a leather satchel containing guide portfolios and route maps. They make eye contact with you and give a friendly nod.
+>
+> **At a Central Staging Area:**
+>
+> Another **recruiter** has set up a small table in a central area of the market, displaying maps and guide information. They're actively talking to a group of adventurers, explaining guide options and specialties. A **guide** stands nearby, ready to be introduced.
+>
+> **Near Supply Stalls:**
+>
+> A third **recruiter** positions themselves near the supply stalls, knowing that adventurers shopping for expedition gear will need guides. They're ready to approach anyone examining tents, rations, or other jungle supplies.
+>
+> **Market Activity:**
+>
+> Throughout the market, you notice:
+>
+> - **Merchants** selling expedition supplies, some of whom know the recruiters and may point you toward them
+> - **Adventurers** shopping for supplies, some already talking to recruiters about guide options
+> - **Guides** present in the market, some with recruiters, others independently seeking clients
+> - **Other shoppers** - locals and traders going about their business
+>
+> One recruiter approaches you with a friendly smile. 'New to Port Nyanzaru, are you? Planning an expedition into the jungle? You'll need a guide - that's not optional, it's essential. The jungle kills the unprepared, and even experienced adventurers can get lost or worse without proper guidance. I represent several excellent guides, each with their own specialties. Let me introduce you to some options...'"
+
+**What to Say (Location: Harbor/Docks):**
+
+> "The harbor is a riot of activity - ships unloading, dockworkers hauling cargo, and sailors preparing for voyages. But several individuals stand out from the typical harbor workers. They carry maps and equipment lists rather than cargo, and they have the bearing of people who organize expeditions rather than work the docks.
+>
+> **Near the Dock Entrance:**
+>
+> A **recruiter** positions themselves near where ships dock, ready to approach newcomers arriving in Port Nyanzaru. They're well-dressed and professional, with a leather satchel containing guide portfolios. They make eye contact with you and give a friendly nod.
+>
+> **At a Harbor-Side Staging Area:**
+>
+> Another **recruiter** has set up a small table near the harbor, displaying maps and guide information. They're actively talking to a group of adventurers who just arrived, explaining guide options and specialties. A **guide** stands nearby, ready to be introduced.
+>
+> **Near Expedition Supply Areas:**
+>
+> A third **recruiter** positions themselves near areas where expedition supplies are being loaded or unloaded, knowing that adventurers preparing for jungle travel will need guides. They're ready to approach anyone examining expedition gear.
+>
+> **Harbor Activity:**
+>
+> Throughout the harbor, you notice:
+>
+> - **Dockworkers** hauling cargo, some of whom know the recruiters and may point you toward them
+> - **Adventurers** arriving or preparing to leave, some already talking to recruiters about guide options
+> - **Guides** present in the harbor, some with recruiters, others independently seeking clients
+> - **Sailors and merchants** going about their business
+>
+> One recruiter approaches you with a friendly smile. 'New to Port Nyanzaru, are you? Planning an expedition into the jungle? You'll need a guide - that's not optional, it's essential. The jungle kills the unprepared, and even experienced adventurers can get lost or worse without proper guidance. I represent several excellent guides, each with their own specialties. Let me introduce you to some options...'"
+
+## What to Say (Generic - Use Appropriate Location Description Above)
 
 ## What Players See
 

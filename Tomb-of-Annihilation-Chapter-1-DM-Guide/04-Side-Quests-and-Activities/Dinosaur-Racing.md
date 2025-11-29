@@ -3,11 +3,58 @@
 *Official source: Dinosaur racing: **pp. 31-33***  
 *Reference: [D&D 5E - Tomb of Annihilation.pdf](../../D&D%205E%20-%20Tomb%20of%20Annihilation.pdf)*
 
-## What to Say
+## Arena Environment and NPCs
 
-> "The arena is packed with spectators, the air thick with excitement and the musky scent of dinosaurs. Brightly painted beasts snort and stamp, their riders adjusting saddles and exchanging last-minute tactics. The crowd roars as the starting signal sounds - a thunderous drumbeat that echoes through the stands.
+**What to Say (Initial Description):**
+
+> "The Malar's Throat arena rises before you - a massive, open-air structure that serves as Port Nyanzaru's premier entertainment venue. The air is thick with excitement, the musky scent of dinosaurs, and the roar of an enthusiastic crowd. Colorful banners flutter in the tropical breeze, and the sounds of drums and cheers echo throughout the structure.
+>
+> **The Arena Floor:**
+>
+> The racing track is a wide, dirt-packed course with various obstacles - fallen logs, mud pits, and sharp turns. The track is well-maintained but shows signs of heavy use from countless races.
+>
+> **The Starting Line:**
+>
+> At the starting line, several **racing dinosaurs** are being prepared:
+>
+> - **Deinonychus** - Sleek, fast predators with sharp claws, painted in various bright colors (emerald green, crimson, gold, turquoise)
+> - **Hadrosaurs** - Larger, more powerful dinosaurs used for longer races
+> - **Other racing species** - Various other dinosaurs suited for different race types
+>
+> **Jockeys and Handlers:**
+>
+> - **Professional Jockeys** - Experienced riders adjusting saddles, checking equipment, and exchanging last-minute tactics. They're confident and focused, clearly taking their profession seriously.
+> - **Dinosaur Handlers** - Assistants helping prepare the dinosaurs, checking their condition, and ensuring everything is ready for the race.
+> - **Race Organizers** - Officials managing the event, checking entries, and coordinating the races.
+>
+> **The Stands:**
+>
+> The stands are packed with spectators creating a vibrant, excited atmosphere:
+>
+> - **Betting Areas** - Several **bookmakers** have set up stations throughout the stands, taking bets and calling out odds. They're professional but watchful, clearly experienced in managing betting operations.
+> - **Merchant Prince Boxes** - Elevated viewing areas where **Merchant Princes** and their guests watch the races in comfort. They're well-dressed and clearly influential.
+> - **General Spectators** - A mix of locals, adventurers, sailors, and visitors fill the stands, creating a diverse and enthusiastic crowd.
+> - **Faction Representatives** - Some individuals in the crowd appear to be faction agents or representatives, using the social setting for networking.
+> - **Underworld Contacts** - Some individuals in the crowd have the bearing of criminals or underworld figures, using the racing scene for business or connections.
+>
+> **Other NPCs:**
+>
+> Throughout the arena, you notice:
+>
+> - **Food Vendors** - Moving through the stands selling refreshments and snacks
+> - **Information Brokers** - Some individuals offer to sell insider information about races or dinosaurs
+> - **Other Adventurers** - Groups of adventurers enjoying the spectacle, some placing bets, others just watching
+> - **Arena Guards** - Security personnel ensuring order and preventing trouble
+>
+> **The Atmosphere:**
+>
+> The arena is alive with energy - every race is an event, and the crowd is passionate about their favorites. The air is electric with anticipation, and you can feel the excitement building as the next race approaches. The musky scent of dinosaurs mixes with the smell of food, sweat, and the tropical air.
+>
+> Brightly painted beasts snort and stamp at the starting line, their riders adjusting saddles and exchanging last-minute tactics. The crowd roars as the starting signal sounds - a thunderous drumbeat that echoes through the stands.
 >
 > Your chosen dinosaur, a sleek deinonychus with emerald-green scales, explodes from the starting line. It weaves through the course, leaping over obstacles and outmaneuvering competitors. The crowd's cheers rise to a fever pitch as it crosses the finish line first!"
+
+## What to Say (When Entering the Arena)
 
 ## What Players See
 

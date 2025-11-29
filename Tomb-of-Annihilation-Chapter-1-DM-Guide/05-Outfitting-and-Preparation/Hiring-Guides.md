@@ -4,11 +4,78 @@
 *Pronunciation: Eku (EH-koo), Salida (sah-LEE-dah), Qawasha (kwah-WAH-shah), Azaka (ah-ZAH-kah)*  
 *Reference: [D&D 5E - Tomb of Annihilation.pdf](../../D&D%205E%20-%20Tomb%20of%20Annihilation.pdf)*
 
-## What to Say
+## Environment and NPCs
 
-> "Kwayothe gestures to several figures waiting in the antechamber. 'These are some of the best guides available in Port Nyanzaru. Each knows different parts of Chult and has their own... methods. They've all survived multiple expeditions, which is more than can be said for many who venture into the jungle.'
+**What to Say (Location: Merchant Prince Kwayothe's Office):**
+
+> "Kwayothe's office is an impressive space that reflects her status as one of Port Nyanzaru's Merchant Princes. The room is well-appointed with Chultan artwork, maps of the peninsula covering the walls, and a large desk where Kwayothe conducts business. The air carries the scent of expensive incense and the faint smell of paper and ink.
+>
+> **Kwayothe's Desk:**
+>
+> **Merchant Prince Kwayothe** sits behind a large, ornate desk, her bearing confident and professional. She's clearly a woman of power and influence, and her office reflects her status. Maps, documents, and expedition reports are organized on her desk, suggesting she's deeply involved in the guide business.
+>
+> **The Antechamber:**
+>
+> Beyond Kwayothe's main office, an antechamber serves as a waiting area where several guides wait to be introduced. The room is spacious, with comfortable seating and maps displayed on the walls showing various routes through Chult.
+>
+> **Guides Waiting in the Antechamber:**
+>
+> - **Niles Breakbone** (River Guide) - A gruff Chultan native stands near a map of river systems, his bearing practical and distrustful. His equipment shows signs of extensive river travel, and he watches newcomers with a wary eye.
+>
+> - **Ashton Greymane** (Jungle Guide) - A former Flaming Fist scout stands at attention near another map, his military bearing obvious. His equipment is well-maintained and professional, and he has the confident bearing of someone with military training.
+>
+> - **Lhara Quickstep** (Treasure Hunter Guide) - A cheerful halfling sits on a chair, examining a map of ruins and ancient sites. Her equipment includes various tools for treasure hunting, and she has an optimistic, adventurous demeanor.
+>
+> - **Qawasha** (Tribal Guide) - A mysterious Tabaxi hunter stands quietly in a corner, their connection to nature evident in their bearing and equipment. They watch the room with wise, knowing eyes, clearly comfortable in their own space.
+>
+> - **Other guides** may also be present, depending on availability and story needs.
+>
+> **Kwayothe's Staff:**
+>
+> - **An assistant** moves between the main office and antechamber, organizing documents and managing the flow of visitors
+> - **Guards** stand at the office entrance, ensuring security and order
+>
+> Kwayothe gestures to the figures waiting in the antechamber. 'These are some of the best guides available in Port Nyanzaru. Each knows different parts of Chult and has their own... methods. They've all survived multiple expeditions, which is more than can be said for many who venture into the jungle.'
 >
 > She pauses, her expression serious. 'Choosing a guide is one of the most important decisions you'll make. The wrong guide can lead you into danger or abandon you when things get tough. The right guide can mean the difference between life and death in the jungle. Each of these guides has their strengths, their weaknesses, and their own reasons for taking on expeditions. Interview them carefully. Ask about their experience, their methods, and what they expect from you. Choose wisely - your lives may depend on it.'"
+
+**What to Say (Location: Guide Guild Office):**
+
+> "The guide guild is a bustling, professional establishment dedicated to matching expeditions with qualified guides. The building is well-maintained, with maps covering the walls, expedition reports on display, and a sense of organized efficiency.
+>
+> **The Main Hall:**
+>
+> The main hall is a large, open space with several areas:
+>
+> - **Reception Area:** A **guild administrator** sits behind a counter, managing appointments and organizing guide-client meetings. They're professional and efficient, clearly experienced in matching expeditions with guides.
+>
+> - **Interview Rooms:** Several smaller rooms line the sides of the hall, where guides and clients can meet privately to discuss terms and expectations.
+>
+> - **Display Area:** Maps and information boards show available guides, their specialties, and their success rates. Expedition reports and testimonials are available for review.
+>
+> **Guides Present:**
+>
+> Throughout the hall, several guides are present, either waiting for clients or meeting with potential expeditions:
+>
+> - **Niles Breakbone** (River Guide) - Stands near a map of river systems, clearly in his element. He's gruff and practical, watching potential clients with a wary eye.
+>
+> - **Ashton Greymane** (Jungle Guide) - Maintains a professional, military bearing near the reception area. His equipment is well-maintained, and he clearly takes his work seriously.
+>
+> - **Lhara Quickstep** (Treasure Hunter Guide) - Moves between the display boards, examining information about various expeditions. She's cheerful and optimistic, clearly excited about potential adventures.
+>
+> - **Qawasha** (Tribal Guide) - Sits quietly in a corner, their connection to nature evident. They watch the room with wise, knowing eyes, clearly comfortable waiting for the right clients.
+>
+> - **Other guides** may also be present, depending on availability.
+>
+> **Other NPCs:**
+>
+> - **Guild recruiters** move through the hall, helping match clients with appropriate guides
+> - **Potential clients** - other adventurers seeking guides, some already in interviews
+> - **Guild staff** - assistants organizing documents and managing the flow of business
+>
+> A **guild recruiter** approaches you. 'Looking for a guide? We have several available, each with different strengths. Some know specific regions, others have connections with tribes or factions. What are you looking for? A guide who knows the jungle interior? One with tribal connections? Someone who can help you avoid Flaming Fist patrols? Tell me what you need, and I'll introduce you to the right candidates.'"
+
+## What to Say (When Meeting Guides)
 
 ## What Players See
 
