@@ -21,15 +21,19 @@ This fast-track version condenses Chapter 1 into essential scenes:
 
 ## Scene 1: The Hook
 
-**Location:** Wherever the party begins (tavern, meeting hall, or other starting location)
+**Location:** Thundering Lizard Tavern (or similar tavern), Port Nyanzaru
 
 ### What to Say
 
-> "Rumors have reached you of a terrible curse spreading across Faerûn: the dead remain dead, and those who were once restored to life are now wasting away. Resurrection magic no longer works anywhere in the world. Amid this crisis, a gaunt, determined woman named Syndra Silvane seeks you out. She reveals she is dying from this 'Death Curse'—and that she has discovered its source: a powerful necromantic artifact called the Soulmonger, hidden deep within the jungles of Chult.
+> "The tavern is alive with conversation, but your attention is drawn to a corner table where a gaunt, determined woman sits alone. Her skin is pale and drawn, with dark circles under her eyes. Withered patches mark her flesh where the Death Curse has taken hold. Despite her weakened state, there's a fire in her eyes - the determination of someone who's faced death before and refused to yield.
 >
-> She offers you 5,000 gold pieces now, plus whatever magic items you need from her collection, and her eternal gratitude. She'll teleport you directly to Port Nyanzaru, the only safe city in Chult. Find the Soulmonger. Destroy it. Save us all.
+> She notices you watching and gestures for you to join her. As you approach, she speaks in a hoarse but steady voice: 'Adventurers. You've heard the rumors, haven't you? The dead stay dead. Resurrection magic fails. And those of us brought back from death's door... we're withering away.'
 >
-> Her voice trembles with exhaustion and hope as she locks eyes with you. "Please... I am dying. The curse is spreading, and I do not have much time. Will you help me? Will you try to save us all?"
+> She pulls back her sleeve, revealing a withered, necrotic arm. 'This curse affects the entire world. But I know its source: a necromantic artifact called the Soulmonger, hidden in the jungles of Chult. I was part of an expedition that found it once... and barely escaped with our lives.'
+>
+> 'I offer you 5,000 gold pieces now, plus whatever magic items you need from my collection, and my eternal gratitude. I'll teleport you directly to Port Nyanzaru, the only safe city in Chult. Find the Soulmonger. Destroy it. Save us all.'
+>
+> Her voice trembles with exhaustion and hope as she locks eyes with you. 'Please... I am dying. The curse is spreading, and I do not have much time. Will you help me? Will you try to save us all?'"
 
 ### Quick Interaction
 
@@ -41,6 +45,7 @@ This fast-track version condenses Chapter 1 into essential scenes:
 
 ### For More Detail
 
+- **Full tavern encounter with Syndra**: [Tavern-Rumors.md](../04-Side-Quests-and-Activities/Tavern-Rumors.md#encounter-meeting-syndra-in-the-tavern) - Detailed Syndra meeting in the tavern with all skill checks and interactions (see "Encounter: Meeting Syndra in the Tavern" section)
 - **Full story setup and skill checks**: [Story-Setup.md](../01-Introduction-and-Hook/Story-Setup.md)
 - **Detailed Syndra meeting with all skill checks**: [Syndra-Meeting.md](../01-Introduction-and-Hook/Syndra-Meeting.md)
 

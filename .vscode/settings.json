@@ -1,0 +1,71 @@
+{
+  // Markdown Preview Settings
+  "workbench.editorAssociations": {
+    "*.md": "vscode.markdown.preview.editor"
+  },
+  
+  // Markdown Preview Styling
+  "markdown.preview.fontSize": 16,
+  "markdown.preview.lineHeight": 1.6,
+  "markdown.preview.fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+  "markdown.preview.breaks": true,
+  "markdown.preview.linkify": true,
+  "markdown.preview.typographer": true,
+  
+  // Markdown Editor Settings
+  "markdown.editor.wordWrap": "on",
+  "markdown.editor.quickSuggestions": {
+    "comments": "on",
+    "strings": "on",
+    "other": "on"
+  },
+  "markdown.extension.toc.updateOnSave": true,
+  "markdown.extension.preview.autoShowPreviewToSide": false,
+  
+  // General Editor Settings for Better Reading
+  "editor.wordWrap": "on",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.5,
+  "editor.minimap.enabled": true,
+  "editor.minimap.maxColumn": 120,
+  "editor.renderWhitespace": "boundary",
+  "editor.formatOnSave": false,
+  "editor.formatOnPaste": false,
+  
+  // File Explorer Settings
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "*.md": "${capture}.assets, ${capture}.images"
+  },
+  "explorer.sortOrder": "type",
+  
+  // Search Settings
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/*.code-search": true,
+    "**/.git": true
+  },
+  "search.useGlobalIgnoreFiles": true,
+  "search.smartCase": true,
+  
+  // Auto Save
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  
+  // File Associations
+  "files.associations": {
+    "*.md": "markdown"
+  },
+  
+  // Workspace Trust (for better security)
+  "security.workspace.trust.enabled": true,
+  
+  // Breadcrumbs for Navigation
+  "breadcrumbs.enabled": true,
+  "breadcrumbs.filePath": "on",
+  
+  // Better Link Navigation
+  "markdown.links.openLocation": "currentGroup"
+}
+
